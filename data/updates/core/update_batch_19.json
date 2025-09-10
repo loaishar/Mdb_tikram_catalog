@@ -1,0 +1,394 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9720188050109"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9720188060108"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream",
+        "aliases.en": [
+          "Cream"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290015599504"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Organic",
+        "aliases.en": [
+          "Organic"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5202390021121"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5202390021510"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290109640372"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Olives \" Coconut",
+        "aliases.en": [
+          "Olives \" Coconut"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290109640402"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Natural \" Coconut",
+        "aliases.en": [
+          "Natural \" Coconut"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593233"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593240"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Olives",
+        "aliases.en": [
+          "Olives"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874002289"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874002326"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Tomatoes",
+        "aliases.en": [
+          "Tomatoes"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5202390020407"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188094159"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".",
+        "aliases.en": [
+          "."
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_54051140"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Vanilla",
+        "aliases.en": [
+          "Vanilla"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3189076"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Shredded 22% Fat Fat",
+        "aliases.en": [
+          "Shredded 22% Fat Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_6920836"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Sliced",
+        "aliases.en": [
+          "Sliced"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_6920829"
+    },
+    "update": {
+      "$set": {
+        "name_en": "' Sliced",
+        "aliases.en": [
+          "' Sliced"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_6920911"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Sliced",
+        "aliases.en": [
+          "Sliced"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_6920935"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Sliced",
+        "aliases.en": [
+          "Sliced"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_6920843"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5384899"
+    },
+    "update": {
+      "$set": {
+        "name_en": "- 21% Fat",
+        "aliases.en": [
+          "- 21% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4229740"
+    },
+    "update": {
+      "$set": {
+        "name_en": "21% Fat",
+        "aliases.en": [
+          "21% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9957129"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073730330"
+    },
+    "update": {
+      "$set": {
+        "name_en": "22% Fat",
+        "aliases.en": [
+          "22% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3189274"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073594260"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Farm",
+        "aliases.en": [
+          "Farm"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3189045"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3578931"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese 20% Fat",
+        "aliases.en": [
+          "Cheese 20% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  }
+]

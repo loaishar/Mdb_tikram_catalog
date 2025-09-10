@@ -1,0 +1,711 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_571478"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Sliced",
+        "aliases.en": [
+          "Cheese Sliced"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Milk"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014692305"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Milk"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014692299"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Milk"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635215"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_40301"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Gad 24% FatFat",
+        "aliases.en": [
+          "Gad 24% FatFat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_40318"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese 24% Fat",
+        "aliases.en": [
+          "Cheese 24% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3161712996108"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635208"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073421825"
+    },
+    "update": {
+      "$set": {
+        "name_en": "29% FatShufersal",
+        "aliases.en": [
+          "29% FatShufersal"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014759985"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese /",
+        "aliases.en": [
+          "Cheese /"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110328474"
+    },
+    "update": {
+      "$set": {
+        "name_en": "' '",
+        "aliases.en": [
+          "' '"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290015039635"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Milk"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014455245"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108506709"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese '",
+        "aliases.en": [
+          "Cheese '"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3073781190618"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102397891"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_45580"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3073781190595"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3073781161700"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102300822"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese '",
+        "aliases.en": [
+          "Cheese '"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102300860"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese '",
+        "aliases.en": [
+          "Cheese '"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065786"
+    },
+    "update": {
+      "$set": {
+        "name_en": "'",
+        "aliases.en": [
+          "'"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108501360"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese '",
+        "aliases.en": [
+          "Cheese '"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Milk"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_121093"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_121109"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Olives",
+        "aliases.en": [
+          "Cheese Olives"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4324605"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese 7% Fat",
+        "aliases.en": [
+          "Cheese 7% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014759978"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese /",
+        "aliases.en": [
+          "Cheese /"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1258804"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290011499341"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese 26% Fat Fat",
+        "aliases.en": [
+          "Cheese 26% Fat Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065168"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014759992"
+    },
+    "update": {
+      "$set": {
+        "name_en": "26% Fat",
+        "aliases.en": [
+          "26% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4225285"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1258415"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014759084"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese 16% Fat",
+        "aliases.en": [
+          "Cheese 16% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014762831"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese + 25% Fat",
+        "aliases.en": [
+          "Cheese + 25% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4129118"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Olives",
+        "aliases.en": [
+          "Cheese Olives"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4129101"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Natural",
+        "aliases.en": [
+          "Cheese Natural"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4129156"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116932644"
+    },
+    "update": {
+      "$set": {
+        "name_en": "25% Fat",
+        "aliases.en": [
+          "25% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933078"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934365"
+    },
+    "update": {
+      "$set": {
+        "name_en": "16% Fat",
+        "aliases.en": [
+          "16% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7622201139278"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Cream 25% Fat Low",
+        "aliases.en": [
+          "Cheese Cream 25% Fat Low"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Low"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7622201798154"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Low Light 13% Fat",
+        "aliases.en": [
+          "Cheese Low Light 13% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Low"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7622201521493"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Low + . 12% Fat",
+        "aliases.en": [
+          "Low + . 12% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Low"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7622202030635"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Milk",
+        "aliases.en": [
+          "Milk"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Low"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290011499624"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Cream 30% FatNatural",
+        "aliases.en": [
+          "Cheese Cream 30% FatNatural"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065731"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".Cream . + 30% Fat",
+        "aliases.en": [
+          ".Cream . + 30% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635383"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Cream Onion 24% Fat",
+        "aliases.en": [
+          "Cheese Cream Onion 24% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635369"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Cream 16% Fat",
+        "aliases.en": [
+          "Cheese Cream 16% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5711953106590"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Cream",
+        "aliases.en": [
+          "Cheese Cream"
+        ],
+        "aliases.ar": []
+      }
+    }
+  }
+]

@@ -1,4 +1,41 @@
+#############################
+# General OS/editor junk
+#############################
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+.idea/
+.vscode/
 
+#############################
+# Python artifacts
+#############################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage*
 
-#Ignore vscode AI rules
+#############################
+# Env/config
+#############################
+.env
+.env.*
+
+#############################
+# Data caches/backups
+#############################
+*.bak
+*.old
+*.orig
+
+#############################
+# GitHub helper ignores (project-specific)
+#############################
 .github/instructions/codacy.instructions.md
+.github\\instructions\\codacy.instructions.md

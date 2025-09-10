@@ -1,0 +1,727 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_42015"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Pasteurized Milk3% Fat Mehadrin Bag",
+        "aliases.en": [
+          "Pasteurized Milk3% Fat Mehadrin Bag"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_42411"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Milk Bottle 3% Fat Yotvata",
+        "aliases.en": [
+          "Milk Bottle 3% Fat Yotvata"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_42435"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Pasteurized Milk 1% Fat in Carton",
+        "aliases.en": [
+          "Pasteurized Milk 1% Fat in Carton"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_56845"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Fresh Milk 3% Fat Carton",
+        "aliases.en": [
+          "Fresh Milk 3% Fat Carton"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_474076"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Homogenized Milk in Carton 3% Fat",
+        "aliases.en": [
+          "Homogenized Milk in Carton 3% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_522319"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Fresh Milk 3% Fat",
+        "aliases.en": [
+          "Fresh Milk 3% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4131074"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Milk in Carton 3% Fat Fat",
+        "aliases.en": [
+          "Milk in Carton 3% Fat Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102398065"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Milk 3% Fat in Carton Mehadrin",
+        "aliases.en": [
+          "Milk 3% Fat in Carton Mehadrin"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073224709"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Eggs L Shufersal",
+        "aliases.en": [
+          "Eggs L Shufersal"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1201589"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Eggs Packaged L",
+        "aliases.en": [
+          "Eggs Packaged L"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_46020"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Gilboa 22% Fat",
+        "aliases.en": [
+          "Cheese Gilboa 22% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9954364"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Gilboa Shredded",
+        "aliases.en": [
+          "Cheese Gilboa Shredded"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453468"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".Gilboa 22% Fat Sliced Packaged",
+        "aliases.en": [
+          ".Gilboa 22% Fat Sliced Packaged"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453659"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".Gilboa 22% Fat Shredded Packaged",
+        "aliases.en": [
+          ".Gilboa 22% Fat Shredded Packaged"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_55350"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Emek 28% Fat Block",
+        "aliases.en": [
+          "Cheese Emek 28% Fat Block"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Emek"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4725426"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Emek 28% Fat Mehadrin",
+        "aliases.en": [
+          "Cheese Emek 28% Fat Mehadrin"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Emek"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453444"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".Emek 28% Fat Sliced Packaged",
+        "aliases.en": [
+          ".Emek 28% Fat Sliced Packaged"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Emek"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453635"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".Emek 28% Fat Shredded Packaged",
+        "aliases.en": [
+          ".Emek 28% Fat Shredded Packaged"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Emek"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9954357"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Emek Shredded",
+        "aliases.en": [
+          "Cheese Emek Shredded"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Emek"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9954562"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Noam 22% Fat Shredded",
+        "aliases.en": [
+          "Noam 22% Fat Shredded"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102395422"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Noam Yellow Cheese22% Fat Farm",
+        "aliases.en": [
+          "Noam Yellow Cheese22% Fat Farm"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453734"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Noam 22% Fat Shredded Packaged",
+        "aliases.en": [
+          "Noam 22% Fat Shredded Packaged"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073626695"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Noam Yellow Cheese22% Fat Sliced",
+        "aliases.en": [
+          "Noam Yellow Cheese22% Fat Sliced"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102395408"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Noam Yellow Cheese28% Fat Block",
+        "aliases.en": [
+          "Noam Yellow Cheese28% Fat Block"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_47621"
+    },
+    "update": {
+      "$set": {
+        "name_en": "White Cheese 5% Fat Fat",
+        "aliases.en": [
+          "White Cheese 5% Fat Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_2824183"
+    },
+    "update": {
+      "$set": {
+        "name_en": "White Cheese Ski 5% Fat Fat",
+        "aliases.en": [
+          "White Cheese Ski 5% Fat Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Ski"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_2824640"
+    },
+    "update": {
+      "$set": {
+        "name_en": "White Cheese Ski 5% Fat",
+        "aliases.en": [
+          "White Cheese Ski 5% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Ski"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4127862"
+    },
+    "update": {
+      "$set": {
+        "name_en": "White Cheese 5% Fat Fat",
+        "aliases.en": [
+          "White Cheese 5% Fat Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_6664402"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese Ski5% FatFat",
+        "aliases.en": [
+          "Cheese Ski5% FatFat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Ski"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125400"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Eshel 4.5% Fat Fat",
+        "aliases.en": [
+          "Eshel 4.5% Fat Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125417"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Gil 3% Fat Fat Tnuva",
+        "aliases.en": [
+          "Gil 3% Fat Fat Tnuva"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125455"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream Tnuva 15% Fat Fat",
+        "aliases.en": [
+          "Cream Tnuva 15% Fat Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_43814"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream Long Life 38% Fat",
+        "aliases.en": [
+          "Cream Long Life 38% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "The White Chef"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_58047"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream Whipping 38% Fat",
+        "aliases.en": [
+          "Cream Whipping 38% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "The White Chef"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290104728310"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream Whipping 38% Fat",
+        "aliases.en": [
+          "Cream Whipping 38% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102390427"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Muller Wild Strawberry",
+        "aliases.en": [
+          "Yogurt Muller Wild Strawberry"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102390465"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".Whipped Peach+",
+        "aliases.en": [
+          ".Whipped Peach+"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102390489"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Muller Lemon",
+        "aliases.en": [
+          "Yogurt Muller Lemon"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102391844"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Muller Forest Fruits",
+        "aliases.en": [
+          "Yogurt Muller Forest Fruits"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102399635"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Muller Coconut Pineapple",
+        "aliases.en": [
+          "Muller Coconut Pineapple"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313681"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Whipped Pineapple Mango",
+        "aliases.en": [
+          "Yogurt Whipped Pineapple Mango"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313056"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt+Whipped Forest Fruits",
+        "aliases.en": [
+          "Yogurt+Whipped Forest Fruits"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313063"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Whipped Kiwi",
+        "aliases.en": [
+          "Yogurt Whipped Kiwi"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114311359"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Whipped Mango3% Fat",
+        "aliases.en": [
+          "Yogurt Whipped Mango3% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313674"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Whipped ' Coconut",
+        "aliases.en": [
+          "Yogurt Whipped ' Coconut"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114312660"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Muller Grapefruit",
+        "aliases.en": [
+          "Yogurt Muller Grapefruit"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102393169"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Strawberry+ 3% Fat",
+        "aliases.en": [
+          "Yogurt Strawberry+ 3% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102393176"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt+ Peach 3% Fat",
+        "aliases.en": [
+          "Yogurt+ Peach 3% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102393190"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt Forest Fruits+ 3% Fat",
+        "aliases.en": [
+          "Yogurt Forest Fruits+ 3% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102393947"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Yogurt",
+        "aliases.en": [
+          "Yogurt"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Muller"
+      }
+    }
+  }
+]
