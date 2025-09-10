@@ -1,0 +1,655 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7297488099890"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "شرائح 9% دسم",
+        "aliases.ar": [
+          "شرائح 9% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5202390015618"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073630814"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "شرائح",
+        "aliases.ar": [
+          "شرائح"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073630838"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "مبشورة",
+        "aliases.ar": [
+          "مبشورة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874001299"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874002043"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "مبشورة",
+        "aliases.ar": [
+          "مبشورة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593325"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593035"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874002340"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874001909"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593004"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "طبيعي",
+        "aliases.ar": [
+          "طبيعي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593011"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874002210"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "200 غرام",
+        "aliases.ar": [
+          "200 غرام"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874000063"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593301"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874000032"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' مبشور",
+        "aliases.ar": [
+          "' مبشور"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5292874001374"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "BLUE/",
+        "aliases.ar": [
+          "BLUE/"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3189199"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110329808"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة",
+        "aliases.ar": [
+          "فراولة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110329792"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حيوي دراق",
+        "aliases.ar": [
+          "حيوي دراق"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110329815"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حيوي",
+        "aliases.ar": [
+          "حيوي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110329822"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حيوي توت الغابة",
+        "aliases.ar": [
+          "حيوي توت الغابة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110329846"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حيوي طبيعي",
+        "aliases.ar": [
+          "حيوي طبيعي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325312"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حيوي فراولة 3% دسم",
+        "aliases.ar": [
+          "حيوي فراولة 3% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325305"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014760134"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا",
+        "aliases.ar": [
+          "فانيليا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014762800"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110324858"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019167082"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019167099"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019167105"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934488"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290018593202"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن",
+        "aliases.ar": [
+          "لبن"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3726615"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073345749"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073345756"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073345763"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "طبيعي",
+        "aliases.ar": [
+          "طبيعي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110322021"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110322014"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "طبيعي",
+        "aliases.ar": [
+          "طبيعي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110322038"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073345732"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "عضوي",
+        "aliases.ar": [
+          "عضوي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110328641"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "طبيعي",
+        "aliases.ar": [
+          "طبيعي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3726516"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8888351200124"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8888351200070"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110324711"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "9% دسم طبيعي",
+        "aliases.ar": [
+          "9% دسم طبيعي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110324728"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "9% دسم",
+        "aliases.ar": [
+          "9% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114320207"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "زيتون",
+        "aliases.ar": [
+          "زيتون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114320191"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114320214"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بصل",
+        "aliases.ar": [
+          "بصل"
+        ]
+      }
+    }
+  }
+]

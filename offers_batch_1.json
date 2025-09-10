@@ -1,0 +1,2854 @@
+[
+  {
+    "shufersal_id": "P_42015",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.35,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.64 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653467Z"
+    }
+  },
+  {
+    "shufersal_id": "P_42411",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 7.28,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.73 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653520Z"
+    }
+  },
+  {
+    "shufersal_id": "P_42435",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.85,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.69 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653549Z"
+    }
+  },
+  {
+    "shufersal_id": "P_56845",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 10.92,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.73 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653574Z"
+    }
+  },
+  {
+    "shufersal_id": "P_474076",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 7.28,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.73 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653596Z"
+    }
+  },
+  {
+    "shufersal_id": "P_522319",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 7.28,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.73 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653619Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4131074",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 7.28,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.73 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653643Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102398065",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 14.56,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.73 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653666Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7296073224709",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 14.09,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "1.17 ש\"ח ל- 1 יחידה",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653688Z"
+    }
+  },
+  {
+    "shufersal_id": "P_1201589",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 14.09,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "1.17 ש\"ח ל- 1 יחידה",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653709Z"
+    }
+  },
+  {
+    "shufersal_id": "P_46020",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653730Z"
+    }
+  },
+  {
+    "shufersal_id": "P_9954364",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653750Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7296073453468",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653775Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7296073453659",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653796Z"
+    }
+  },
+  {
+    "shufersal_id": "P_55350",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 52.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "52.3 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653816Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4725426",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 52.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "52.3 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653836Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7296073453444",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 52.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "52.3 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653855Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7296073453635",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 52.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "52.3 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653875Z"
+    }
+  },
+  {
+    "shufersal_id": "P_9954357",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 52.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "52.3 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653895Z"
+    }
+  },
+  {
+    "shufersal_id": "P_9954562",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653914Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102395422",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653934Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7296073453734",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653954Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7296073626695",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 49.72,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "49.72 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653973Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102395408",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 52.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "52.3 ש\"ח ל- 1 ק\"ג",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.653994Z"
+    }
+  },
+  {
+    "shufersal_id": "P_47621",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.81,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.32 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654015Z"
+    }
+  },
+  {
+    "shufersal_id": "P_2824183",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 11.62,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [],
+    "unit_price_info": "2.32 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654036Z"
+    }
+  },
+  {
+    "shufersal_id": "P_2824640",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.81,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.32 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654055Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4127862",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 17.43,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.32 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654076Z"
+    }
+  },
+  {
+    "shufersal_id": "P_6664402",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 17.43,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.32 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654097Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4125400",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 1.97,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.99 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654116Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4125417",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 1.76,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "0.88 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654135Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4125455",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 2.81,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "1.41 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654155Z"
+    }
+  },
+  {
+    "shufersal_id": "P_43814",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 7.56,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.02 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654174Z"
+    }
+  },
+  {
+    "shufersal_id": "P_58047",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 15.12,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.02 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654198Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290104728310",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 7.56,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.02 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654216Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102390427",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654235Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102390465",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654254Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102390489",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654275Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102391844",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654294Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102399635",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654313Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313681",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654332Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313056",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654352Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313063",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654371Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114311359",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654390Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313674",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654410Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114312660",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "4 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654431Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102393169",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.93 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654451Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102393176",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.93 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654470Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102393190",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.93 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654489Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290102393947",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.93 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654508Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114314053",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.93 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654527Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290119376636",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.15 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654546Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290119375356",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.15 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654578Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313070",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.7,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "6 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654611Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114310406",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.7,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "6 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654635Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313087",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.7,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "6 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654658Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313100",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.7,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "6 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654707Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112346797",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [],
+    "unit_price_info": "3.53 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654735Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110573638",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.3,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [],
+    "unit_price_info": "3.53 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654758Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290114313377",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 27.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.68 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654780Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290116933757",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.33 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654803Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4124205",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.87 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654826Z"
+    }
+  },
+  {
+    "shufersal_id": "P_51376",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.87 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654847Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4120108",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.87 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654869Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4121488",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.87 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654893Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4126759",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.87 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654916Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110327637",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.87 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654937Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112339362",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 4.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.2 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654957Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110558154",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 4.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.2 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.654978Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4121525",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 34.2,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.85 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655000Z"
+    }
+  },
+  {
+    "shufersal_id": "P_56883",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 34.2,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.85 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655021Z"
+    }
+  },
+  {
+    "shufersal_id": "P_56890",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 34.2,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.85 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655041Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290116935829",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 34.2,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.85 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655062Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290116933818",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 15.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.12 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655082Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290116933825",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 15.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.12 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655103Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290116933733",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 15.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.12 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655123Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290116933740",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 15.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.12 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655144Z"
+    }
+  },
+  {
+    "shufersal_id": "P_44712",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 12.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.5 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655166Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112347473",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 31.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.58 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655187Z"
+    }
+  },
+  {
+    "shufersal_id": "P_2824466",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 4.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [],
+    "unit_price_info": "2.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655208Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4584528",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 4.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [],
+    "unit_price_info": "2.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655229Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110561352",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 4.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [],
+    "unit_price_info": "2.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655249Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110573713",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.1,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.55 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655268Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110558284",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.1,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.55 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655287Z"
+    }
+  },
+  {
+    "shufersal_id": "P_57132",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 3.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "1.95 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655307Z"
+    }
+  },
+  {
+    "shufersal_id": "P_57149",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 3.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "1.95 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655325Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110328221",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.5 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655344Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112341679",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 4.8,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.4 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655362Z"
+    }
+  },
+  {
+    "shufersal_id": "P_4129736",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 5.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2.5 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655381Z"
+    }
+  },
+  {
+    "shufersal_id": "P_72964422",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 4.0,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "2 ש\"ח ל- 100 מ\"ל",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655400Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110565527",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655418Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290110566975",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655437Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290119384242",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655455Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112336712",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655474Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112330352",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655493Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112330390",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655511Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290112355027",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655530Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290119370177",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655548Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290119370955",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655567Z"
+    }
+  },
+  {
+    "shufersal_id": "P_7290119372997",
+    "merchant_id": {
+      "$oid": "68bf06365371c586220eb9f7"
+    },
+    "price": 6.5,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": {
+          "$date": "2025-01-31T00:00:00Z"
+        }
+      }
+    ],
+    "unit_price_info": "3.25 ש\"ח ל- 100 גרם",
+    "timestamp": {
+      "$date": "2025-09-08T19:55:48.655585Z"
+    }
+  }
+]

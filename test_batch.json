@@ -1,0 +1,308 @@
+[
+  {
+    "name": "חלב מפוסטר3% מהדרין שקית",
+    "brand": "Tnuva",
+    "size": "1 ל",
+    "description": "חלב מפוסטר3% מהדרין שקית - Tnuva",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JCY12_L_P_42015_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב מפוסטר3% מהדרין שקית",
+        "חלב מפוסטר3% מהדרין שקית תנובה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_42015",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473415Z"
+      }
+    }
+  },
+  {
+    "name": "חלב בקבוק 3% יטבתה",
+    "brand": "Yotvata",
+    "size": "1 ל",
+    "description": "חלב בקבוק 3% יטבתה - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JSE12_L_P_42411_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב בקבוק 3% יטבתה",
+        "חלב בקבוק 3% יטבתה יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_42411",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473502Z"
+      }
+    }
+  },
+  {
+    "name": "חלב מפוסטר 1% בקרטון",
+    "brand": "Tnuva",
+    "size": "1 ל",
+    "description": "חלב מפוסטר 1% בקרטון - Tnuva",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JTC18_L_P_42435_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב מפוסטר 1% בקרטון",
+        "חלב מפוסטר 1% בקרטון תנובה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_42435",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473557Z"
+      }
+    }
+  },
+  {
+    "name": "חלב טרי הומוגני 3% קרטון",
+    "brand": "Tnuva",
+    "size": "1.5 ל",
+    "description": "חלב טרי הומוגני 3% קרטון - Tnuva",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FBI28_L_P_56845_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב טרי הומוגני 3% קרטון",
+        "חלב טרי הומוגני 3% קרטון תנובה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_56845",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473598Z"
+      }
+    }
+  },
+  {
+    "name": "חלב הומוגני בקרטון 3%",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "חלב הומוגני בקרטון 3% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YGR28_L_P_474076_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב הומוגני בקרטון 3%",
+        "חלב הומוגני בקרטון 3% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_474076",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473637Z"
+      }
+    }
+  },
+  {
+    "name": "חלב טרי מהגולן 3%",
+    "brand": "Ramat HaGolan",
+    "size": "1 ל",
+    "description": "חלב טרי מהגולן 3% - Ramat HaGolan",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RQE22_L_P_522319_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב טרי מהגולן 3%",
+        "חלב טרי מהגולן 3% מחלבות רמת הגולן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_522319",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473670Z"
+      }
+    }
+  },
+  {
+    "name": "חלב בקרטון 3% שומן",
+    "brand": "Tnuva",
+    "size": "1 ל",
+    "description": "חלב בקרטון 3% שומן - Tnuva",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AAL20_L_P_4131074_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב בקרטון 3% שומן",
+        "חלב בקרטון 3% שומן תנובה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4131074",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473705Z"
+      }
+    }
+  },
+  {
+    "name": "חלב 3% בקרטון מהדרין",
+    "brand": "Tara",
+    "size": "2 ל",
+    "description": "חלב 3% בקרטון מהדרין - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CAS52_L_P_7290102398065_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב 3% בקרטון מהדרין",
+        "חלב 3% בקרטון מהדרין טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102398065",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473736Z"
+      }
+    }
+  },
+  {
+    "name": "ביצים L שופרסל",
+    "brand": "Shufersal",
+    "size": "12 יח",
+    "description": "ביצים L שופרסל - Shufersal",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VVI58_L_P_7296073224709_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ביצים L שופרסל",
+        "ביצים L שופרסל שופרסל"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073224709",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473907Z"
+      }
+    }
+  },
+  {
+    "name": "ביצים ארוזות L",
+    "brand": "לסר",
+    "size": "12 יח",
+    "description": "ביצים ארוזות L - לסר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ILY26_L_P_1201589_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ביצים ארוזות L",
+        "ביצים ארוזות L לסר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_1201589",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:45:26.473962Z"
+      }
+    }
+  }
+]

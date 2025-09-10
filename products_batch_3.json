@@ -1,0 +1,1540 @@
+[
+  {
+    "name": "אייס קפה 1.6% מעודן",
+    "brand": "Yotvata",
+    "size": "230 מ\"ל",
+    "description": "אייס קפה 1.6% מעודן - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QZX50_L_P_7290110563448_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "אייס קפה 1.6% מעודן",
+        "אייס קפה 1.6% מעודן יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290110563448",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808496Z"
+      }
+    }
+  },
+  {
+    "name": "משקה קפה קר שיבולת שועל",
+    "brand": "Yotvata",
+    "size": "230 מל",
+    "description": "משקה קפה קר שיבולת שועל - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ILT54_L_P_7290119380824_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "משקה קפה קר שיבולת שועל",
+        "משקה קפה קר שיבולת שועל יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290119380824",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808534Z"
+      }
+    }
+  },
+  {
+    "name": "שוקו יטבתה מארז",
+    "brand": "Yotvata",
+    "size": "225 מ\"ל",
+    "description": "שוקו יטבתה מארז - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IXL32_L_P_3029792_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שוקו יטבתה מארז",
+        "שוקו יטבתה מארז יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3029792",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808798Z"
+      }
+    }
+  },
+  {
+    "name": "שוקו בשקית יטבתה",
+    "brand": "Yotvata",
+    "size": "225 מ\"ל",
+    "description": "שוקו בשקית יטבתה - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KJG24_L_P_42855_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שוקו בשקית יטבתה",
+        "שוקו בשקית יטבתה יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_42855",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808835Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת חמוצה 15% מועשרת",
+    "brand": "Yotvata",
+    "size": "200 מ\"ל",
+    "description": "שמנת חמוצה 15% מועשרת - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IWX26_L_P_41858_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת חמוצה 15% מועשרת",
+        "שמנת חמוצה 15% מועשרת יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_41858",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.809052Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת מתוקה להקצפה 32%",
+    "brand": "Yotvata",
+    "size": "250 מ\"ל",
+    "description": "שמנת מתוקה להקצפה 32% - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CTT54_L_P_7290105368904_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת מתוקה להקצפה 32%",
+        "שמנת מתוקה להקצפה 32% יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290105368904",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826723Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת לבישול 9%",
+    "brand": "Yotvata",
+    "size": "250 מ\"ל",
+    "description": "שמנת לבישול 9% - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QXT44_L_P_7290106520912_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת לבישול 9%",
+        "שמנת לבישול 9% יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290106520912",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826925Z"
+      }
+    }
+  },
+  {
+    "name": "רוטב שמנת עם פטריות 9%",
+    "brand": "Yotvata",
+    "size": "250 מ\"ל",
+    "description": "רוטב שמנת עם פטריות 9% - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VKT54_L_P_7290106664562_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "רוטב שמנת עם פטריות 9%",
+        "רוטב שמנת עם פטריות 9% יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290106664562",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.827097Z"
+      }
+    }
+  },
+  {
+    "name": "רוטב שמנת קלאסי 9%",
+    "brand": "Yotvata",
+    "size": "259 ג",
+    "description": "רוטב שמנת קלאסי 9% - Yotvata",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XWF40_L_P_7290112343260_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "רוטב שמנת קלאסי 9%",
+        "רוטב שמנת קלאסי 9% יטבתה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290112343260",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.827172Z"
+      }
+    }
+  },
+  {
+    "name": "חלב הומוגני בקרטון 3%",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "חלב הומוגני בקרטון 3% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YGR28_L_P_474076_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב הומוגני בקרטון 3%",
+        "חלב הומוגני בקרטון 3% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_474076",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.793683Z"
+      }
+    }
+  },
+  {
+    "name": "חלב 3% בקרטון מהדרין",
+    "brand": "Tara",
+    "size": "2 ל",
+    "description": "חלב 3% בקרטון מהדרין - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CAS52_L_P_7290102398065_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב 3% בקרטון מהדרין",
+        "חלב 3% בקרטון מהדרין טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102398065",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.793812Z"
+      }
+    }
+  },
+  {
+    "name": "נעם צהובה 22% מגורדת",
+    "brand": "Tara",
+    "size": "מחיר לפי משקל",
+    "description": "נעם צהובה 22% מגורדת - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IQT40_L_P_9954562_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם צהובה 22% מגורדת",
+        "נעם צהובה 22% מגורדת טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9954562",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794528Z"
+      }
+    }
+  },
+  {
+    "name": "נעם גבינה צהובה22% במשק",
+    "brand": "Tara",
+    "size": "מחיר לפי משקל",
+    "description": "נעם גבינה צהובה22% במשק - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YDB46_L_P_7290102395422_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם גבינה צהובה22% במשק",
+        "נעם גבינה צהובה22% במשק טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102395422",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794567Z"
+      }
+    }
+  },
+  {
+    "name": "נעם 22% מגורד ארוז",
+    "brand": "Tara",
+    "size": "300 ג",
+    "description": "נעם 22% מגורד ארוז - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WPZ60_L_P_7296073453734_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם 22% מגורד ארוז",
+        "נעם 22% מגורד ארוז טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073453734",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794606Z"
+      }
+    }
+  },
+  {
+    "name": "נעם גבינה צהובה22% פרוס",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "נעם גבינה צהובה22% פרוס - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SMI68_L_P_7296073626695_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם גבינה צהובה22% פרוס",
+        "נעם גבינה צהובה22% פרוס טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073626695",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794659Z"
+      }
+    }
+  },
+  {
+    "name": "נעם גבינה צהובה28% חריץ",
+    "brand": "Tara",
+    "size": "מחיר לפי משקל",
+    "description": "נעם גבינה צהובה28% חריץ - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YCN50_L_P_7290102395408_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם גבינה צהובה28% חריץ",
+        "נעם גבינה צהובה28% חריץ טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102395408",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794709Z"
+      }
+    }
+  },
+  {
+    "name": "מעדן בטעםשוקולד וקצפת",
+    "brand": "Tara",
+    "size": "123 ג",
+    "description": "מעדן בטעםשוקולד וקצפת - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YFE56_L_P_7290102395477_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מעדן בטעםשוקולד וקצפת",
+        "מעדן בטעםשוקולד וקצפת טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102395477",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.803195Z"
+      }
+    }
+  },
+  {
+    "name": "מעדן מוו בטעם שוקולד",
+    "brand": "Tara",
+    "size": "100 ג",
+    "description": "מעדן מוו בטעם שוקולד - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZOQ60_L_P_7290102396399_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מעדן מוו בטעם שוקולד",
+        "מעדן מוו בטעם שוקולד טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102396399",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.803575Z"
+      }
+    }
+  },
+  {
+    "name": "מעדן מוו בטעם וניל מארז",
+    "brand": "Tara",
+    "size": "100 ג",
+    "description": "מעדן מוו בטעם וניל מארז - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZOW48_L_P_7290102396405_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מעדן מוו בטעם וניל מארז",
+        "מעדן מוו בטעם וניל מארז טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102396405",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.803633Z"
+      }
+    }
+  },
+  {
+    "name": "חלב נטול לקטוז מועשר 2%",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "חלב נטול לקטוז מועשר 2% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XFD42_L_P_7290114311328_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב נטול לקטוז מועשר 2%",
+        "חלב נטול לקטוז מועשר 2% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114311328",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים",
+        "2+\n                1+\n            \n\n            \n                \n                    \n                        \n                                \n                                    \n                                    ללא גלוטן\n                                \n                            \n                        \n                                \n                                    \n                                    ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.806082Z"
+      }
+    }
+  },
+  {
+    "name": "חלב נטול לקטוז מועשר2%",
+    "brand": "Tara",
+    "size": "1.5 ל",
+    "description": "חלב נטול לקטוז מועשר2% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VPG42_L_P_7290114310239_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב נטול לקטוז מועשר2%",
+        "חלב נטול לקטוז מועשר2% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114310239",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים",
+        "2+\n                1+\n            \n\n            \n                \n                    \n                        \n                                \n                                    \n                                    ללא גלוטן\n                                \n                            \n                        \n                                \n                                    \n                                    ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.806125Z"
+      }
+    }
+  },
+  {
+    "name": "חלב מועשר סידן+D קרטון3%",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "חלב מועשר סידן+D קרטון3% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XKD46_L_P_7290114311458_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב מועשר סידן+D קרטון3%",
+        "חלב מועשר סידן+D קרטון3% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114311458",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.806202Z"
+      }
+    }
+  },
+  {
+    "name": "חלב נטול לקטוז וניל 2%",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "חלב נטול לקטוז וניל 2% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZSD40_L_P_7290114313018_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב נטול לקטוז וניל 2%",
+        "חלב נטול לקטוז וניל 2% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114313018",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.806241Z"
+      }
+    }
+  },
+  {
+    "name": "שוקו מועשר טרה בקבוק",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "שוקו מועשר טרה בקבוק - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CTT52_L_P_7290102398560_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שוקו מועשר טרה בקבוק",
+        "שוקו מועשר טרה בקבוק טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102398560",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.807684Z"
+      }
+    }
+  },
+  {
+    "name": "אייס קפוצ'ינו",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "אייס קפוצ'ינו - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CXY62_L_P_7290102398669_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "אייס קפוצ'ינו",
+        "אייס קפוצ'ינו טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102398669",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.807726Z"
+      }
+    }
+  },
+  {
+    "name": "משקה חלב צמר גפן מתוק",
+    "brand": "Tara",
+    "size": "1 ל",
+    "description": "משקה חלב צמר גפן מתוק - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZWF38_L_P_7290114313124_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "משקה חלב צמר גפן מתוק",
+        "משקה חלב צמר גפן מתוק טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114313124",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.807765Z"
+      }
+    }
+  },
+  {
+    "name": "שוקו מועשר טרה בקבוק",
+    "brand": "Tara",
+    "size": "250 מ\"ל",
+    "description": "שוקו מועשר טרה בקבוק - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CUK60_L_P_7290102398577_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שוקו מועשר טרה בקבוק",
+        "שוקו מועשר טרה בקבוק טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102398577",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808040Z"
+      }
+    }
+  },
+  {
+    "name": "משקה חלב בננה",
+    "brand": "Tara",
+    "size": "250 מ\"ל",
+    "description": "משקה חלב בננה - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WDO36_L_P_7290114310611_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "משקה חלב בננה",
+        "משקה חלב בננה טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114310611",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808078Z"
+      }
+    }
+  },
+  {
+    "name": "משקה חלב אייס קפוצ'ינו",
+    "brand": "Tara",
+    "size": "250 מ\"ל",
+    "description": "משקה חלב אייס קפוצ'ינו - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WTB34_L_P_7290114311014_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "משקה חלב אייס קפוצ'ינו",
+        "משקה חלב אייס קפוצ'ינו טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114311014",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808117Z"
+      }
+    }
+  },
+  {
+    "name": "משקה חלב צמר גפן מתוק",
+    "brand": "Tara",
+    "size": "250 מ\"ל",
+    "description": "משקה חלב צמר גפן מתוק - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZVY40_L_P_7290114313117_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "משקה חלב צמר גפן מתוק",
+        "משקה חלב צמר גפן מתוק טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114313117",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.808198Z"
+      }
+    }
+  },
+  {
+    "name": "קוטג וחצי 5%",
+    "brand": "Tara",
+    "size": "375 ג",
+    "description": "קוטג וחצי 5% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/BLW62_L_P_7290102397679_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קוטג וחצי 5%",
+        "קוטג וחצי 5% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102397679",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.809314Z"
+      }
+    }
+  },
+  {
+    "name": "מסקרפונה 38%",
+    "brand": "Tara",
+    "size": "250 ג",
+    "description": "מסקרפונה 38% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YMG48_L_P_7290114312189_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מסקרפונה 38%",
+        "מסקרפונה 38% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114312189",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.809859Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת טוב טעם 3% שומן",
+    "brand": "Tara",
+    "size": "250 ג",
+    "description": "גבינת טוב טעם 3% שומן - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YYN24_L_P_474540_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת טוב טעם 3% שומן",
+        "גבינת טוב טעם 3% שומן טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_474540",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810018Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה נעם ואקום28%",
+    "brand": "Tara",
+    "size": "500 ג",
+    "description": "גבינה צהובה נעם ואקום28% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WSE50_L_P_7290102394463_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה נעם ואקום28%",
+        "גבינה צהובה נעם ואקום28% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102394463",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810438Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה קלאסית28%נעם",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "גבינה צהובה קלאסית28%נעם - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XFY48_L_P_7290102394821_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה קלאסית28%נעם",
+        "גבינה צהובה קלאסית28%נעם טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102394821",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810630Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה נעם 22%",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "גבינה צהובה נעם 22% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ATP46_L_P_7290102397204_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה נעם 22%",
+        "גבינה צהובה נעם 22% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102397204",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810766Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה מגורדת",
+    "brand": "Tara",
+    "size": "500 ג",
+    "description": "גבינה צהובה מגורדת - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZJR26_L_P_474830_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה מגורדת",
+        "גבינה צהובה מגורדת טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_474830",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811256Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה נעם",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "מוצרלה נעם - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/BOM58_L_P_7290102397747_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה נעם",
+        "מוצרלה נעם טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102397747",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811637Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה נעם 30%",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "גאודה נעם 30% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XPQ36_L_P_7290114311601_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה נעם 30%",
+        "גאודה נעם 30% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114311601",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811843Z"
+      }
+    }
+  },
+  {
+    "name": "קשקבל פרוסות",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "קשקבל פרוסות - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DMN54_L_P_7290102399048_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קשקבל פרוסות",
+        "קשקבל פרוסות טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102399048",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814762Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת שמנת בטעם טבעי 5%",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "גבינת שמנת בטעם טבעי 5% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LTC28_L_P_1485019_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת שמנת בטעם טבעי 5%",
+        "גבינת שמנת בטעם טבעי 5% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_1485019",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817778Z"
+      }
+    }
+  },
+  {
+    "name": "נעם גבינה צהובה 15% במשק",
+    "brand": "Tara",
+    "size": "מחיר לפי משקל",
+    "description": "נעם גבינה צהובה 15% במשק - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YSH32_L_P_5079290_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם גבינה צהובה 15% במשק",
+        "נעם גבינה צהובה 15% במשק טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5079290",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819166Z"
+      }
+    }
+  },
+  {
+    "name": "נעם צהובה 15% מגורדת",
+    "brand": "Tara",
+    "size": "מחיר לפי משקל",
+    "description": "נעם צהובה 15% מגורדת - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KXB44_L_P_9956078_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם צהובה 15% מגורדת",
+        "נעם צהובה 15% מגורדת טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9956078",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819206Z"
+      }
+    }
+  },
+  {
+    "name": "גב.נעם 15% פרוס ארוז",
+    "brand": "Tara",
+    "size": "400 ג",
+    "description": "גב.נעם 15% פרוס ארוז - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WIJ60_L_P_7296073453536_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גב.נעם 15% פרוס ארוז",
+        "גב.נעם 15% פרוס ארוז טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073453536",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819246Z"
+      }
+    }
+  },
+  {
+    "name": "נעם 15% פרוס א",
+    "brand": "Tara",
+    "size": "200 ג",
+    "description": "נעם 15% פרוס א - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SKW66_L_P_7296073626657_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נעם 15% פרוס א",
+        "נעם 15% פרוס א טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073626657",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819287Z"
+      }
+    }
+  },
+  {
+    "name": "נועם גבינה צהובה 9% חריץ",
+    "brand": "Tara",
+    "size": "מחיר לפי משקל",
+    "description": "נועם גבינה צהובה 9% חריץ - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IED36_L_P_9954234_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נועם גבינה צהובה 9% חריץ",
+        "נועם גבינה צהובה 9% חריץ טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9954234",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819325Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה אמנטל נעם 30%",
+    "brand": "Tara",
+    "size": "מחיר לפי משקל",
+    "description": "גבינה אמנטל נעם 30% - Tara",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YWZ28_L_P_5079412_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה אמנטל נעם 30%",
+        "גבינה אמנטל נעם 30% טרה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5079412",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819782Z"
+      }
+    }
+  },
+  {
+    "name": "חלב טרי מהגולן 3%",
+    "brand": "Ramat HaGolan",
+    "size": "1 ל",
+    "description": "חלב טרי מהגולן 3% - Ramat HaGolan",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RQE22_L_P_522319_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלב טרי מהגולן 3%",
+        "חלב טרי מהגולן 3% מחלבות רמת הגולן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_522319",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.793728Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט של פעם 3% שומן",
+    "brand": "Ramat HaGolan",
+    "size": "400 ג",
+    "description": "יוגורט של פעם 3% שומן - Ramat HaGolan",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JBL16_L_P_2133520_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט של פעם 3% שומן",
+        "יוגורט של פעם 3% שומן מחלבת רמת הגולן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2133520",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.798851Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט עיזים 3.8% שומן",
+    "brand": "Ramat HaGolan",
+    "size": "400 ג",
+    "description": "יוגורט עיזים 3.8% שומן - Ramat HaGolan",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JAX20_L_P_2133506_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט עיזים 3.8% שומן",
+        "יוגורט עיזים 3.8% שומן מחלבת רמת הגולן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2133506",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.801480Z"
+      }
+    }
+  }
+]

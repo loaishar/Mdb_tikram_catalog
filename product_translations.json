@@ -1,0 +1,7426 @@
+[
+  {
+    "shufersal_id": "P_42015",
+    "name_he": "חלב מפוסטר3% מהדרין שקית",
+    "name_en": "Pasteurized Milk3% Fat Mehadrin Bag",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_42411",
+    "name_he": "חלב בקבוק 3% יטבתה",
+    "name_en": "Milk Bottle 3% Fat Yotvata",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_42435",
+    "name_he": "חלב מפוסטר 1% בקרטון",
+    "name_en": "Pasteurized Milk 1% Fat in Carton",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_56845",
+    "name_he": "חלב טרי הומוגני 3% קרטון",
+    "name_en": "Fresh Milk 3% Fat Carton",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1.5 ל"
+  },
+  {
+    "shufersal_id": "P_474076",
+    "name_he": "חלב הומוגני בקרטון 3%",
+    "name_en": "Homogenized Milk in Carton 3% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_522319",
+    "name_he": "חלב טרי מהגולן 3%",
+    "name_en": "Fresh Milk 3% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_4131074",
+    "name_he": "חלב בקרטון 3% שומן",
+    "name_en": "Milk in Carton 3% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290102398065",
+    "name_he": "חלב 3% בקרטון מהדרין",
+    "name_en": "Milk 3% Fat in Carton Mehadrin",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "2 ל"
+  },
+  {
+    "shufersal_id": "P_7296073224709",
+    "name_he": "ביצים L שופרסל",
+    "name_en": "Eggs L Shufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_1201589",
+    "name_he": "ביצים ארוזות L",
+    "name_en": "Eggs Packaged L",
+    "brand_he": "לסר",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_46020",
+    "name_he": "גבינת גלבוע 22%",
+    "name_en": "Cheese Gilboa 22% Fat",
+    "brand_he": "Gal",
+    "brand_en": "Gal",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9954364",
+    "name_he": "גבינת גלבוע מגורדת",
+    "name_en": "Cheese Gilboa Shredded",
+    "brand_he": "Gal",
+    "brand_en": "Gal",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453468",
+    "name_he": "גב.גלבוע 22% פרוס ארוז",
+    "name_en": ".Gilboa 22% Fat Sliced Packaged",
+    "brand_he": "Gal",
+    "brand_en": "Gal",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7296073453659",
+    "name_he": "גב.גלבוע 22% מגורד ארוז",
+    "name_en": ".Gilboa 22% Fat Shredded Packaged",
+    "brand_he": "Gal",
+    "brand_en": "Gal",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_55350",
+    "name_he": "גבינת עמק 28% חריץ",
+    "name_en": "Cheese Emek 28% Fat Block",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4725426",
+    "name_he": "גבינת עמק 28% מהדרין",
+    "name_en": "Cheese Emek 28% Fat Mehadrin",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453444",
+    "name_he": "גב.עמק 28% פרוס ארוז",
+    "name_en": ".Emek 28% Fat Sliced Packaged",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7296073453635",
+    "name_he": "גב.עמק 28% מגורדת ארוזה",
+    "name_en": ".Emek 28% Fat Shredded Packaged",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_9954357",
+    "name_he": "גבינת עמק מגורדת",
+    "name_en": "Cheese Emek Shredded",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9954562",
+    "name_he": "נעם צהובה 22% מגורדת",
+    "name_en": "Noam 22% Fat Shredded",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7290102395422",
+    "name_he": "נעם גבינה צהובה22% במשק",
+    "name_en": "Noam Yellow Cheese22% Fat Farm",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453734",
+    "name_he": "נעם 22% מגורד ארוז",
+    "name_en": "Noam 22% Fat Shredded Packaged",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073626695",
+    "name_he": "נעם גבינה צהובה22% פרוס",
+    "name_en": "Noam Yellow Cheese22% Fat Sliced",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290102395408",
+    "name_he": "נעם גבינה צהובה28% חריץ",
+    "name_en": "Noam Yellow Cheese28% Fat Block",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_47621",
+    "name_he": "גבינה לבנה 5% שומן",
+    "name_en": "White Cheese 5% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_2824183",
+    "name_he": "גבינה לבנה סקי 5% שומן",
+    "name_en": "White Cheese Ski 5% Fat Fat",
+    "brand_he": "סקי",
+    "brand_en": "Ski",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_2824640",
+    "name_he": "גבינה לבנה סקי 5%",
+    "name_en": "White Cheese Ski 5% Fat",
+    "brand_he": "סקי",
+    "brand_en": "Ski",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4127862",
+    "name_he": "גבינה לבנה 5% שומן",
+    "name_en": "White Cheese 5% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "750 ג"
+  },
+  {
+    "shufersal_id": "P_6664402",
+    "name_he": "גבינת סקי5%שומן",
+    "name_en": "Cheese Ski5% FatFat",
+    "brand_he": "סקי",
+    "brand_en": "Ski",
+    "size": "750 ג"
+  },
+  {
+    "shufersal_id": "P_4125400",
+    "name_he": "אשל לבן 4.5% שומן",
+    "name_en": "Eshel 4.5% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4125417",
+    "name_he": "גיל לבן 3% שומן תנובה",
+    "name_en": "Gil 3% Fat Fat Tnuva",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4125455",
+    "name_he": "שמנת תנובה 15% שומן",
+    "name_en": "Cream Tnuva 15% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_43814",
+    "name_he": "שמנת עמידה לקצפת 38%",
+    "name_en": "Cream Long Life 38% Fat",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_58047",
+    "name_he": "שמנת להקצפה 38%",
+    "name_en": "Cream Whipping 38% Fat",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290104728310",
+    "name_he": "שמנת להקצפה 38%",
+    "name_en": "Cream Whipping 38% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290102390427",
+    "name_he": "יוגורט פרופ מולר תות שדה",
+    "name_en": "Yogurt Muller Wild Strawberry",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102390465",
+    "name_he": "יוג.קציפת אפרסק+פסיפלורה",
+    "name_en": ".Whipped Peach+",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102390489",
+    "name_he": "יוגורט פרופ מולר לימון",
+    "name_en": "Yogurt Muller Lemon",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102391844",
+    "name_he": "יוגורט מולר פירות יער",
+    "name_en": "Yogurt Muller Forest Fruits",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102399635",
+    "name_he": "מולר פרופ קוקוס ואננס",
+    "name_en": "Muller Coconut Pineapple",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114313681",
+    "name_he": "יוגורט קציפת אננס מנגו",
+    "name_en": "Yogurt Whipped Pineapple Mango",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290114313056",
+    "name_he": "יוגורט+קציפת פירות יער",
+    "name_en": "Yogurt+Whipped Forest Fruits",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114313063",
+    "name_he": "יוגורט עם קציפת קיווי",
+    "name_en": "Yogurt Whipped Kiwi",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114311359",
+    "name_he": "יוגורט פרופ קציפת מנגו3%",
+    "name_en": "Yogurt Whipped Mango3% Fat",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290114313674",
+    "name_he": "יוגורט קציפת ליצ'י קוקוס",
+    "name_en": "Yogurt Whipped ' Coconut",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290114312660",
+    "name_he": "יוגורט פרופ מולר אשכולית",
+    "name_en": "Yogurt Muller Grapefruit",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102393169",
+    "name_he": "יוגורט תות+חתיכות פרי 3%",
+    "name_en": "Yogurt Strawberry+ 3% Fat",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290102393176",
+    "name_he": "יוגורט+חתיכות אפרסק 3%",
+    "name_en": "Yogurt+ Peach 3% Fat",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290102393190",
+    "name_he": "יוגורט פירות יער+פרי 3%",
+    "name_en": "Yogurt Forest Fruits+ 3% Fat",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290102393947",
+    "name_he": "יוגורט סימפלי פרוט קיוי",
+    "name_en": "Yogurt",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290114314053",
+    "name_he": "מולר יוגורט מנגו 3% שומן",
+    "name_en": "Muller Yogurt Mango 3% Fat Fat",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290119376636",
+    "name_he": "דנונה מולטי עם תפוח",
+    "name_en": "Danone",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290119375356",
+    "name_he": "דנונה מולטי קולגן",
+    "name_en": "Danone",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290114313070",
+    "name_he": "יוגורט פרופ מוקצף אפרסק",
+    "name_en": "Yogurt Peach",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "95 ג"
+  },
+  {
+    "shufersal_id": "P_7290114310406",
+    "name_he": "יוגורט פרופ קציפת תות",
+    "name_en": "Yogurt Whipped Strawberry",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "95 ג"
+  },
+  {
+    "shufersal_id": "P_7290114313087",
+    "name_he": "יוגורט מוקצף לימון וליים",
+    "name_en": "Yogurt Lemon",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "95 ג"
+  },
+  {
+    "shufersal_id": "P_7290114313100",
+    "name_he": "יוגורט פרופ מוקצף מלונענ",
+    "name_en": "Yogurt",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "95 ג"
+  },
+  {
+    "shufersal_id": "P_7290112346797",
+    "name_he": "אקטיביה שיבולת שועל שזיף",
+    "name_en": "",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573638",
+    "name_he": "אקטיביה ש\"ש פשתן וצ'יה",
+    "name_en": "\" '",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290114313377",
+    "name_he": "יוגורט בסגנון יווני 6.5%",
+    "name_en": "Yogurt 6.5% Fat",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_7290116933757",
+    "name_he": "יוגורט יופלה קידס תות 3%",
+    "name_en": "Yogurt Yoplait Strawberry 3% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4124205",
+    "name_he": "יופלה דיאט תות 0%",
+    "name_en": "Yoplait Strawberry 0% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_51376",
+    "name_he": "יופלה דיאט אננס 0%",
+    "name_en": "Yoplait Pineapple 0% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4120108",
+    "name_he": "יופלה דיאט 0%דובדבן",
+    "name_en": "Yoplait 0% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4121488",
+    "name_he": "יופלה דיאט 0% אפרסק",
+    "name_en": "Yoplait 0% Fat Peach",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4126759",
+    "name_he": "יופלה דיאט 0% פירות יער",
+    "name_en": "Yoplait 0% Fat Forest Fruits",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110327637",
+    "name_he": "יופלה דיאט קיווי 0%",
+    "name_en": "Yoplait Kiwi 0% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290112339362",
+    "name_he": "דנונה לייט בטעם קפוצ'ינו",
+    "name_en": "Danone Light '",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110558154",
+    "name_he": "דנונה לייט עוגת תפוחים",
+    "name_en": "Danone Light",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4121525",
+    "name_he": "יופלה אפרסק ותות 3% 6+2",
+    "name_en": "Yoplait Peach Strawberry 3% Fat 6+2",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150ג"
+  },
+  {
+    "shufersal_id": "P_56883",
+    "name_he": "יופלה 3% טעמים שונים",
+    "name_en": "Yoplait 3% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150ג"
+  },
+  {
+    "shufersal_id": "P_56890",
+    "name_he": "יופלה אננס/דובדבן 0%",
+    "name_en": "Yoplait Pineapple/ 0% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150ג"
+  },
+  {
+    "shufersal_id": "P_7290116935829",
+    "name_he": "יופלה תות 3% בד\"צ",
+    "name_en": "Yoplait Strawberry 3% Fat \"",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290116933818",
+    "name_he": "משקה יופלה אפרסק בננ1.6%",
+    "name_en": "Yoplait Peach 1.6% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "750 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290116933825",
+    "name_he": "משקה יופלה בננה תות1.6%",
+    "name_en": "Yoplait Strawberry1.6% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "750 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290116933733",
+    "name_he": "משקה יופל קידס תות 1.5%",
+    "name_en": "Strawberry 1.5% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "750 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290116933740",
+    "name_he": "משקה קידס בננה וניל 1.5%",
+    "name_en": "Vanilla 1.5% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "750 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_44712",
+    "name_he": "פרילי עם תות שדה 1.5%",
+    "name_en": "Wild Strawberry 1.5% Fat",
+    "brand_he": "פרילי",
+    "brand_en": "",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_7290112347473",
+    "name_he": "דנונה לייט תות ואפרסק",
+    "name_en": "Danone Light Strawberry Peach",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_2824466",
+    "name_he": "יוגורט ביו 0% שומן דנונה",
+    "name_en": "Yogurt Bio 0% Fat Fat Danone",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4584528",
+    "name_he": "יוגורט ביו 1.7% דנונה",
+    "name_en": "Yogurt Bio 1.7% Fat Danone",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110561352",
+    "name_he": "דנונה דל לקטוז",
+    "name_en": "Danone Low Lactose",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573713",
+    "name_he": "דנונה מולטי צ'יה",
+    "name_en": "Danone '",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110558284",
+    "name_he": "דנונה ביו מולטי",
+    "name_en": "Danone Bio",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_57132",
+    "name_he": "יוגורט תנובה 1.5%",
+    "name_en": "Yogurt Tnuva 1.5% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_57149",
+    "name_he": "יוגורט תנובה 3%",
+    "name_en": "Yogurt Tnuva 3% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110328221",
+    "name_he": "יוגורט תנובה נטול לקטוז",
+    "name_en": "Yogurt Tnuva Lactose",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290112341679",
+    "name_he": "אקטיביה 3% שומן",
+    "name_en": "3% Fat Fat",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4129736",
+    "name_he": "יופלה לבן מעודן 1.5%",
+    "name_en": "Yoplait 1.5% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_72964422",
+    "name_he": "יוגורט תנובה 4.5%שומן",
+    "name_en": "Yogurt Tnuva 4.5% FatFat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110565527",
+    "name_he": "דנונה פרו 20 גרם חלבון",
+    "name_en": "Danone 20 g Milk",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110566975",
+    "name_he": "דנונה פרו 20ג חלבון תות",
+    "name_en": "Danone 20 Milk Strawberry",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290119384242",
+    "name_he": "יוגורט פרו קרם לימון ללס",
+    "name_en": "Yogurt Lemon",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290112336712",
+    "name_he": "דנונה פרו 21 חלבון 0%",
+    "name_en": "Danone 21 Milk 0% Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290112330352",
+    "name_he": "דנונה פרו 20 גר וניל 0%",
+    "name_en": "Danone 20 Vanilla 0% Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290112330390",
+    "name_he": "דנונה פרו 20 פירות יער0%",
+    "name_en": "Danone 20 Forest Fruits0% Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290112355027",
+    "name_he": "דנונה פרו 20 קרמל מלוח",
+    "name_en": "Danone 20",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290119370177",
+    "name_he": "דנונה פרו לת\"ס בננה טופי",
+    "name_en": "Danone \"",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290119370955",
+    "name_he": "דנונה פרו לל\"ס וניל עוג.",
+    "name_en": "Danone \" Vanilla .",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290119372997",
+    "name_he": "דנונה פרו 20 רול קינמון",
+    "name_en": "Danone 20",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110552237",
+    "name_he": "דנונה פרו אפרסק מנגו",
+    "name_en": "Danone Peach Mango",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110558314",
+    "name_he": "דנונ.פרו ללא סוכר פיסטוק",
+    "name_en": ". Without",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110321031",
+    "name_he": "יופלה GO מועשר בחלבון",
+    "name_en": "Yoplait GO Enriched Milk",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5839078",
+    "name_he": "יוגורט דנונה ביו 3%",
+    "name_en": "Yogurt Danone Bio 3% Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290102395224",
+    "name_he": "יוגורט מולר נטורל 1.7%",
+    "name_en": "Yogurt Muller 1.7% Fat",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290014758100",
+    "name_he": "יוגורט ביו תנובה 3%",
+    "name_en": "Yogurt Bio Tnuva 3% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290107958035",
+    "name_he": "דנונה במתיקות מעודנת",
+    "name_en": "Danone",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4133511",
+    "name_he": "יופלה לבן מעודן 1.5%",
+    "name_en": "Yoplait 1.5% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150ג"
+  },
+  {
+    "shufersal_id": "P_7290107934473",
+    "name_he": "מארז יוגורט אקטיביה 1.5%",
+    "name_en": "Yogurt 1.5% Fat",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "150 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290112341686",
+    "name_he": "אקטיביה 3% מארז",
+    "name_en": "3% Fat",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290107936309",
+    "name_he": "יוגורט יווני לבן 6.5%",
+    "name_en": "Yogurt 6.5% Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_7290115678222",
+    "name_he": "דנונה יווני מארז",
+    "name_en": "Danone",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_43944",
+    "name_he": "יוגורט בכד 4% שומן",
+    "name_en": "Yogurt 4% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1.5 ל"
+  },
+  {
+    "shufersal_id": "P_45771",
+    "name_he": "יוגורט בכד 4% שומן",
+    "name_en": "Yogurt 4% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "3 ל"
+  },
+  {
+    "shufersal_id": "P_2133520",
+    "name_he": "יוגורט של פעם 3% שומן",
+    "name_en": "Yogurt 3% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065588",
+    "name_he": "יוגורט יווני 10%",
+    "name_en": "Yogurt 10% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "600 ג"
+  },
+  {
+    "shufersal_id": "P_6664532",
+    "name_he": "דנונה תות 3% שומן",
+    "name_en": "Danone Strawberry 3% Fat Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_6664693",
+    "name_he": "דנונה אפרסק3% שומן",
+    "name_en": "Danone Peach3% Fat Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290106668713",
+    "name_he": "דנונה פירות יער 3%",
+    "name_en": "Danone Forest Fruits 3% Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_40042",
+    "name_he": "יופלה תות 3% שומן",
+    "name_en": "Yoplait Strawberry 3% Fat Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_40066",
+    "name_he": "יופלה דובדבן 3%שומן",
+    "name_en": "Yoplait 3% FatFat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_40080",
+    "name_he": "יופלה אפרסק 3%שומן",
+    "name_en": "Yoplait Peach 3% FatFat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4130916",
+    "name_he": "יופלה פירות יער בשמנת 3%",
+    "name_en": "Yoplait Forest Fruits Cream 3% Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4121754",
+    "name_he": "יופלה עוגת קרם גבינה+תות",
+    "name_en": "Yoplait Cheese+Strawberry",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4119225",
+    "name_he": "יופלה אננס 3% שומן",
+    "name_en": "Yoplait Pineapple 3% Fat Fat",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_72961544",
+    "name_he": "באדי תות שדה 3% שומן",
+    "name_en": "Wild Strawberry 3% Fat Fat",
+    "brand_he": "באדי",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_72961506",
+    "name_he": "פרילי תות 1.5% שומן",
+    "name_en": "Strawberry 1.5% Fat Fat",
+    "brand_he": "פרילי",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_72964132",
+    "name_he": "פרילי טבע גרנולה ופירות",
+    "name_en": "",
+    "brand_he": "פרילי",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110321680",
+    "name_he": "יופלה GO תות",
+    "name_en": "Yoplait GO Strawberry",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110321697",
+    "name_he": "יופלה GO אפרסק",
+    "name_en": "Yoplait GO Peach",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110321703",
+    "name_he": "יופלה GO פירות יער",
+    "name_en": "Yoplait GO Forest Fruits",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116932620",
+    "name_he": "יוגורט גו נטול לקטוז",
+    "name_en": "Yogurt Lactose",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110323592",
+    "name_he": "יופלה GO אפרסק 0.7%",
+    "name_en": "Yoplait GO Peach 0.7% Fat",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110323585",
+    "name_he": "יופלה GO דובדבן 0.7%",
+    "name_en": "Yoplait GO 0.7% Fat",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290106729650",
+    "name_he": "דנונה תות 3% מארז",
+    "name_en": "Danone Strawberry 3% Fat",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_44880",
+    "name_he": "באדי תות שדה 3%שומן",
+    "name_en": "Wild Strawberry 3% FatFat",
+    "brand_he": "באדי",
+    "brand_en": "",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_50454",
+    "name_he": "יופלה אפרסק",
+    "name_en": "Yoplait Peach",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_3321155",
+    "name_he": "יוגורט קראנצ פקאן",
+    "name_en": "Yogurt",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "183 ג"
+  },
+  {
+    "shufersal_id": "P_7290010471669",
+    "name_he": "יוגורט קראנצ תות קורנפלק",
+    "name_en": "Yogurt Strawberry",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "175 ג"
+  },
+  {
+    "shufersal_id": "P_408354",
+    "name_he": "יוגורט קראנצ פצפוצים",
+    "name_en": "Yogurt",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "173 ג"
+  },
+  {
+    "shufersal_id": "P_7290102393039",
+    "name_he": "יוגורט מולר מיקס פצפוצים",
+    "name_en": "Yogurt Muller",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "170 ג"
+  },
+  {
+    "shufersal_id": "P_7290102393060",
+    "name_he": "יוגורט מולר מיקס גליליות",
+    "name_en": "Yogurt Muller",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "170 ג"
+  },
+  {
+    "shufersal_id": "P_7290102394081",
+    "name_he": "מולר מיקס קורנפלקס מצופה",
+    "name_en": "Muller",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "170 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397464",
+    "name_he": "ביאנקו פלוס+גרעינים,אגוז",
+    "name_en": "Plus+ ,",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "170 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397600",
+    "name_he": "מולר מיקס שקדים ובוטנים",
+    "name_en": "Muller",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "170 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397617",
+    "name_he": "מולר מיקס כדורי דגנים",
+    "name_en": "Muller",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "170 ג"
+  },
+  {
+    "shufersal_id": "P_7290116933801",
+    "name_he": "יופלה טופ תות קורנפלקס",
+    "name_en": "Yoplait Strawberry",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "157 ג"
+  },
+  {
+    "shufersal_id": "P_7290110326210",
+    "name_he": "יופלה און טופ פצפוצים",
+    "name_en": "Yoplait",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "157 ג"
+  },
+  {
+    "shufersal_id": "P_7290110326234",
+    "name_he": "יופלה און טופ כוכבים",
+    "name_en": "Yoplait",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "157 ג"
+  },
+  {
+    "shufersal_id": "P_7290116934457",
+    "name_he": "יוגורט טופ שברי עוגיות",
+    "name_en": "Yogurt",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "158 ג"
+  },
+  {
+    "shufersal_id": "P_7290119377480",
+    "name_he": "יוגורט פרו עם שוקולד",
+    "name_en": "Yogurt",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "178 ג"
+  },
+  {
+    "shufersal_id": "P_7290116932484",
+    "name_he": "יוגורט גו אוורירי וניל",
+    "name_en": "Yogurt Vanilla",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110328627",
+    "name_he": "יוגורט גו קרמי בננה קרמל",
+    "name_en": "Yogurt",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110328764",
+    "name_he": "יוגורט גו קרמי תות 0%",
+    "name_en": "Yogurt Strawberry 0% Fat",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110328788",
+    "name_he": "יוגורט גו קרמי אפרסק 0%",
+    "name_en": "Yogurt Peach 0% Fat",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110329952",
+    "name_he": "יוגורט גו סמיך 0.4%קוקוס",
+    "name_en": "Yogurt 0.4% FatCoconut",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116934402",
+    "name_he": "יוגורט חלבון גו",
+    "name_en": "Yogurt Milk",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116935621",
+    "name_he": "יוגורט 23ג חלבון וניל גו",
+    "name_en": "Yogurt 23 Milk Vanilla",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116935898",
+    "name_he": "יוגורט גו אפרסק פסיפלורה",
+    "name_en": "Yogurt Peach",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290102399819",
+    "name_he": "מולר פרוטאין יוגור.פירות",
+    "name_en": "Muller .",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290114310536",
+    "name_he": "מולר אקטיב לייט וניל",
+    "name_en": "Muller Light Vanilla",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290102399796",
+    "name_he": "מולר אקטיב לבן חלבון 25ג",
+    "name_en": "Muller Milk 25",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290114311069",
+    "name_he": "מולר אקטיב לבן0% 25חלבון",
+    "name_en": "Muller 0% Fat 25Milk",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116930701",
+    "name_he": "מעדן חלב גו בטעם קרמל",
+    "name_en": "Milk",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "120 ג"
+  },
+  {
+    "shufersal_id": "P_7290110557102",
+    "name_he": "מעדן חלב שוקולד מועשר",
+    "name_en": "Milk Enriched",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110571382",
+    "name_he": "מעדן בטעם וניל מועשר",
+    "name_en": "Vanilla Enriched",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110558703",
+    "name_he": "מעדן חלבון ללת\"ס שוקולד",
+    "name_en": "Milk \"",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110325121",
+    "name_he": "משקה יוגורט GO מנגו אננס",
+    "name_en": "Yogurt GO Mango Pineapple",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110325114",
+    "name_he": "משקה יוגורט GO תות בננה",
+    "name_en": "Yogurt GO Strawberry",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110552244",
+    "name_he": "משקה דנונה פרו20 ללת\"ס",
+    "name_en": "Danone 20 \"",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "255 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573737",
+    "name_he": "משקה יוגורט פרו תות ללס",
+    "name_en": "Yogurt Strawberry",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "255 ג"
+  },
+  {
+    "shufersal_id": "P_7290116932774",
+    "name_he": "משקה יוגורט גו בננה קרמל",
+    "name_en": "Yogurt",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "500 מל"
+  },
+  {
+    "shufersal_id": "P_7290116932781",
+    "name_he": "משקה גו אפרסק פסיפלורה",
+    "name_en": "Peach",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "500 מל"
+  },
+  {
+    "shufersal_id": "P_7290116934228",
+    "name_he": "משקה יוגורט גו מלון תות",
+    "name_en": "Yogurt Strawberry",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "500 מל"
+  },
+  {
+    "shufersal_id": "P_7290116935379",
+    "name_he": "משקה יוגורט GO וניל",
+    "name_en": "Yogurt GO Vanilla",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "500 מל"
+  },
+  {
+    "shufersal_id": "P_7290012645112",
+    "name_he": "יוגורט עיזים בדלי",
+    "name_en": "Yogurt Low",
+    "brand_he": "חלב הארץ",
+    "brand_en": "Milk",
+    "size": "750 ג"
+  },
+  {
+    "shufersal_id": "P_7290012645129",
+    "name_he": "יוגורט כבשים בדלי",
+    "name_en": "Yogurt Low",
+    "brand_he": "חלב הארץ",
+    "brand_en": "Milk",
+    "size": "750 ג"
+  },
+  {
+    "shufersal_id": "P_1258446",
+    "name_he": "יוגורט כבשים 5%",
+    "name_en": "Yogurt 5% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "850 ג"
+  },
+  {
+    "shufersal_id": "P_7290014890572",
+    "name_he": "יוגורט עיזים 3.5% ביו",
+    "name_en": "Yogurt 3.5% Fat Bio",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "850 ג"
+  },
+  {
+    "shufersal_id": "P_571386",
+    "name_he": "יוגורמה מחלב כבשים 5%",
+    "name_en": "Milk 5% Fat",
+    "brand_he": "המחלבה",
+    "brand_en": "Milk",
+    "size": "850 ג"
+  },
+  {
+    "shufersal_id": "P_2133506",
+    "name_he": "יוגורט עיזים 3.8% שומן",
+    "name_en": "Yogurt 3.8% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_2133575",
+    "name_he": "יוגורט כבשים 5% שומן",
+    "name_en": "Yogurt 5% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_3126712",
+    "name_he": "יוגורט עיזים ביו 3%",
+    "name_en": "Yogurt Bio 3% Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_2133537",
+    "name_he": "יוגורט עיזים 3.8% שומן",
+    "name_en": "Yogurt 3.8% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "180 ג"
+  },
+  {
+    "shufersal_id": "P_2133940",
+    "name_he": "יוגורט כבשים 5% שומן",
+    "name_en": "Yogurt 5% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "180 ג"
+  },
+  {
+    "shufersal_id": "P_5992018",
+    "name_he": "יוגורט מחלב עיזים מלא 3%",
+    "name_en": "Yogurt Milk 3% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102393299",
+    "name_he": "יוגורט עיזים לשתייה",
+    "name_en": "Yogurt",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_7290012645389",
+    "name_he": "יוגורט עיזים לשתיה בקבוק",
+    "name_en": "Yogurt Bottle",
+    "brand_he": "חלב הארץ",
+    "brand_en": "Milk",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_1258682",
+    "name_he": "יוגורט עיזים",
+    "name_en": "Yogurt",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290105965738",
+    "name_he": "דנונה לשתיה תות בננה",
+    "name_en": "Danone Strawberry",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "267 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573386",
+    "name_he": "משקה בננה מנגו פסיפלורה",
+    "name_en": "Mango",
+    "brand_he": "דנונה",
+    "brand_en": "Danone",
+    "size": "267 ג"
+  },
+  {
+    "shufersal_id": "P_7290105364678",
+    "name_he": "משקה אקטיביה אפרסק",
+    "name_en": "Peach",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290107937542",
+    "name_he": "משקה אקטיביה תות 1.2%",
+    "name_en": "Strawberry 1.2% Fat",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "265 ג"
+  },
+  {
+    "shufersal_id": "P_7290115676051",
+    "name_he": "משקה אקטיביה עם ש.שועל",
+    "name_en": ".",
+    "brand_he": "אקטיביה",
+    "brand_en": "",
+    "size": "265 ג"
+  },
+  {
+    "shufersal_id": "P_55329",
+    "name_he": "משקה יוגורט תות-מלון",
+    "name_en": "Yogurt Strawberry-",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_55343",
+    "name_he": "יופלה משקה יוגורט טרופי",
+    "name_en": "Yoplait Yogurt",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_55336",
+    "name_he": "משקה יוגורט בננה אפרסק",
+    "name_en": "Yogurt Peach",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290116935713",
+    "name_he": "משקה יוגורט מנגו אננס",
+    "name_en": "Yogurt Mango Pineapple",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4068035",
+    "name_he": "אירן משקה יוגורט",
+    "name_en": "Yogurt",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4068028",
+    "name_he": "ציזיקי לשתיה",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290119380916",
+    "name_he": "אקטימל תות מארז",
+    "name_en": "Strawberry",
+    "brand_he": "אקטימל",
+    "brand_en": "",
+    "size": "108 ג"
+  },
+  {
+    "shufersal_id": "P_7290119380923",
+    "name_he": "אקטימל לבן מארז",
+    "name_en": "",
+    "brand_he": "אקטימל",
+    "brand_en": "",
+    "size": "108 ג"
+  },
+  {
+    "shufersal_id": "P_6664655",
+    "name_he": "אקטימל לבן מארז",
+    "name_en": "",
+    "brand_he": "אקטימל",
+    "brand_en": "",
+    "size": "100 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290107938396",
+    "name_he": "מארז אקטימל תות",
+    "name_en": "Strawberry",
+    "brand_he": "אקטימל",
+    "brand_en": "",
+    "size": "100 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102031276",
+    "name_he": "אקטימל תות בננה מארז",
+    "name_en": "Strawberry",
+    "brand_he": "אקטימל",
+    "brand_en": "",
+    "size": "100 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290119374991",
+    "name_he": "אקטימל פלוס תות ודובדבן",
+    "name_en": "Plus Strawberry",
+    "brand_he": "אקטימל",
+    "brand_en": "",
+    "size": "100 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_43890",
+    "name_he": "רויון 1.5% שומן בקרטון",
+    "name_en": "1.5% Fat Fat in Carton",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_44248",
+    "name_he": "רויון בקרטון 1.5%שומן",
+    "name_en": "in Carton 1.5% FatFat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_5839313",
+    "name_he": "מילקי טופ שוקולדה מגולגל",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "170 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290112355812",
+    "name_he": "מילקי טופ קורנפלקס",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "141 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573751",
+    "name_he": "מילקי טופ עדשים",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "147 ג"
+  },
+  {
+    "shufersal_id": "P_7290105368331",
+    "name_he": "מילקי בטעם תות",
+    "name_en": "Strawberry",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "170 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110560836",
+    "name_he": "מילקי בטעם פסק זמן",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "133 ג"
+  },
+  {
+    "shufersal_id": "P_72940754",
+    "name_he": "מילקי בטעם וניל",
+    "name_en": "Vanilla",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "170 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_72940761",
+    "name_he": "מילקי בטעם שוקולד",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "170 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290112344755",
+    "name_he": "מילקי עם 26% פחות סוכר",
+    "name_en": "26% Fat",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "135 ג"
+  },
+  {
+    "shufersal_id": "P_72940952",
+    "name_he": "מילקי אקסטרה קצפת",
+    "name_en": "Tara",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "170 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290104726712",
+    "name_he": "מילקי בטעם שוקולד",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "170 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110557447",
+    "name_he": "מילקי שכבות שוקולד וקפה",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "108 ג"
+  },
+  {
+    "shufersal_id": "P_7290119384471",
+    "name_he": "מילקי בטעם מעדן הגולן",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "135 ג"
+  },
+  {
+    "shufersal_id": "P_7290112344724",
+    "name_he": "מילקי בלונדי",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "133 ג"
+  },
+  {
+    "shufersal_id": "P_7290110557454",
+    "name_he": "מילקיTRIOשוק.לבן פיסטוק",
+    "name_en": "TRIO .",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "133 ג"
+  },
+  {
+    "shufersal_id": "P_72941041",
+    "name_he": "מיני מילקי בטעם שוקולד",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "90 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102395477",
+    "name_he": "מעדן בטעםשוקולד וקצפת",
+    "name_en": "",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "123 ג"
+  },
+  {
+    "shufersal_id": "P_7290115678376",
+    "name_he": "מעדן הגולן שוקולד",
+    "name_en": "",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290110557133",
+    "name_he": "מעדן הגולן וניל",
+    "name_en": "Vanilla",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290119375264",
+    "name_he": "מעדן הגולן טעם טופי קרמל",
+    "name_en": "",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290014761063",
+    "name_he": "יולו שוקולד מריר מעולה",
+    "name_en": "",
+    "brand_he": "יולו",
+    "brand_en": "",
+    "size": "123 ג"
+  },
+  {
+    "shufersal_id": "P_7290014761070",
+    "name_he": "יולו שוקולד לבן מעולה",
+    "name_en": "",
+    "brand_he": "יולו",
+    "brand_en": "",
+    "size": "123 ג"
+  },
+  {
+    "shufersal_id": "P_7290014761414",
+    "name_he": "יולו שכבות שוקולד",
+    "name_en": "",
+    "brand_he": "יולו",
+    "brand_en": "",
+    "size": "123 ג"
+  },
+  {
+    "shufersal_id": "P_7290102396399",
+    "name_he": "מעדן מוו בטעם שוקולד",
+    "name_en": "",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290102396405",
+    "name_he": "מעדן מוו בטעם וניל מארז",
+    "name_en": "Vanilla",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_4585907",
+    "name_he": "דני וניל 1.5% שומן",
+    "name_en": "Vanilla 1.5% Fat Fat",
+    "brand_he": "דני",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_72993637",
+    "name_he": "דני שוקולד 1.5%",
+    "name_en": "1.5% Fat",
+    "brand_he": "דני",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290010472390",
+    "name_he": "דני שוקולד מארז",
+    "name_en": "",
+    "brand_he": "דני",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290104720499",
+    "name_he": "דני וניל מארז",
+    "name_en": "Vanilla",
+    "brand_he": "דני",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_554624",
+    "name_he": "ירח מתוק מעדן חלב+אורז3%",
+    "name_en": "Milk+ 3% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290014455467",
+    "name_he": "מעדן שיבולת שועל",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290104726262",
+    "name_he": "דני שלוק שוקולד",
+    "name_en": "",
+    "brand_he": "דני",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_4120061",
+    "name_he": "מעדן קרלו שוניל 3% שומן",
+    "name_en": "Vanilla 3% Fat Fat",
+    "brand_he": "קרלו",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290110325084",
+    "name_he": "מיני קרלו שוניל מארז",
+    "name_en": "Vanilla",
+    "brand_he": "קרלו",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290107950190",
+    "name_he": "מעדן דיאט ט.שוקולד מריר",
+    "name_en": ".",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_7290107950206",
+    "name_he": "מעדן דיאט בטעם שוקולד",
+    "name_en": "",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_4135225",
+    "name_he": "מעדן דיאט שוקולד 0.2%",
+    "name_en": "0.2% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_5838002",
+    "name_he": "דניאלה מעדן קרם גבינה",
+    "name_en": "Cheese",
+    "brand_he": "דניאלה",
+    "brand_en": "",
+    "size": "88 ג"
+  },
+  {
+    "shufersal_id": "P_7290011194215",
+    "name_he": "דניאלה בננה",
+    "name_en": "",
+    "brand_he": "דניאלה",
+    "brand_en": "",
+    "size": "88 ג"
+  },
+  {
+    "shufersal_id": "P_8693134",
+    "name_he": "דניאלה תות מוקצף5% שומן",
+    "name_en": "Strawberry 5% Fat Fat",
+    "brand_he": "דניאלה",
+    "brand_en": "",
+    "size": "88 ג"
+  },
+  {
+    "shufersal_id": "P_7290112349606",
+    "name_he": "דניאלה תות בננה",
+    "name_en": "Strawberry",
+    "brand_he": "דניאלה",
+    "brand_en": "",
+    "size": "88 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573515",
+    "name_he": "דניאלה טעם פירות טרופיים",
+    "name_en": "",
+    "brand_he": "דניאלה",
+    "brand_en": "",
+    "size": "88 ג"
+  },
+  {
+    "shufersal_id": "P_5838613",
+    "name_he": "סקי מעדן גבינה בטעם וניל",
+    "name_en": "Ski Cheese Vanilla",
+    "brand_he": "סקי",
+    "brand_en": "Ski",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290112338877",
+    "name_he": "סקי תות",
+    "name_en": "Ski Strawberry",
+    "brand_he": "סקי",
+    "brand_en": "Ski",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573812",
+    "name_he": "גמדים סקוויז תפוח ואגס",
+    "name_en": "",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290112339867",
+    "name_he": "גמדים סקוויז לדרך תות",
+    "name_en": "Strawberry",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290112339874",
+    "name_he": "גמדים לדרך תות בננה",
+    "name_en": "Strawberry",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290112347008",
+    "name_he": "גמדים ארוחת בוקר תות",
+    "name_en": "Strawberry",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290112355102",
+    "name_he": "גמדים לדרך סלט פירות",
+    "name_en": "",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290110561604",
+    "name_he": "גמדים תות בננה מארז",
+    "name_en": "Strawberry",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_58030",
+    "name_he": "יופלה שטוזים משקה תות",
+    "name_en": "Yoplait Strawberry",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "100 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110322946",
+    "name_he": "יופלה טיוב תות בננה",
+    "name_en": "Yoplait Strawberry",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "58 ג"
+  },
+  {
+    "shufersal_id": "P_7290110324551",
+    "name_he": "יופלה טיוב תות",
+    "name_en": "Yoplait Strawberry",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "58 ג"
+  },
+  {
+    "shufersal_id": "P_7290110325510",
+    "name_he": "יופלה טיוב בטעם וניל",
+    "name_en": "Yoplait Vanilla",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "58 ג"
+  },
+  {
+    "shufersal_id": "P_7290110326890",
+    "name_he": "יופלה טיוב הקפאה תותבננה",
+    "name_en": "Yoplait Strawberry",
+    "brand_he": "יופלה",
+    "brand_en": "Yoplait",
+    "size": "58 ג"
+  },
+  {
+    "shufersal_id": "P_7290010472307",
+    "name_he": "גמדים לשתיה תות בננה",
+    "name_en": "Strawberry",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110576851",
+    "name_he": "גמדים לשתיה סלט פירות",
+    "name_en": "",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "108 ג"
+  },
+  {
+    "shufersal_id": "P_4584306",
+    "name_he": "סופר גמדים תות בננה מארז",
+    "name_en": "Strawberry",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_6664037",
+    "name_he": "גמדים תות בננה/תפוח בננה",
+    "name_en": "Strawberry /",
+    "brand_he": "גמדים",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290014762220",
+    "name_he": "ג'לי בטעם ענבים",
+    "name_en": "'",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_4136857",
+    "name_he": "מעדן ג'לי פטל",
+    "name_en": "'",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290116934242",
+    "name_he": "ג'לי תנובה בטעם אננס",
+    "name_en": "' Tnuva Pineapple",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290116934556",
+    "name_he": "ג'לי תנובה בטעם אפרסק",
+    "name_en": "' Tnuva Peach",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290110565435",
+    "name_he": "לימבו פטל קו חלבי",
+    "name_en": "Milk",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_554402",
+    "name_he": "מלבי",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "160 ג"
+  },
+  {
+    "shufersal_id": "P_5431883",
+    "name_he": "מלבי חלבי",
+    "name_en": "Milk",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "165 ג"
+  },
+  {
+    "shufersal_id": "P_5431913",
+    "name_he": "עוגת גבינה פירורים",
+    "name_en": "Cheese",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "92 ג"
+  },
+  {
+    "shufersal_id": "P_5431890",
+    "name_he": "בוואריה",
+    "name_en": "",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "95 ג"
+  },
+  {
+    "shufersal_id": "P_5431906",
+    "name_he": "קדאיף",
+    "name_en": "",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "82 ג"
+  },
+  {
+    "shufersal_id": "P_5431937",
+    "name_he": "טירמיסו",
+    "name_en": "",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "82 ג"
+  },
+  {
+    "shufersal_id": "P_5431968",
+    "name_he": "מלבי שמנת",
+    "name_en": "Cream",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290106654099",
+    "name_he": "מילקי קייק מארז",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "34 ג"
+  },
+  {
+    "shufersal_id": "P_7290107957991",
+    "name_he": "מילקי קייק מיניס קרם חלב",
+    "name_en": "Milk",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "144 ג"
+  },
+  {
+    "shufersal_id": "P_7290106663121",
+    "name_he": "מילקי קייק",
+    "name_en": "",
+    "brand_he": "מילקי",
+    "brand_en": "",
+    "size": "34 ג"
+  },
+  {
+    "shufersal_id": "P_522326",
+    "name_he": "חלב טרי מהגולן 1%",
+    "name_en": "Fresh Milk 1% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790259",
+    "name_he": "חלב טבעי 4% שומן",
+    "name_en": "Milk Natural 4% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790358",
+    "name_he": "חלב מועשר נטול לקטוז 2%",
+    "name_en": "Milk Enriched Lactose 2% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790303",
+    "name_he": "חלב מועשר 3% שומן",
+    "name_en": "Milk Enriched 3% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290107932080",
+    "name_he": "חלב יטבתה מועשר3% בקבוק",
+    "name_en": "Milk Yotvata Enriched3% Fat Bottle",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_40974",
+    "name_he": "חלב טרי 2% דל לקטוז",
+    "name_en": "Fresh Milk 2% Fat Low Lactose",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290116930695",
+    "name_he": "חלב נטול לקטוז 2% מהדרין",
+    "name_en": "Milk Lactose 2% Fat Mehadrin",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_51352",
+    "name_he": "חלב של פעם מלא4%-3.6%",
+    "name_en": "Milk 4% Fat-3.6% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290114311328",
+    "name_he": "חלב נטול לקטוז מועשר 2%",
+    "name_en": "Milk Lactose Enriched 2% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290114310239",
+    "name_he": "חלב נטול לקטוז מועשר2%",
+    "name_en": "Milk Lactose Enriched2% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1.5 ל"
+  },
+  {
+    "shufersal_id": "P_3029815",
+    "name_he": "חלב מועשר יטבתה 3% כד",
+    "name_en": "Milk Enriched Yotvata 3% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "2 ל"
+  },
+  {
+    "shufersal_id": "P_7290114311458",
+    "name_he": "חלב מועשר סידן+D קרטון3%",
+    "name_en": "Milk Enriched +D Carton3% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290114313018",
+    "name_he": "חלב נטול לקטוז וניל 2%",
+    "name_en": "Milk Lactose Vanilla 2% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290116935416",
+    "name_he": "חלב להקצפה לקפה 2%",
+    "name_en": "Milk Whipping 2% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "800 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290014758162",
+    "name_he": "חלב עיזים מלא 3.6%",
+    "name_en": "Milk 3.6% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290102392094",
+    "name_he": "חלב עיזים קרטון 4.1%",
+    "name_en": "Milk Carton 4.1% Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_1201602",
+    "name_he": "ביצים ארוזות L",
+    "name_en": "Eggs Packaged L",
+    "brand_he": "לסר",
+    "brand_en": "",
+    "size": "18 יח"
+  },
+  {
+    "shufersal_id": "P_7296073224679",
+    "name_he": "ביצי חופש אורגני L",
+    "name_en": "Organic L",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_7296073236139",
+    "name_he": "ביצים אורגניות XL",
+    "name_en": "Eggs Organic XL",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_7296073229681",
+    "name_he": "ביצים אורגניות M+אומגה 3",
+    "name_en": "Eggs Organic M+ 3",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_1201855",
+    "name_he": "ביצים אומגה 3 L",
+    "name_en": "Eggs 3 L",
+    "brand_he": "לסר",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_7296073410430",
+    "name_he": "ביצים אומגהL שופרסל",
+    "name_en": "Eggs L Shufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "30 יח"
+  },
+  {
+    "shufersal_id": "P_7296073484417",
+    "name_he": "ביצים אומגה L שופרסל",
+    "name_en": "Eggs L Shufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "6 יח"
+  },
+  {
+    "shufersal_id": "P_7296073515159",
+    "name_he": "ביצים אומגה M שופרסל",
+    "name_en": "Eggs M Shufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_7296082000066",
+    "name_he": "ביצה אומגה L",
+    "name_en": "L",
+    "brand_he": "ביצי רמות השבים",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_1201664",
+    "name_he": "ביצים אומגה 3 DHA XL",
+    "name_en": "Eggs 3 DHA XL",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "20 יח"
+  },
+  {
+    "shufersal_id": "P_1201862",
+    "name_he": "ביצי חופש L",
+    "name_en": "L",
+    "brand_he": "לסר",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_7296073410478",
+    "name_he": "ביצים חופש M שופרסל",
+    "name_en": "Eggs M Shufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_7296082000080",
+    "name_he": "ביצי חופש",
+    "name_en": "",
+    "brand_he": "ביצי רמות השבים",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_723098308291",
+    "name_he": "ביצים חופש M",
+    "name_en": "Eggs M",
+    "brand_he": "ברכת יוסף",
+    "brand_en": "",
+    "size": "12 יח"
+  },
+  {
+    "shufersal_id": "P_7290107954976",
+    "name_he": "משקה פרו קפה יטבתה",
+    "name_en": "Yotvata",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110568276",
+    "name_he": "משקה פרו וניל יטבתה",
+    "name_en": "Vanilla Yotvata",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110577254",
+    "name_he": "משקה חלבון פרו קפה לל\"ס",
+    "name_en": "Milk \"",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110577261",
+    "name_he": "משקה פרו שוק.אגוזים לל\"ס",
+    "name_en": ". \"",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290112343420",
+    "name_he": "יטבתה פרו ארוחת בוקר",
+    "name_en": "Yotvata",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290116935607",
+    "name_he": "משקה GO קולגן אייס קפה",
+    "name_en": "GO",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "340 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290116933191",
+    "name_he": "משקה גו קפה אגוזי לוז",
+    "name_en": "",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "340 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110324773",
+    "name_he": "משקה חלב גו וניל+חלבון",
+    "name_en": "Milk Vanilla+Milk",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "340 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110325893",
+    "name_he": "אייס קפה GO",
+    "name_en": "GO",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "340 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110329686",
+    "name_he": "משקה חלב GO בטעם עוגיות",
+    "name_en": "Milk GO",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "340 מל"
+  },
+  {
+    "shufersal_id": "P_4030230",
+    "name_he": "שיק פירות יער עם חלבון",
+    "name_en": "Forest Fruits Milk",
+    "brand_he": "פריניב",
+    "brand_en": "",
+    "size": "400 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290016682489",
+    "name_he": "שייק תות בננה עם חלבון",
+    "name_en": "Strawberry Milk",
+    "brand_he": "פריניב",
+    "brand_en": "",
+    "size": "400 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114313278",
+    "name_he": "משקה חלבון קפה פרוטאין",
+    "name_en": "Milk",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114312950",
+    "name_he": "משקה חלבון וניל פרוטאין",
+    "name_en": "Milk Vanilla",
+    "brand_he": "מולר",
+    "brand_en": "Muller",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_3029181",
+    "name_he": "שוקו יטבתה בבקבוק",
+    "name_en": "Yotvata Bottle",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_3029372",
+    "name_he": "משקה חלב בננה בקבוק",
+    "name_en": "Milk Bottle",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_3029532",
+    "name_he": "מוקה יטבתה בקבוק 2% שומן",
+    "name_en": "Yotvata Bottle 2% Fat Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_3029907",
+    "name_he": "אייס קפה יטבתה 2% שומן",
+    "name_en": "Yotvata 2% Fat Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290102398560",
+    "name_he": "שוקו מועשר טרה בקבוק",
+    "name_en": "Enriched Tara Bottle",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290102398669",
+    "name_he": "אייס קפוצ'ינו",
+    "name_en": "'",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290114313124",
+    "name_he": "משקה חלב צמר גפן מתוק",
+    "name_en": "Milk",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790174",
+    "name_he": "שוקו 1.5% שומן",
+    "name_en": "1.5% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790198",
+    "name_he": "משקה חלב בטעם מוקה1.5%",
+    "name_en": "Milk 1.5% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790181",
+    "name_he": "משקה חלב טעם בננה 1.5%",
+    "name_en": "Milk 1.5% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790211",
+    "name_he": "משקה חלב ט.אייס קפה1.5%",
+    "name_en": "Milk . 1.5% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_3029389",
+    "name_he": "משקה בננה עם פקק",
+    "name_en": "",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_3029433",
+    "name_he": "שוקו יטבתה עם פקק נשלף",
+    "name_en": "Yotvata",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290102398577",
+    "name_he": "שוקו מועשר טרה בקבוק",
+    "name_en": "Enriched Tara Bottle",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114310611",
+    "name_he": "משקה חלב בננה",
+    "name_en": "Milk",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114311014",
+    "name_he": "משקה חלב אייס קפוצ'ינו",
+    "name_en": "Milk '",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290114313117",
+    "name_he": "משקה חלב צמר גפן מתוק",
+    "name_en": "Milk",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4126872",
+    "name_he": "שוקו תנובה בקבוק",
+    "name_en": "Tnuva Bottle",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290011438142",
+    "name_he": "משקה חלב בטעם קפה בקבוק",
+    "name_en": "Milk Bottle",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "350 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4710068001692",
+    "name_he": "מאסטר קפה לאטה",
+    "name_en": "",
+    "brand_he": "מאסטר קפה",
+    "brand_en": "",
+    "size": "240 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4710068001715",
+    "name_he": "מאסטר קפה טירמיסו",
+    "name_en": "",
+    "brand_he": "מאסטר קפה",
+    "brand_en": "",
+    "size": "240 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4710068001739",
+    "name_he": "מאסטר קפה קולומביאני",
+    "name_en": "",
+    "brand_he": "מאסטר קפה",
+    "brand_en": "",
+    "size": "240 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4710068006239",
+    "name_he": "מאסטר קפה לאטה ללא סוכר",
+    "name_en": "Without",
+    "brand_he": "מאסטר קפה",
+    "brand_en": "",
+    "size": "240 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110563431",
+    "name_he": "אייס קפה 1.6% קלאסי",
+    "name_en": "1.6% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "230 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290110563448",
+    "name_he": "אייס קפה 1.6% מעודן",
+    "name_en": "1.6% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "230 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290119380824",
+    "name_he": "משקה קפה קר שיבולת שועל",
+    "name_en": "",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "230 מל"
+  },
+  {
+    "shufersal_id": "P_7290110329716",
+    "name_he": "משקה קפה קר קפוצ'ינו",
+    "name_en": "'",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "230 ג"
+  },
+  {
+    "shufersal_id": "P_7290116933214",
+    "name_he": "קפה קר קפוצ'ינו חזק",
+    "name_en": "'",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "230 ג"
+  },
+  {
+    "shufersal_id": "P_5711953160363",
+    "name_he": "סטארבקס פרפוצ'ינו קפה",
+    "name_en": "'",
+    "brand_he": "סטארבקס",
+    "brand_en": "",
+    "size": "250 מל"
+  },
+  {
+    "shufersal_id": "P_5711953172441",
+    "name_he": "סטארבקס פרפוצ'ינו עוגיות",
+    "name_en": "'",
+    "brand_he": "סטארבקס",
+    "brand_en": "",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290116934273",
+    "name_he": "חלב וניל 2% בקרטון",
+    "name_en": "Milk Vanilla 2% Fat in Carton",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290019790167",
+    "name_he": "משקה חלב לקפה ט.וניל3%",
+    "name_en": "Milk .Vanilla3% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_3029792",
+    "name_he": "שוקו יטבתה מארז",
+    "name_en": "Yotvata",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "225 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_42855",
+    "name_he": "שוקו בשקית יטבתה",
+    "name_en": "Bag Yotvata",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "225 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290116934518",
+    "name_he": "מארז הפסקת אוכל קוקומן",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "."
+  },
+  {
+    "shufersal_id": "P_42503",
+    "name_he": "חלב עמיד הומוגני 3% שומן",
+    "name_en": "Milk Long Life 3% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_4125509",
+    "name_he": "שמנת חמוצה 15% חצי מנה",
+    "name_en": "Cream 15% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "100 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_72963753",
+    "name_he": "שמנת של פעם חמוצה 27%",
+    "name_en": "Cream 27% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_41858",
+    "name_he": "שמנת חמוצה 15% מועשרת",
+    "name_en": "Cream 15% Fat Enriched",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4125370",
+    "name_he": "שמנת חמוצה תנובה 9% שומן",
+    "name_en": "Cream Tnuva 9% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_41445",
+    "name_he": "קוטג' תנובה 5%",
+    "name_en": "' Tnuva 5% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_41452",
+    "name_he": "קוטג' מהדרין 9% שומן",
+    "name_en": "' Mehadrin 9% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290014758681",
+    "name_he": "קוטג 1% שומן",
+    "name_en": "1% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290110321277",
+    "name_he": "קוטג' בקטנה 5%",
+    "name_en": "' 5% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397679",
+    "name_he": "קוטג וחצי 5%",
+    "name_en": "5% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "375 ג"
+  },
+  {
+    "shufersal_id": "P_5838972",
+    "name_he": "גבינת סקי 5%",
+    "name_en": "Cheese Ski 5% Fat",
+    "brand_he": "סקי",
+    "brand_en": "Ski",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_4129545",
+    "name_he": "גבינה לבנה למריחה 3%",
+    "name_en": "White Cheese units 3% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4131227",
+    "name_he": "גבינה לבנה 3% תנובה",
+    "name_en": "White Cheese 3% Fat Tnuva",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_56272",
+    "name_he": "גבינה לבנה עם זיתים 5%",
+    "name_en": "White Cheese Olives 5% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290116934280",
+    "name_he": "גבינה לבנה שמיר ושום 5%",
+    "name_en": "White Cheese 5% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290116931241",
+    "name_he": "קוטג' תנובה 12% שומן",
+    "name_en": "' Tnuva 12% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_47942",
+    "name_he": "גבינה 9% שומן כשר מהדרין",
+    "name_en": "Cheese 9% Fat Fat Kosher Mehadrin",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_48192",
+    "name_he": "גבינה לבנה רכה 9% שומן",
+    "name_en": "White Cheese 9% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4127817",
+    "name_he": "גבינה לבנה 9% שומן",
+    "name_en": "White Cheese 9% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065137",
+    "name_he": "ריקוטה למריחה 5%",
+    "name_en": "units 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_554822",
+    "name_he": "ריקוטה גד 5% שומן",
+    "name_en": "Gad 5% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290014890176",
+    "name_he": "ריקוטה בסגנון איטלקי5%",
+    "name_en": "5% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290114312189",
+    "name_he": "מסקרפונה 38%",
+    "name_en": "38% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499846",
+    "name_he": "ריקוטה פרסקה 9%",
+    "name_en": "9% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7290014890206",
+    "name_he": "קרם פרש שמנת 40%",
+    "name_en": "Cream 40% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635352",
+    "name_he": "קרם ריקוטה 16%",
+    "name_en": "16% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_474540",
+    "name_he": "גבינת טוב טעם 3% שומן",
+    "name_en": "Cheese 3% Fat Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_2107965",
+    "name_he": "גבינת טבורוג 5% שומן",
+    "name_en": "Cheese 5% Fat Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_47546",
+    "name_he": "גבינת כנען 5% שומן",
+    "name_en": "Cheese 5% Fat Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_7290102392049",
+    "name_he": "תבור גבינה לאפיה 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_52717",
+    "name_he": "קוטג' עם שום שמיר 5%",
+    "name_en": "' 5% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_48307",
+    "name_he": "קוטג' תנובה 5% עם זיתים",
+    "name_en": "' Tnuva 5% Fat Olives",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4125776",
+    "name_he": "גבינה צהובה עמק פרוס 28%",
+    "name_en": "Yellow Cheese Emek Sliced 28% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_57118",
+    "name_he": "גבינת עמק פרוסה 28%",
+    "name_en": "Cheese Emek Sliced 28% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_4122195",
+    "name_he": "גבינה גוש חלב פרוס 28%",
+    "name_en": "Cheese Milk Sliced 28% Fat",
+    "brand_he": "גוש חלב",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290102394463",
+    "name_he": "גבינה צהובה נעם ואקום28%",
+    "name_en": "Yellow Cheese Noam 28% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_4122270",
+    "name_he": "גבינה צהובה עמק פרוס 28%",
+    "name_en": "Yellow Cheese Emek Sliced 28% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_52311",
+    "name_he": "גבינת עמק15% פרוס בקופסא",
+    "name_en": "Cheese Emek15% Fat Sliced",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_57088",
+    "name_he": "גבינה צהובה עמק דק דק28%",
+    "name_en": "Yellow Cheese Emek 28% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290102394821",
+    "name_he": "גבינה צהובה קלאסית28%נעם",
+    "name_en": "Yellow Cheese 28% FatNoam",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014760448",
+    "name_he": "גבינת גלבוע 22%",
+    "name_en": "Cheese Gilboa 22% Fat",
+    "brand_he": "Gal",
+    "brand_en": "Gal",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7290014760912",
+    "name_he": "גבינה גוש חלב מהדרין28%",
+    "name_en": "Cheese Milk Mehadrin28% Fat",
+    "brand_he": "גוש חלב",
+    "brand_en": "Milk",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397204",
+    "name_he": "גבינה צהובה נעם 22%",
+    "name_en": "Yellow Cheese Noam 22% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014083479",
+    "name_he": "גבינה גאודה פרוסות 28%",
+    "name_en": "Cheese Sliced 28% Fat",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_46327",
+    "name_he": "גבינת גלבוע פרוסות 22%",
+    "name_en": "Cheese Gilboa Sliced 22% Fat",
+    "brand_he": "Gal",
+    "brand_en": "Gal",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014763395",
+    "name_he": "עמק סמי מעדנייה 28%",
+    "name_en": "Emek 28% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "600 ג"
+  },
+  {
+    "shufersal_id": "P_7290110323301",
+    "name_he": "גבינת טל העמק 32%",
+    "name_en": "Cheese Emek 32% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108502725",
+    "name_he": "גבינת גאודה פרוסות 28%",
+    "name_en": "Cheese Sliced 28% Fat",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_4137311",
+    "name_he": "גבינה צהובה עמק 9% שומן",
+    "name_en": "Yellow Cheese Emek 9% Fat Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_4126674",
+    "name_he": "גבינה טל העמק לייט 9%",
+    "name_en": "Cheese Emek Light 9% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110324872",
+    "name_he": "גבינת גלבוע 5% פרוסות",
+    "name_en": "Cheese Gilboa 5% Fat Sliced",
+    "brand_he": "Gal",
+    "brand_en": "Gal",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_554600",
+    "name_he": "גבינת מוצרלה מגורדת 22%",
+    "name_en": "Cheese Shredded 22% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7290110320867",
+    "name_he": "פתיתי עמק 28%",
+    "name_en": "Emek 28% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_474830",
+    "name_he": "גבינה צהובה מגורדת",
+    "name_en": "Yellow Cheese Shredded",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_7290014692817",
+    "name_he": "מוצרלה מגורדת",
+    "name_en": "Shredded",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110320850",
+    "name_he": "פתיתי עמק 28%",
+    "name_en": "Emek 28% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110328504",
+    "name_he": "טריו פתיתים מיקס גבינות",
+    "name_en": "",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_1258958",
+    "name_he": "מוצרלה מגורדת",
+    "name_en": "Shredded",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108501346",
+    "name_he": "גבינת גאודה מגורדת 28%",
+    "name_en": "Cheese Shredded 28% Fat",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065984",
+    "name_he": "מק אנד צ'יז מיקס מגורר",
+    "name_en": "'",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4128432",
+    "name_he": "פתיתי גבינה השף הלבן",
+    "name_en": "Cheese The White Chef",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397747",
+    "name_he": "מוצרלה נעם",
+    "name_en": "Noam",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116931524",
+    "name_he": "פרוסות גאודה עמק",
+    "name_en": "Sliced Emek",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110326333",
+    "name_he": "פרוסות גבינה סקנדינבית",
+    "name_en": "Sliced Cheese",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "170 ג"
+  },
+  {
+    "shufersal_id": "P_7290108501490",
+    "name_he": "גבינת מוצרלה פרוסות",
+    "name_en": "Cheese Sliced",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065977",
+    "name_he": "פרוסות גבינת צ'דר",
+    "name_en": "Sliced Cheese '",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290114311601",
+    "name_he": "גאודה נעם 30%",
+    "name_en": "Noam 30% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108502145",
+    "name_he": "גבינת צ'דר בשלה פרוסות",
+    "name_en": "Cheese ' Sliced",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290014083769",
+    "name_he": "גבינה אמנטל פרוסות",
+    "name_en": "Cheese Sliced",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4122683",
+    "name_he": "אצבעות עמק חטיף גבינה",
+    "name_en": "Emek Cheese",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "172 ג"
+  },
+  {
+    "shufersal_id": "P_4132712",
+    "name_he": "אצבעות גבינת מוצרלה",
+    "name_en": "Cheese",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "21.5 ג"
+  },
+  {
+    "shufersal_id": "P_3073781199918",
+    "name_he": "גבינת בייבי בל",
+    "name_en": "Cheese",
+    "brand_he": "בייבי בל",
+    "brand_en": "",
+    "size": "20 ג"
+  },
+  {
+    "shufersal_id": "P_40462",
+    "name_he": "טוסטי בסגנון אמריקאי 23%",
+    "name_en": "23% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499129",
+    "name_he": "קוביות בולגרית מעודנת 5%",
+    "name_en": "Bio 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4135614",
+    "name_he": "בולגרית מעודנת 5% פיראוס",
+    "name_en": "5% Fat Piraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290110320591",
+    "name_he": "בולגרית מעודנת 16%",
+    "name_en": "16% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499327",
+    "name_he": "גבינה בולגרית מעודנת 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4121853",
+    "name_he": "פיראוס קוביות בולגרית 5%",
+    "name_en": "Piraeus Bio 5% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4120566",
+    "name_he": "גבינה בולגרית פיראוס24%",
+    "name_en": "Cheese Piraeus24% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397334",
+    "name_he": "גבינה בולגרית 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290014761438",
+    "name_he": "בולגרית 24% המעדניה",
+    "name_en": "24% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7296073641940",
+    "name_he": "בולגרית מסורתית 5%",
+    "name_en": "5% Fat",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_6492616",
+    "name_he": "פרוסות בולגרית מעודנת 5%",
+    "name_en": "Sliced 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7296073641957",
+    "name_he": "בולגרית מסורתית 16%",
+    "name_en": "16% Fat",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499112",
+    "name_he": "גבינה בולגרית 16%",
+    "name_en": "Cheese 16% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290108509106",
+    "name_he": "בולגרית מעודנת13% קוביות",
+    "name_en": "13% Fat Bio",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_3075805",
+    "name_he": "גבינת טמרה מלוחה בקר 17%",
+    "name_en": "Cheese 17% Fat",
+    "brand_he": "מחלבת רג'ב",
+    "brand_en": "Milk '",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_2133889",
+    "name_he": "בולגרית מעודנת 5% שומן",
+    "name_en": "5% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019790402",
+    "name_he": "בולגרית של פעם 16%שומן",
+    "name_en": "16% FatFat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019790952",
+    "name_he": "ברינזה כבשים 18% שומן",
+    "name_en": "18% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4131814",
+    "name_he": "צפתית מעודנת 5% פיראוס",
+    "name_en": "5% Fat Piraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_48437",
+    "name_he": "גבינה צפתית 5% פיראוס",
+    "name_en": "Cheese 5% Fat Piraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_554457",
+    "name_he": "גבינה צפתית 5% שומן",
+    "name_en": "Cheese 5% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_7290114311984",
+    "name_he": "גבינה צפתית מעודנת 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4121839",
+    "name_he": "פטה כבשים 20% פיראוס",
+    "name_en": "20% Fat Piraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290114310550",
+    "name_he": "פטה עיזים מעודנת 5%",
+    "name_en": "5% Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499303",
+    "name_he": "פטה מעודנת עיזים 5%",
+    "name_en": "5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065663",
+    "name_he": "פטה עיזים מעודנת 16%",
+    "name_en": "16% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499051",
+    "name_he": "גבינה פטה כבשים 20%",
+    "name_en": "Cheese 20% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_49458",
+    "name_he": "פטה עיזים 16% פיראוס",
+    "name_en": "16% Fat Piraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7296073641902",
+    "name_he": "פטה כבשים 20%",
+    "name_en": "20% Fat",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499358",
+    "name_he": "פטה עיזים 20% שומן",
+    "name_en": "20% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635055",
+    "name_he": "קוביות פטה עזים מעודנת9%",
+    "name_en": "Bio 9% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290013771216",
+    "name_he": "פטאקי 16%שומן",
+    "name_en": "16% FatFat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019790112",
+    "name_he": "פטה כבשים 20% שומן",
+    "name_en": "20% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290117266632",
+    "name_he": "גבינת פטה במי מלח 21%",
+    "name_en": "Cheese 21% Fat",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_2107491",
+    "name_he": "גבינת עיזים למריחה 5%",
+    "name_en": "Cheese units 5% Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_6492852",
+    "name_he": "גבינה לבנה עיזים 5% גד",
+    "name_en": "White Cheese 5% Fat Gad",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_5992575",
+    "name_he": "גבינה בולגרית למריחה 5%",
+    "name_en": "Cheese units 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_1258668",
+    "name_he": "גבינת עז מה",
+    "name_en": "Cheese",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_3523230061148",
+    "name_he": "גבינת עיזים מוקצפת",
+    "name_en": "Cheese",
+    "brand_he": "סואניון",
+    "brand_en": "",
+    "size": "140 ג"
+  },
+  {
+    "shufersal_id": "P_369037",
+    "name_he": "גב.בולגרית מלוחה",
+    "name_en": ".",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "175 ג"
+  },
+  {
+    "shufersal_id": "P_369365",
+    "name_he": "מעדן חציל+גבינה בולגרית",
+    "name_en": "+Cheese",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_6492432",
+    "name_he": "גבינה מוצרלה בייבי",
+    "name_en": "Cheese",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290014455320",
+    "name_he": "כדור מוצרלה פרסקה",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635031",
+    "name_he": "בוראטה",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_8350501",
+    "name_he": "בייבי מוצרלה 18%",
+    "name_en": "18% Fat",
+    "brand_he": "קאזה איטליה",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_554471",
+    "name_he": "גבינת מוצרלה 22%שומן",
+    "name_en": "Cheese 22% FatFat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "180 ג"
+  },
+  {
+    "shufersal_id": "P_7290117261088",
+    "name_he": "בוראטה מוצרלה רכה",
+    "name_en": "",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7640101090833",
+    "name_he": "מוצרלה כדור",
+    "name_en": "",
+    "brand_he": "זוקר",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065007",
+    "name_he": "מוצרלה פרוסות 22%",
+    "name_en": "Sliced 22% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110320935",
+    "name_he": "פרוסות מוצרלה",
+    "name_en": "Sliced",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065526",
+    "name_he": "קוואטרו פורמאגי",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_4122119",
+    "name_he": "פתיתי פרמזן גבינה קשה23%",
+    "name_en": "Cheese 23% Fat",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290014455252",
+    "name_he": "גרנה פדנו מגורדת",
+    "name_en": "Shredded",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_8175210",
+    "name_he": "פרמזנו מגורדת",
+    "name_en": "Shredded",
+    "brand_he": "zanetti",
+    "brand_en": "zanetti",
+    "size": "90 ג"
+  },
+  {
+    "shufersal_id": "P_7296073630920",
+    "name_he": "שבבי גרנה פדנו בשקית",
+    "name_en": "Bag",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "80 ג"
+  },
+  {
+    "shufersal_id": "P_4122676",
+    "name_he": "גבינת חמד לייט 5%",
+    "name_en": "Cheese Light 5% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499365",
+    "name_he": "חלומי גד גבינה קשה 24%",
+    "name_en": "Gad Cheese 24% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7296073641919",
+    "name_he": "חלומי בקר 24%",
+    "name_en": "24% Fat",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108509755",
+    "name_he": "גבינת חלומי 23%",
+    "name_en": "Cheese 23% Fat",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_48413",
+    "name_he": "גבינה מלוחה חמד16%פיראוס",
+    "name_en": "Cheese 16% FatPiraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290110324070",
+    "name_he": "גבינת חלומי 30% פיראוס",
+    "name_en": "Cheese 30% Fat Piraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290102393718",
+    "name_he": "חלומי בקר",
+    "name_en": "",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065175",
+    "name_he": "גבינת מנצ'גו פרוסה 39%",
+    "name_en": "Cheese ' Sliced 39% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635192",
+    "name_he": "גאודה עיזים פרוס 30%שומן",
+    "name_en": "Sliced 30% FatFat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290102399048",
+    "name_he": "קשקבל פרוסות",
+    "name_en": "Sliced",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065618",
+    "name_he": "פקורינו פרוס 34%",
+    "name_en": "Sliced 34% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635178",
+    "name_he": "פרוסות פקורינו 34% שומן",
+    "name_en": "Sliced 34% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_3781850",
+    "name_he": "גבינת קשקבל פרוסות",
+    "name_en": "Cheese Sliced",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_571478",
+    "name_he": "גבינת תום עיזים פרוס",
+    "name_en": "Cheese Sliced",
+    "brand_he": "המחלבה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014692305",
+    "name_he": "גבינת קממבר",
+    "name_en": "Cheese",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290014692299",
+    "name_he": "גבינת ברי",
+    "name_en": "Cheese",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635215",
+    "name_he": "ברי צרפתי",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_40301",
+    "name_he": "עין גדי קממבר 24%שומן",
+    "name_en": "Gad 24% FatFat",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_40318",
+    "name_he": "גבינת עדי ברי רכה 24%",
+    "name_en": "Cheese 24% Fat",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_3161712996108",
+    "name_he": "מיני קממבר איל דה פרנס",
+    "name_en": "",
+    "brand_he": "איל דה פרנס",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635208",
+    "name_he": "קממבר",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_7296073421825",
+    "name_he": "גרנה פדנו 29%שופרסל",
+    "name_en": "29% FatShufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014759985",
+    "name_he": "גבינת גבע / פרמזן",
+    "name_en": "Cheese /",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110328474",
+    "name_he": "פלח פרמג'יאנו רג'יאנו",
+    "name_en": "' '",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290015039635",
+    "name_he": "גבינת פרמזן משולש",
+    "name_en": "Cheese",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014455245",
+    "name_he": "גרנה פדנו משולש",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108506709",
+    "name_he": "גבינת פרמג'אנו",
+    "name_en": "Cheese '",
+    "brand_he": "ויליפוד",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_3073781190618",
+    "name_he": "גבינה מותכת לה וואש קירי",
+    "name_en": "Cheese",
+    "brand_he": "לה וואש קירי",
+    "brand_en": "",
+    "size": "120 ג"
+  },
+  {
+    "shufersal_id": "P_7290102397891",
+    "name_he": "גבינה מותכת",
+    "name_en": "Cheese",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "25 ג"
+  },
+  {
+    "shufersal_id": "P_45580",
+    "name_he": "גבינה מותכת נעמה חורש",
+    "name_en": "Cheese",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "15 ג"
+  },
+  {
+    "shufersal_id": "P_3073781190595",
+    "name_he": "גבינה מותכת לה וואש קירי",
+    "name_en": "Cheese",
+    "brand_he": "לה וואש קירי",
+    "brand_en": "",
+    "size": "240 ג"
+  },
+  {
+    "shufersal_id": "P_3073781161700",
+    "name_he": "גבינה מותכת לה וואש קירי",
+    "name_en": "Cheese",
+    "brand_he": "לה וואש קירי",
+    "brand_en": "",
+    "size": "480 ג"
+  },
+  {
+    "shufersal_id": "P_7290102300822",
+    "name_he": "גבינת צ'דר כתום",
+    "name_en": "Cheese '",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290102300860",
+    "name_he": "גבינת צ'דר לבן",
+    "name_en": "Cheese '",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065786",
+    "name_he": "צ'דר",
+    "name_en": "'",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108501360",
+    "name_he": "גבינת צ'דר בשלה",
+    "name_en": "Cheese '",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_121093",
+    "name_he": "גבינה מון בלן טעם שויצרי",
+    "name_en": "Cheese",
+    "brand_he": "מון בלאן",
+    "brand_en": "",
+    "size": "120 ג"
+  },
+  {
+    "shufersal_id": "P_121109",
+    "name_he": "גבינה מון בלאן עם זיתים",
+    "name_en": "Cheese Olives",
+    "brand_he": "מון בלאן",
+    "brand_en": "",
+    "size": "120 ג"
+  },
+  {
+    "shufersal_id": "P_4324605",
+    "name_he": "מון בלאן גבינה כחולה 7%",
+    "name_en": "Cheese 7% Fat",
+    "brand_he": "מון בלאן",
+    "brand_en": "",
+    "size": "120 ג"
+  },
+  {
+    "shufersal_id": "P_7290014759978",
+    "name_he": "גבינת קשקבל / גלעד",
+    "name_en": "Cheese /",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_1258804",
+    "name_he": "גבינה קשקבל",
+    "name_en": "Cheese",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "180 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499341",
+    "name_he": "גבינת קאשקבלו 26% שומן",
+    "name_en": "Cheese 26% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065168",
+    "name_he": "גבינה כחולה",
+    "name_en": "Cheese",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290014759992",
+    "name_he": "רוקפור גליל 26% כבשים",
+    "name_en": "26% Fat",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "140 ג"
+  },
+  {
+    "shufersal_id": "P_4225285",
+    "name_he": "בסגנון דנאבלו",
+    "name_en": "",
+    "brand_he": "כללי",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_1258415",
+    "name_he": "גבינת רוקפור",
+    "name_en": "Cheese",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "180 ג"
+  },
+  {
+    "shufersal_id": "P_7290014759084",
+    "name_he": "גבינת נפוליאון 16%",
+    "name_en": "Cheese 16% Fat",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290014762831",
+    "name_he": "גבינת נפוליאון+חלפניו25%",
+    "name_en": "Cheese + 25% Fat",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_4129118",
+    "name_he": "גבינת נפוליאון טעם זיתים",
+    "name_en": "Cheese Olives",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_4129101",
+    "name_he": "גבינת נפוליאון בטעם טבעי",
+    "name_en": "Cheese Natural",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_4129156",
+    "name_he": "גבינת נפוליאון שום שמיר",
+    "name_en": "Cheese",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290116932644",
+    "name_he": "נפוליאון זעתר 25%",
+    "name_en": "25% Fat",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290116933078",
+    "name_he": "נפוליאון פלפלים פיקנטיים",
+    "name_en": "",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290116934365",
+    "name_he": "נפוליאון 16% שום שמיר",
+    "name_en": "16% Fat",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7622201139278",
+    "name_he": "גבינת שמנת 25% פילדלפיה",
+    "name_en": "Cheese Cream 25% Fat Low",
+    "brand_he": "פילדלפיה",
+    "brand_en": "Low",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7622201798154",
+    "name_he": "גבינת פילדלפיה לייט 13%",
+    "name_en": "Cheese Low Light 13% Fat",
+    "brand_he": "פילדלפיה",
+    "brand_en": "Low",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7622201521493",
+    "name_he": "פילדלפיה שום+ע.תיבול 12%",
+    "name_en": "Low + . 12% Fat",
+    "brand_he": "פילדלפיה",
+    "brand_en": "Low",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7622202030635",
+    "name_he": "ממרח צמחי בתוספת חלבון",
+    "name_en": "Milk",
+    "brand_he": "פילדלפיה",
+    "brand_en": "Low",
+    "size": "145 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499624",
+    "name_he": "גבינת שמנת 30%טבעי",
+    "name_en": "Cheese Cream 30% FatNatural",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065731",
+    "name_he": "גב.שמנת נ.יורק+כמהין30%",
+    "name_en": ".Cream . + 30% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635383",
+    "name_he": "גבינת שמנת ריבת בצל 24%",
+    "name_en": "Cheese Cream Onion 24% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635369",
+    "name_he": "גבינת שמנת 16%",
+    "name_en": "Cheese Cream 16% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5711953106590",
+    "name_he": "ארלה גבינת שמנת עם שום",
+    "name_en": "Cheese Cream",
+    "brand_he": "ארלה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5711953106583",
+    "name_he": "ארלה גבינת שמנת טעם טבעי",
+    "name_en": "Cheese Cream Natural",
+    "brand_he": "ארלה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5711953106606",
+    "name_he": "ארלה גבינת שמנת ע.תיבול",
+    "name_en": "Cheese Cream .",
+    "brand_he": "ארלה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014890145",
+    "name_he": "גבינת שמנת 25%",
+    "name_en": "Cheese Cream 25% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290014890169",
+    "name_he": "גבינת שמנת שום שמיר 25%",
+    "name_en": "Cheese Cream 25% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290014890152",
+    "name_he": "גבינת שמנת זיתים 25%",
+    "name_en": "Cheese Cream Olives 25% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290119375370",
+    "name_he": "סימפוניה 16%",
+    "name_en": "16% Fat",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290112355751",
+    "name_he": "סימפוניה 16% שום קונפי",
+    "name_en": "16% Fat",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108502589",
+    "name_he": "גבינת שמנת 24% עם שום",
+    "name_en": "Cheese Cream 24% Fat",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290108504378",
+    "name_he": "גבינת שמנת עם זיתים",
+    "name_en": "Cheese Cream Olives",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116935409",
+    "name_he": "נפוליאון25% מוקצף ט.טבעי",
+    "name_en": "25% Fat .Natural",
+    "brand_he": "נפוליאון",
+    "brand_en": "",
+    "size": "180 ג"
+  },
+  {
+    "shufersal_id": "P_4584351",
+    "name_he": "סימפוניה גב.במרקם שמנת5%",
+    "name_en": ". Cream5% Fat",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5839108",
+    "name_he": "גבינת סימפוניה 5%זיתים",
+    "name_en": "Cheese 5% FatOlives",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290105366993",
+    "name_he": "סימפוניה פלפל שיפקה חריף",
+    "name_en": "",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290107944472",
+    "name_he": "סימפוניה שום שמיר 5%",
+    "name_en": "5% Fat",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290112342102",
+    "name_he": "סימפוניה 5% בצל מקורמל",
+    "name_en": "5% Fat Onion",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110573058",
+    "name_he": "סימפוניה 5% עירית",
+    "name_en": "5% Fat",
+    "brand_he": "סימפוניה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290011499419",
+    "name_he": "גבינה מרקם שמנת ט.טבעי5%",
+    "name_en": "Cheese Cream .Natural5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635116",
+    "name_he": "גבינת שמנת זיתים 5%",
+    "name_en": "Cheese Cream Olives 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_1485019",
+    "name_he": "גבינת שמנת בטעם טבעי 5%",
+    "name_en": "Cheese Cream Natural 5% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290114310574",
+    "name_he": "קרם שמנת עיזים 5% שומן",
+    "name_en": "Cream 5% Fat Fat",
+    "brand_he": "Meshek Tzuriel",
+    "brand_en": "Meshek Tzuriel",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_52649",
+    "name_he": "לאבנה פיראוס 5%",
+    "name_en": "Piraeus 5% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_4128333",
+    "name_he": "לאבנה 9% פיראוס",
+    "name_en": "9% Fat Piraeus",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_5992735",
+    "name_he": "גבינת לאבנה גד 5% שומן",
+    "name_en": "Cheese Gad 5% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_3075553",
+    "name_he": "לבנה רג'ב 11%",
+    "name_en": "' 11% Fat",
+    "brand_he": "מחלבת רג'ב",
+    "brand_en": "Milk '",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_6492685",
+    "name_he": "לאבנה עיזים 5% שומן גד",
+    "name_en": "5% Fat Fat Gad",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_1258552",
+    "name_he": "לאבנה 5%",
+    "name_en": "5% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4137809",
+    "name_he": "לבנה פיראוס 5%",
+    "name_en": "Piraeus 5% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_1258729",
+    "name_he": "לאבנה עיזים",
+    "name_en": "",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290014762947",
+    "name_he": "לאבנה גלילית פיראוס 11%",
+    "name_en": "Piraeus 11% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "750 ג"
+  },
+  {
+    "shufersal_id": "P_3075652",
+    "name_he": "לבנה רג'ב 11%שומן",
+    "name_en": "' 11% FatFat",
+    "brand_he": "מחלבת רג'ב",
+    "brand_en": "Milk '",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_2133247",
+    "name_he": "לאבנה שמן זית זעתר9%שומן",
+    "name_en": "9% FatFat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019790075",
+    "name_he": "לאבנה בטעם טבעי 5% שומן",
+    "name_en": "Natural 5% Fat Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290106663091",
+    "name_he": "לאבנה 9%",
+    "name_en": "9% Fat",
+    "brand_he": "Strauss",
+    "brand_en": "Strauss",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_554686",
+    "name_he": "לאבנה בשמן זית וזעתר 5%",
+    "name_en": "5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290116930282",
+    "name_he": "לאבנה 9% עם קרקרים",
+    "name_en": "9% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_6492913",
+    "name_he": "ציזיקי למריחה 5%",
+    "name_en": "units 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_51710",
+    "name_he": "פיראוס לבנה+שמן זית+זעתר",
+    "name_en": "Piraeus + +",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "263 ג"
+  },
+  {
+    "shufersal_id": "P_3075850",
+    "name_he": "לבנה עם זעתר",
+    "name_en": "",
+    "brand_he": "מחלבת רג'ב",
+    "brand_en": "Milk '",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_3075409",
+    "name_he": "כדורי לבנה בשמן זית",
+    "name_en": "",
+    "brand_he": "מחלבת רג'ב",
+    "brand_en": "Milk '",
+    "size": "360 ג"
+  },
+  {
+    "shufersal_id": "P_7290011064075",
+    "name_he": "לאבנה אבו-גוש מסבחה",
+    "name_en": "-",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_45917",
+    "name_he": "גבינת פרומעז 23%",
+    "name_en": "Cheese 23% Fat",
+    "brand_he": "Piraeus",
+    "brand_en": "Piraeus",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_6492630",
+    "name_he": "גליל גבינת עיזים 16%",
+    "name_en": "Cheese 16% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "180 ג"
+  },
+  {
+    "shufersal_id": "P_3523230040334",
+    "name_he": "מדליוני בושה עיזים",
+    "name_en": "Low",
+    "brand_he": "סואניון",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_3523230025638",
+    "name_he": "גבינת בושה עיזים טבעית",
+    "name_en": "Cheese Natural",
+    "brand_he": "סואניון",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_3523230025652",
+    "name_he": "בושה עיזים שום ע.תיבול",
+    "name_en": ".",
+    "brand_he": "סואניון",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_3523230026888",
+    "name_he": "גבינת עיזים שום ע.תיבול",
+    "name_en": "Cheese .",
+    "brand_he": "סואניון",
+    "brand_en": "",
+    "size": "140 ג"
+  },
+  {
+    "shufersal_id": "P_3523230026826",
+    "name_he": "גבינת עיזים",
+    "name_en": "Cheese",
+    "brand_he": "סואניון",
+    "brand_en": "",
+    "size": "140 ג"
+  },
+  {
+    "shufersal_id": "P_5416095",
+    "name_he": "גבינת עזים 5% טל",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "מחלבת טל",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_369617",
+    "name_he": "כדורי פטה בשמן מתובל",
+    "name_en": "",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_7290011064099",
+    "name_he": "פינצ'וס פלפלונים+גבינה",
+    "name_en": "' +Cheese",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_8695543007924",
+    "name_he": "גבינת רסטה",
+    "name_en": "Cheese",
+    "brand_he": "MURATBEY",
+    "brand_en": "MURATBEY",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_5079290",
+    "name_he": "נעם גבינה צהובה 15% במשק",
+    "name_en": "Noam Yellow Cheese 15% Fat Farm",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9956078",
+    "name_he": "נעם צהובה 15% מגורדת",
+    "name_en": "Noam 15% Fat Shredded",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453536",
+    "name_he": "גב.נעם 15% פרוס ארוז",
+    "name_en": ".Noam 15% Fat Sliced Packaged",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7296073626657",
+    "name_he": "נעם 15% פרוס א",
+    "name_en": "Noam 15% Fat Sliced",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_9954234",
+    "name_he": "נועם גבינה צהובה 9% חריץ",
+    "name_en": "Yellow Cheese 9% Fat Block",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_554815",
+    "name_he": "מוצרלה בגליל 22%",
+    "name_en": "22% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9952988",
+    "name_he": "מוצרלה מגורדת",
+    "name_en": "Shredded",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453451",
+    "name_he": "מוצרלה גד 22% פרוס ארוז",
+    "name_en": "Gad 22% Fat Sliced Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_53219",
+    "name_he": "טל העמק 32%",
+    "name_en": "Emek 32% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453482",
+    "name_he": "גב.טל העמק 32% פרוס",
+    "name_en": ". Emek 32% Fat Sliced",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073453673",
+    "name_he": "טל העמק 32% מגורדת ארוז",
+    "name_en": "Emek 32% Fat Shredded Packaged",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_9954388",
+    "name_he": "גבינת טל העמק מגורדת32%",
+    "name_en": "Cheese Emek Shredded32% Fat",
+    "brand_he": "עמק",
+    "brand_en": "Emek",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4725600",
+    "name_he": "גבינה סקנדינבית 31%",
+    "name_en": "Cheese 31% Fat",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453512",
+    "name_he": "סקנדינבית 31% פרוס",
+    "name_en": "31% Fat Sliced",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_9957266",
+    "name_he": "גבינה סקנדינבית מגורדת",
+    "name_en": "Cheese Shredded",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_5079412",
+    "name_he": "גבינה אמנטל נעם 30%",
+    "name_en": "Cheese Noam 30% Fat",
+    "brand_he": "Tara",
+    "brand_en": "Tara",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_5384356",
+    "name_he": "גבינה חצי קשה אמנטל 28%",
+    "name_en": "Cheese 28% Fat",
+    "brand_he": "ויליפוד",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258101",
+    "name_he": "גאודה 28%",
+    "name_en": "28% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_8403863",
+    "name_he": "גבינת גאודה חצי קשה",
+    "name_en": "Cheese",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_5384295",
+    "name_he": "גבינה גאודה חצי קשה 28%",
+    "name_en": "Cheese 28% Fat",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_571126",
+    "name_he": "גאודה כמון 30%",
+    "name_en": "30% Fat",
+    "brand_he": "המחלבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_571119",
+    "name_he": "גבינה גאודה 30% שומן",
+    "name_en": "Cheese 30% Fat Fat",
+    "brand_he": "המחלבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073594222",
+    "name_he": "גבינת צ'דר 35%",
+    "name_en": "Cheese ' 35% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_2370161",
+    "name_he": "גבינת צ'דר בשלה",
+    "name_en": "Cheese '",
+    "brand_he": "ויליפוד",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4982355",
+    "name_he": "טריפל צ'דר",
+    "name_en": "'",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9953923",
+    "name_he": "גבינת צ'דר 34%",
+    "name_en": "Cheese ' 34% Fat",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9953916",
+    "name_he": "גבינת צ'דר כתומה 34%",
+    "name_en": "Cheese ' 34% Fat",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7290102300884",
+    "name_he": "גבינת צ'דר אנגלי כתום34%",
+    "name_en": "Cheese ' 34% Fat",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_3578085",
+    "name_he": "גבינת מוצרלה",
+    "name_en": "Cheese",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9139198",
+    "name_he": "גבינת מוצרלה מגורדת",
+    "name_en": "Cheese Shredded",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_554655",
+    "name_he": "מוצרלה מעושנת גד 22%",
+    "name_en": "Gad 22% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073629481",
+    "name_he": "מוצרלה מעושנת22% מגורדת",
+    "name_en": "22% Fat Shredded",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_2511571",
+    "name_he": "גבינת מוצרלה בלוק 22%",
+    "name_en": "Cheese 22% Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073707073",
+    "name_he": "גבינת מוצרלה22% מגורדת",
+    "name_en": "Cheese 22% Fat Shredded",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_554754",
+    "name_he": "כדורי מוצרלה קטן 19%",
+    "name_en": "19% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_554990",
+    "name_he": "כדורי מוצרלה 19% שומן",
+    "name_en": "19% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7290108504279",
+    "name_he": "קשקבל צ'אנק",
+    "name_en": "'",
+    "brand_he": "ויליפוד",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290108504293",
+    "name_he": "מנצ'גו צ'אנק",
+    "name_en": "' '",
+    "brand_he": "ויליפוד",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290108504286",
+    "name_he": "איבריקו צ'אנק",
+    "name_en": "'",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290108506624",
+    "name_he": "עיזים צאנק",
+    "name_en": "",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_1258736",
+    "name_he": "משולש גבינת קשקבל 27%",
+    "name_en": "Cheese 27% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_1258583",
+    "name_he": "משולש גבינת מנצ'גו 30%",
+    "name_en": "Cheese ' 30% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7296073453314",
+    "name_he": "גבינת מנצ'גו ארוז",
+    "name_en": "Cheese ' Packaged",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7290117265772",
+    "name_he": "טאפאס גבינות",
+    "name_en": "",
+    "brand_he": "אירו מחלבות אירופה",
+    "brand_en": "Milk",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_4068585",
+    "name_he": "גאודה עיזים 30%",
+    "name_en": "30% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7296073593768",
+    "name_he": "קשקבל 26% שומן",
+    "name_en": "26% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7296073594215",
+    "name_he": "קשקבל 26%",
+    "name_en": "26% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7296073644989",
+    "name_he": "קשקבל26% מגורדת גד",
+    "name_en": "26% Fat Shredded Gad",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258149",
+    "name_he": "פקורינו רומנו צאן30%",
+    "name_en": "30% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9137293",
+    "name_he": "גבינת פרמזן 30% שופרסל",
+    "name_en": "Cheese 30% Fat Shufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_9138955",
+    "name_he": "גבינת פרמזן 30% מגורדת",
+    "name_en": "Cheese 30% Fat Shredded",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_46563",
+    "name_he": "גבינת פרמז'ן 23%",
+    "name_en": "Cheese ' 23% Fat",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453703",
+    "name_he": "קולאז' פרמזן מגורד א23%",
+    "name_en": "' Shredded 23% Fat",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_9954395",
+    "name_he": "גבינת פרמזן מגורדת",
+    "name_en": "Cheese Shredded",
+    "brand_he": "קולקשן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4068912",
+    "name_he": "גרנה פדנו משולש",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_9957358",
+    "name_he": "גרנו פדנו 29%שופרסל",
+    "name_en": "29% FatShufersal",
+    "brand_he": "Shufersal",
+    "brand_en": "Shufersal",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4256197",
+    "name_he": "גאודה הולנדית עיזים30.6%",
+    "name_en": "30.6% Fat",
+    "brand_he": "ג'קס צ'יס",
+    "brand_en": "' '",
+    "size": "לפי משקל"
+  },
+  {
+    "shufersal_id": "P_571188",
+    "name_he": "גבינת גאודה תום עיזים",
+    "name_en": "Cheese",
+    "brand_he": "המחלבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453505",
+    "name_he": "גב. תום עיזים פרוס ארוז",
+    "name_en": ". Sliced Packaged",
+    "brand_he": "המחלבה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7296073726395",
+    "name_he": "גאודה עיזים גוש 30.60%",
+    "name_en": "30.60% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8175906",
+    "name_he": "גבינת עיזים חצי קשה 32%",
+    "name_en": "Cheese 32% Fat",
+    "brand_he": "DISCOVERY ADVENTURES",
+    "brand_en": "DISCOVERY ADVENTURES",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_8866972",
+    "name_he": "גבינה גרוויר",
+    "name_en": "Cheese",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073726388",
+    "name_he": "גאודה פסטו אדום גוש 32%",
+    "name_en": "32% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "250ג"
+  },
+  {
+    "shufersal_id": "P_8606608",
+    "name_he": "גבינה גאודה פסטו אדום32%",
+    "name_en": "Cheese 32% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_8606615",
+    "name_he": "גאודה עם פסטו ירוק32%",
+    "name_en": "32% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073726432",
+    "name_he": "גאודה בקר כמהין גוש 32%",
+    "name_en": "32% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7296073726418",
+    "name_he": "גאודה גוסטו גוש 30%",
+    "name_en": "30% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8606974",
+    "name_he": "גאודה גוסט 30%",
+    "name_en": "30% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_8606950",
+    "name_he": "גאודה עם עשבי תיבול 32%",
+    "name_en": "32% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4225278",
+    "name_he": "בסגנון דנבלו 28% שומן",
+    "name_en": "28% Fat Fat",
+    "brand_he": "דנמרק",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073594659",
+    "name_he": "גב.בסגנון דנבלו 28% נטו",
+    "name_en": ". 28% Fat",
+    "brand_he": "דנמרק",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_2385196",
+    "name_he": "רוקפור דייניש בלו 29%",
+    "name_en": "29% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4982393",
+    "name_he": "גבינת ברס בלו 42%",
+    "name_en": "Cheese 42% Fat",
+    "brand_he": "ברס בלו",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258170",
+    "name_he": "רוקפור צאן 32%",
+    "name_en": "32% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_2370284",
+    "name_he": "גבינת קשקבל חצי קשה",
+    "name_en": "Cheese",
+    "brand_he": "ויליפוד",
+    "brand_en": "",
+    "size": "במשקל"
+  },
+  {
+    "shufersal_id": "P_2345060",
+    "name_he": "גבינה מאסדם הולנדי 29%",
+    "name_en": "Cheese 29% Fat",
+    "brand_he": "מאסדם",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_8403535",
+    "name_he": "גבינת פרימדונה 30.5%",
+    "name_en": "Cheese 30.5% Fat",
+    "brand_he": "הגבינות של נני",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258255",
+    "name_he": "משולש גבינת גאודה 28%",
+    "name_en": "Cheese 28% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_1258323",
+    "name_he": "משולש גאודה כמון",
+    "name_en": "",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258989",
+    "name_he": "קממבר בקר בייבי",
+    "name_en": "",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "130 ג"
+  },
+  {
+    "shufersal_id": "P_7296073719793",
+    "name_he": "משולש ברי צרפתי",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_1258040",
+    "name_he": "משולש גבינת רוקפור",
+    "name_en": "Cheese",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8403238",
+    "name_he": "גבינת ברי צרפתית 32%",
+    "name_en": "Cheese 32% Fat",
+    "brand_he": "איסיני סנט מר",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4480479",
+    "name_he": "קממבר צרפתי",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_8462310",
+    "name_he": "גבינת סנט מור עיזים 23%",
+    "name_en": "Cheese 23% Fat",
+    "brand_he": "סואניון",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_8461047",
+    "name_he": "גבינת ברי לה רוסטיק 31%",
+    "name_en": "Cheese 31% Fat",
+    "brand_he": "לה רוסטיק",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258118",
+    "name_he": "קממברט בקר 25%",
+    "name_en": "25% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258859",
+    "name_he": "גבינת מורבייה",
+    "name_en": "Cheese",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_2370789",
+    "name_he": "גב.כבשים פטריות כמהין36%",
+    "name_en": ". 36% Fat",
+    "brand_he": "וילי פוד",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258088",
+    "name_he": "קצ'וטה צאן יעקבס 30%",
+    "name_en": "' 30% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_2385455",
+    "name_he": "בולגרית מעודנת 24%",
+    "name_en": "24% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_5992667",
+    "name_he": "בולגרית מסורתית 5%",
+    "name_en": "5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_554792",
+    "name_he": "גבינה בולגרית 5% שומן",
+    "name_en": "Cheese 5% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073453116",
+    "name_he": "גבינת בולגרית 5% גד ארוז",
+    "name_en": "Cheese 5% Fat Gad Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_7296073593317",
+    "name_he": "בולגרית16% המושבה",
+    "name_en": "16% Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_7296073593683",
+    "name_he": "בולגרית 16% מסורית המו",
+    "name_en": "16% Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_7296073453222",
+    "name_he": "בולגרית מסורתית 16% ארוז",
+    "name_en": "16% Fat Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "450 ג"
+  },
+  {
+    "shufersal_id": "P_3006021",
+    "name_he": "סלט קוביות בולגרית 25%",
+    "name_en": "Bio 25% Fat",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_5992872",
+    "name_he": "גבינה צפתית במים 5% שומן",
+    "name_en": "Cheese 5% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453154",
+    "name_he": "צפתית 5% ארוז",
+    "name_en": "5% Fat Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4861056",
+    "name_he": "גבינה צפתית 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_4861360",
+    "name_he": "גבינה צפתית בטעמים",
+    "name_en": "Cheese",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073706977",
+    "name_he": "גבינה צפתית עם קצח",
+    "name_en": "Cheese",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_554952",
+    "name_he": "גבינה צפתית קשה 10%",
+    "name_en": "Cheese 10% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_9953930",
+    "name_he": "גב.צפתית קשה 10% מגורדת",
+    "name_en": ". 10% Fat Shredded",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073644996",
+    "name_he": "גבינה צפתית קשה24% מגורד",
+    "name_en": "Cheese 24% Fat Shredded",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_2511281",
+    "name_he": "גבינת ברינזה צאן 18%",
+    "name_en": "Cheese 18% Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5992858",
+    "name_he": "פטה עיזים 5%",
+    "name_en": "5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073453093",
+    "name_he": "פטה עיזים 5% גד ארוז",
+    "name_en": "5% Fat Gad Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_5992964",
+    "name_he": "פטה כבשים 20%",
+    "name_en": "20% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_2370123",
+    "name_he": "גבינת עיזים רכה 29%",
+    "name_en": "Cheese 29% Fat",
+    "brand_he": "אל פסטור",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_5992247",
+    "name_he": "חלומי גד 24%",
+    "name_en": "Gad 24% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5992889",
+    "name_he": "גבינת שמנת שום שמיר 30%",
+    "name_en": "Cheese Cream 30% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_554969",
+    "name_he": "גבינת שמנת 30% שומן",
+    "name_en": "Cheese Cream 30% Fat Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_554976",
+    "name_he": "גב.שמנת 30%שומן זיתים",
+    "name_en": ".Cream 30% FatFat Olives",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073453123",
+    "name_he": "גב.שמנת גד 30% ארוז",
+    "name_en": ".Cream Gad 30% Fat Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_5992902",
+    "name_he": "גבינת שמנת ירקות 30%",
+    "name_en": "Cheese Cream 30% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073719748",
+    "name_he": "גב.שמנת שום שמיר30% ארוז",
+    "name_en": ".Cream 30% Fat Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073719762",
+    "name_he": "גב.שמנת זיתים30% ארוז",
+    "name_en": ".Cream Olives30% Fat Packaged",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_1258200",
+    "name_he": "גבינת שמנת 25%",
+    "name_en": "Cheese Cream 25% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_1258941",
+    "name_he": "גבינת שמנת זיתים 25%",
+    "name_en": "Cheese Cream Olives 25% Fat",
+    "brand_he": "משק יעקבס",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073726425",
+    "name_he": "קרם צ'יז דלי 16%",
+    "name_en": "' Low 16% Fat",
+    "brand_he": "הולנדרס",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4861285",
+    "name_he": "טבורוג 9% שומן",
+    "name_en": "9% Fat Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_6040619",
+    "name_he": "גבינה טבורוג 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "כפרייה",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4861063",
+    "name_he": "גבינת קאש 9%",
+    "name_en": "Cheese 9% Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_2511427",
+    "name_he": "אצבעות שוקולד וניל",
+    "name_en": "Vanilla",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "40 ג"
+  },
+  {
+    "shufersal_id": "P_554921",
+    "name_he": "גבינת ריקוטה 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4861261",
+    "name_he": "גבינת טבורוג בטעמים",
+    "name_en": "Cheese",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073707059",
+    "name_he": "גבינת טבורוג עם צימוקים",
+    "name_en": "Cheese",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_3006120",
+    "name_he": "פינצ'וס פלפלונים+גבינה",
+    "name_en": "' +Cheese",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_6041043",
+    "name_he": "גבינה עם צימוקים",
+    "name_en": "Cheese",
+    "brand_he": "כפרייה",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_554983",
+    "name_he": "גבינה לאבנה 5%",
+    "name_en": "Cheese 5% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4861315",
+    "name_he": "לאבנה בשמן זית וזעתר 5%",
+    "name_en": "5% Fat",
+    "brand_he": "מחלבת המושבה",
+    "brand_en": "Milk",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_369341",
+    "name_he": "לבנה אבו גוש ירוק 15%",
+    "name_en": "15% Fat",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4011284",
+    "name_he": "ריצ' להכנת קצפת",
+    "name_en": "'",
+    "brand_he": "ריצ'",
+    "brand_en": "'",
+    "size": "212 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290013146762",
+    "name_he": "קצפת צמחית מעודנת24%",
+    "name_en": "24% Fat",
+    "brand_he": "מיימונס",
+    "brand_en": "",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4124847",
+    "name_he": "קצפת צמחית מתיקות מעודנת",
+    "name_en": "",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4011338",
+    "name_he": "קצפת ריצ' במיכל",
+    "name_en": "'",
+    "brand_he": "ריצ'",
+    "brand_en": "'",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290013146755",
+    "name_he": "קצפת צמחית מעודנת24%",
+    "name_en": "24% Fat",
+    "brand_he": "מיימונס",
+    "brand_en": "",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_453019",
+    "name_he": "שמרית-שמרים טריים לאפיה",
+    "name_en": "-",
+    "brand_he": "שמרית",
+    "brand_en": "",
+    "size": "50 ג"
+  },
+  {
+    "shufersal_id": "P_72994818",
+    "name_he": "שמרים טריים בקוביה",
+    "name_en": "",
+    "brand_he": "שמרית",
+    "brand_en": "",
+    "size": "25 ג"
+  },
+  {
+    "shufersal_id": "P_453125",
+    "name_he": "שמרית שמרים+משפר אפיה",
+    "name_en": "+",
+    "brand_he": "שמרית",
+    "brand_en": "",
+    "size": "50 ג"
+  },
+  {
+    "shufersal_id": "P_4125738",
+    "name_he": "שמנת להקצפה 32%שומן",
+    "name_en": "Cream Whipping 32% FatFat",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290105368904",
+    "name_he": "שמנת מתוקה להקצפה 32%",
+    "name_en": "Cream Whipping 32% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290019790105",
+    "name_he": "שמנת להקצפה 24%",
+    "name_en": "Cream Whipping 24% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290019790129",
+    "name_he": "שמנת להקצפה טעם וניל 24%",
+    "name_en": "Cream Whipping Vanilla 24% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290019790136",
+    "name_he": "שמנת הקצפה נטול לקטוז38%",
+    "name_en": "Cream Lactose38% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290106520912",
+    "name_he": "שמנת לבישול 9%",
+    "name_en": "Cream 9% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4125721",
+    "name_he": "שמנת לבישול 15%שומן",
+    "name_en": "Cream 15% FatFat",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_4137021",
+    "name_he": "שמנת עמידה לבישול 10%",
+    "name_en": "Cream Long Life 10% Fat",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290106664562",
+    "name_he": "רוטב שמנת עם פטריות 9%",
+    "name_en": "Cream 9% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290112343260",
+    "name_he": "רוטב שמנת קלאסי 9%",
+    "name_en": "Cream 9% Fat",
+    "brand_he": "Yotvata",
+    "brand_en": "Yotvata",
+    "size": "259 ג"
+  },
+  {
+    "shufersal_id": "P_56951",
+    "name_he": "שמנת לבישול 15%עם פקק",
+    "name_en": "Cream 15% Fat",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290019790051",
+    "name_he": "שמנת לבישול 15%",
+    "name_en": "Cream 15% Fat",
+    "brand_he": "Ramat HaGolan",
+    "brand_en": "Ramat HaGolan",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290019635482",
+    "name_he": "רוטב אלפרדו עם ריקוטה",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635475",
+    "name_he": "רוטב מק אנד צ'יז",
+    "name_en": "'",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635451",
+    "name_he": "רוטב פקורינו ופלפל שחור",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635468",
+    "name_he": "רוטב רוזה מסקרפונה",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_554839",
+    "name_he": "גבינה מסקרפונה 40%",
+    "name_en": "Cheese 40% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290017065212",
+    "name_he": "קרם מסקרפונה 38%",
+    "name_en": "38% Fat",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290110321789",
+    "name_he": "מסקרפונה השף הלבן",
+    "name_en": "The White Chef",
+    "brand_he": "השף הלבן",
+    "brand_en": "The White Chef",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_4011291",
+    "name_he": "בסיס להכנת קצפת",
+    "name_en": "",
+    "brand_he": "ריצ'",
+    "brand_en": "'",
+    "size": "425 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_5411188096108",
+    "name_he": "שמנת צמחית לבישול",
+    "name_en": "Cream",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "250 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_8000215204370",
+    "name_he": "תחליף שמנת צמחי אורגני",
+    "name_en": "Cream Organic",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290017065649",
+    "name_he": "קרם פטיסייר",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290014758544",
+    "name_he": "חמאה בד\"ץ",
+    "name_en": "\"",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290116932033",
+    "name_he": "חמאה מהדרין",
+    "name_en": "Mehadrin",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4820217240114",
+    "name_he": "חמאה FERMA 82.5%",
+    "name_en": "FERMA 82.5% Fat",
+    "brand_he": "פרמה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_4823077630057",
+    "name_he": "חמאה 82.5% רושן",
+    "name_en": "82.5% Fat",
+    "brand_he": "ROSHEN",
+    "brand_en": "ROSHEN",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8175173",
+    "name_he": "חמאה ווליו ללא תוספת מלח",
+    "name_en": "Without",
+    "brand_he": "VALIO",
+    "brand_en": "VALIO",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5740900403215",
+    "name_he": "ממרח חמאה עם מלח",
+    "name_en": "",
+    "brand_he": "לורפק",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_5740900403222",
+    "name_he": "ממרח חמאה מופחת שומן+מלח",
+    "name_en": "Fat+",
+    "brand_he": "לורפק",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_5740900403239",
+    "name_he": "ממרח חמאה ללא מלח",
+    "name_en": "Without",
+    "brand_he": "לורפק",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_5740900403246",
+    "name_he": "ממרח חמאה ללא מלח",
+    "name_en": "Without",
+    "brand_he": "לורפק",
+    "brand_en": "",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_5740900403253",
+    "name_he": "ממרח חמאה עם מלח",
+    "name_en": "",
+    "brand_he": "לורפק",
+    "brand_en": "",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_3161911366429",
+    "name_he": "חמאה מלוחה רכה למריחה",
+    "name_en": "units",
+    "brand_he": "אלוויר",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_3161911229199",
+    "name_he": "חמאה צרפתית רכה למריחה",
+    "name_en": "units",
+    "brand_he": "אלוויר",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635130",
+    "name_he": "חמאה איטלקית מלוחה",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290019635147",
+    "name_he": "חמאה איטלקית",
+    "name_en": "",
+    "brand_he": "Gad Dairy",
+    "brand_en": "Gad Dairy",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_369709",
+    "name_he": "חמאה מתובלת",
+    "name_en": "",
+    "brand_he": "גבינות ניצן",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_7290108503746",
+    "name_he": "חמאה מלוחה ווליו",
+    "name_en": "",
+    "brand_he": "VALIO",
+    "brand_en": "VALIO",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_3274932103802",
+    "name_he": "חמאה זהב מלוחה",
+    "name_en": "",
+    "brand_he": "LE GALL",
+    "brand_en": "LE GALL",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8719200998018",
+    "name_he": "מחמאה מרגרינה בטעם חמאה",
+    "name_en": "",
+    "brand_he": "בלובנד",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8719200998001",
+    "name_he": "מרגרינה בלובנד ללת\"מ",
+    "name_en": "\"",
+    "brand_he": "בלובנד",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8719200997998",
+    "name_he": "בלובנד עם מלח",
+    "name_en": "",
+    "brand_he": "אפפילד",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_453866",
+    "name_he": "נטורינה עשיר בשמן קוקוס",
+    "name_en": "Rich Coconut",
+    "brand_he": "שמרית",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_453859",
+    "name_he": "נטורינה בטעם חמאה",
+    "name_en": "",
+    "brand_he": "שמרית",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8719200998032",
+    "name_he": "מזולה בטעם חמאה",
+    "name_en": "",
+    "brand_he": "מזולה",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_453897",
+    "name_he": "מרגרינה בטעם חמאה",
+    "name_en": "",
+    "brand_he": "שמרית",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_453880",
+    "name_he": "מרגרינה ללא מלח",
+    "name_en": "Without",
+    "brand_he": "שמרית",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8719200998094",
+    "name_he": "מזולה לאפייה ללא מלח",
+    "name_en": "Without",
+    "brand_he": "מזולה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_8719200998049",
+    "name_he": "מזולה גלורי רגיל",
+    "name_en": "Gil",
+    "brand_he": "מזולה",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290014760141",
+    "name_he": "משקה שקדים טרי",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290116933894",
+    "name_he": "שיבולת שועל וויט",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110325619",
+    "name_he": "משקה שיבולת שועל",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110325626",
+    "name_he": "משקה שקדים ללת\"ס",
+    "name_en": "\"",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110327514",
+    "name_he": "משקה ש.שועל אגוז לוז",
+    "name_en": ".",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290116934150",
+    "name_he": "משקה שיבולת שועל ללת\"ס",
+    "name_en": "\"",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_4130794",
+    "name_he": "משקה סויה במתיקות מופחתת",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_4132552",
+    "name_he": "משקה סויה לייט",
+    "name_en": "Light",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_4125585",
+    "name_he": "משקה סויה בטעם וניל",
+    "name_en": "Vanilla",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110324926",
+    "name_he": "משקה סויה ללא תוספת סוכר",
+    "name_en": "Without",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290116934341",
+    "name_he": "משקה סויה בטעם אגוזי לוז",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_4125578",
+    "name_he": "משקה סויה",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7296073675167",
+    "name_he": "משקה בריסטה סויה",
+    "name_en": "",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188134985",
+    "name_he": "משקה שיבולת שועל 3.5%",
+    "name_en": "3.5% Fat",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188140146",
+    "name_he": "בריסטה נוט מילק ש.שועל",
+    "name_en": ".",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7296073675181",
+    "name_he": "משקה בריסטה שיבולת שועל",
+    "name_en": "",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7296073675174",
+    "name_he": "משקה בריסטה שקדים",
+    "name_en": "",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290119375158",
+    "name_he": "אלפרו ש.שועל אייס קפה",
+    "name_en": ".",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110558420",
+    "name_he": "משקה ש.שועל בקירור",
+    "name_en": ".",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110558437",
+    "name_he": "משקה שקדים בקירור",
+    "name_en": "",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110570040",
+    "name_he": "אלפרו שקדים לל\"ס",
+    "name_en": "\"",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290119380855",
+    "name_he": "אלפרו ש.שועל וניל עוגיות",
+    "name_en": ". Vanilla",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8006040380173",
+    "name_he": "וולסויה משקה סויה קלאסי",
+    "name_en": "",
+    "brand_he": "וולסויה",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290110327033",
+    "name_he": "משקה סויה מועשר בחלבון",
+    "name_en": "Enriched Milk",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8006040380197",
+    "name_he": "וולסויה משקה שיבולת שועל",
+    "name_en": "",
+    "brand_he": "וולסויה",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8006040380166",
+    "name_he": "וולסויה משקה סויה בריסטה",
+    "name_en": "",
+    "brand_he": "וולסויה",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8000215204219",
+    "name_he": "משקה אורז אורגני",
+    "name_en": "Organic",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8000215204240",
+    "name_he": "משקה שקדים ואורז אורגני",
+    "name_en": "Organic",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8000215204554",
+    "name_he": "משקה אורז קוקוס אורגני",
+    "name_en": "Coconut Organic",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8000215204714",
+    "name_he": "משקה שיבולת שועל אורגני",
+    "name_en": "Organic",
+    "brand_he": "פרימאבנה",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8000215204677",
+    "name_he": "משקה שיבולת שועל בריסטה",
+    "name_en": "",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8000215204271",
+    "name_he": "משקה שקדים ואורז אישי",
+    "name_en": "",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "200 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_8000215204394",
+    "name_he": "משקה אגוזי לוז ואורז",
+    "name_en": "",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7394376621451",
+    "name_he": "משקה שיבולת שועל להקצפה",
+    "name_en": "Whipping",
+    "brand_he": "אוטלי",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188115366",
+    "name_he": "משקה שיבולת שועל אלפרו",
+    "name_en": "",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188129899",
+    "name_he": "משקה שקדים בריסטה אלפרו",
+    "name_en": "",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188124689",
+    "name_he": "אלפרו משקה ש.שועל ללת\"ס",
+    "name_en": ". \"",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7394376621093",
+    "name_he": "משקה ש.שועל מועשר בסידן",
+    "name_en": ". Enriched",
+    "brand_he": "אוטלי",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7394376620904",
+    "name_he": "משקה שיבולת שועל ל.סוכר",
+    "name_en": ".",
+    "brand_he": "אוטלי",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290017325972",
+    "name_he": "משקה שיבולת שועל 0%סוכר",
+    "name_en": "0% Fat",
+    "brand_he": "הרדוף",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188543398",
+    "name_he": "משקה סויה לל\"ס אלפרו",
+    "name_en": "\"",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8263658",
+    "name_he": "משקה סויה ללא תוספת סוכר",
+    "name_en": "Without",
+    "brand_he": "הרדוף",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188081852",
+    "name_he": "משקה סויה בטעם וניל",
+    "name_en": "Vanilla",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188115434",
+    "name_he": "משקה סויה בריסטה אלפרו",
+    "name_en": "",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8000215204684",
+    "name_he": "משקה סויה בריסטה ויטריז",
+    "name_en": "",
+    "brand_he": "ויטריז",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8410128785734",
+    "name_he": "ויוה סוי סויה בריסטה",
+    "name_en": "",
+    "brand_he": "ויוה סוי",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188112709",
+    "name_he": "משקה שקדים ללת\"ס אלפרו",
+    "name_en": "\"",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_5411188110835",
+    "name_he": "משקה שקדים אלפרו דל שומן",
+    "name_en": "Low Fat",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290017325453",
+    "name_he": "משקה שקדים ללת\"ס",
+    "name_en": "\"",
+    "brand_he": "הרדוף",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_8410128180621",
+    "name_he": "ויוה סויה שיבולת שועל",
+    "name_en": "",
+    "brand_he": "ויוה סוי",
+    "brand_en": "",
+    "size": "1 ל"
+  },
+  {
+    "shufersal_id": "P_7290015599023",
+    "name_he": "צהובה טבעונית קלאסי",
+    "name_en": "",
+    "brand_he": "וגה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290015599054",
+    "name_he": "צהובה טבעונית צ'דר",
+    "name_en": "'",
+    "brand_he": "וגה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290015599078",
+    "name_he": "צהובה טבעונית עשבי תיבול",
+    "name_en": "",
+    "brand_he": "וגה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290015599061",
+    "name_he": "צהובה טבעונית מוצרלה",
+    "name_en": "",
+    "brand_he": "וגה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290114320238",
+    "name_he": "גליל טבעוני גבינת עיזים",
+    "name_en": "Cheese",
+    "brand_he": "מאמא קיו",
+    "brand_en": "",
+    "size": "160 ג"
+  },
+  {
+    "shufersal_id": "P_7290114320245",
+    "name_he": "גליל טבעוני בטעם טבעי",
+    "name_en": "Natural",
+    "brand_he": "מאמא קיו",
+    "brand_en": "",
+    "size": "160 ג"
+  },
+  {
+    "shufersal_id": "P_7290109640198",
+    "name_he": "מגורדת לפיצה ואפיה",
+    "name_en": "Shredded",
+    "brand_he": "משומשו",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7297488099890",
+    "name_he": "פרוסות קלאסי 9%",
+    "name_en": "Sliced 9% Fat",
+    "brand_he": "משומשו",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5202390015618",
+    "name_he": "צהובה טבעונית אורגינלי",
+    "name_en": "",
+    "brand_he": "ויולייף",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7296073630814",
+    "name_he": "פרוסות בסגנון גאודה",
+    "name_en": "Sliced",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7296073630838",
+    "name_he": "מגורדת בסגנון מוצרלה",
+    "name_en": "Shredded",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874001299",
+    "name_he": "בסגנון פטה יוונית",
+    "name_en": "",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874002043",
+    "name_he": "בסגנון מוצרלה מגורדת",
+    "name_en": "Shredded",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290018593325",
+    "name_he": "לאבנה שקדים",
+    "name_en": "",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "220 ג"
+  },
+  {
+    "shufersal_id": "P_7290018593035",
+    "name_he": "כמוצרלה קשיו",
+    "name_en": "",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874002340",
+    "name_he": "בסגנון פרמג'נו משולש",
+    "name_en": "'",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874001909",
+    "name_he": "בסגנון פטה יוונית אורגנו",
+    "name_en": "",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290018593004",
+    "name_he": "פטה שקדים טבעי",
+    "name_en": "Natural",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290018593011",
+    "name_he": "פטה שקדים עשבי תיבול",
+    "name_en": "",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874002210",
+    "name_he": "בסגנון קממבר 200 גרם",
+    "name_en": "200 g",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874000063",
+    "name_he": "בסגנון מוצארלה צאנק",
+    "name_en": "",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290018593301",
+    "name_he": "קשיו כמהין חצי קשה",
+    "name_en": "",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874000032",
+    "name_he": "בסגנון פרמג'נו מגורד",
+    "name_en": "' Shredded",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "100 ג"
+  },
+  {
+    "shufersal_id": "P_5292874001374",
+    "name_he": "בסגנון BLUE/כחולה",
+    "name_en": "BLUE/",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_3189199",
+    "name_he": "צהובה חריפה",
+    "name_en": "",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7290110329808",
+    "name_he": "מעדן סויה עם תות",
+    "name_en": "Strawberry",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110329792",
+    "name_he": "מעדן סויה ביו אפרסק",
+    "name_en": "Bio Peach",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110329815",
+    "name_he": "מעדן סויה ביו מעודנת",
+    "name_en": "Bio",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110329822",
+    "name_he": "מעדן סויה ביו פירות יער",
+    "name_en": "Bio Forest Fruits",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110329846",
+    "name_he": "מעדן סויה ביו טבעי",
+    "name_en": "Bio Natural",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290110325312",
+    "name_he": "מעדן סויה ביו טעם תות 3%",
+    "name_en": "Bio Strawberry 3% Fat",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290110325305",
+    "name_he": "מעדן גו סויה מעודן",
+    "name_en": "",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290014760134",
+    "name_he": "מעדן סויה בטעם וניל",
+    "name_en": "Vanilla",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290014762800",
+    "name_he": "מעדן סויה עם שוקולד",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290110324858",
+    "name_he": "מעדן שקדים אגוזי לוז",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_7290019167082",
+    "name_he": "מלבי טבעוני",
+    "name_en": "",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290019167099",
+    "name_he": "טירמיסו טבעוני",
+    "name_en": "",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "86 ג"
+  },
+  {
+    "shufersal_id": "P_7290019167105",
+    "name_he": "עוגת פירורים טבעונית",
+    "name_en": "",
+    "brand_he": "עדן קינוחים",
+    "brand_en": "",
+    "size": "92 ג"
+  },
+  {
+    "shufersal_id": "P_7290116934488",
+    "name_he": "משקה סויה גו קפה",
+    "name_en": "",
+    "brand_he": "יופלה גו",
+    "brand_en": "Yoplait",
+    "size": "500 מ\"ל"
+  },
+  {
+    "shufersal_id": "P_7290018593202",
+    "name_he": "שיוגורט מעדן שקדים",
+    "name_en": "Yogurt",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "240 ג"
+  },
+  {
+    "shufersal_id": "P_3726615",
+    "name_he": "טופו ויילר",
+    "name_en": "",
+    "brand_he": "משק ויילר",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073345749",
+    "name_he": "טופו רך גרין",
+    "name_en": "",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073345756",
+    "name_he": "טופו בתוספת סידן",
+    "name_en": "",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073345763",
+    "name_he": "טופו טעם טבעי גרין",
+    "name_en": "Natural",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7290110322021",
+    "name_he": "טופו עם בזיליקום",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7290110322014",
+    "name_he": "טופו בטעם טבעי",
+    "name_en": "Natural",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7290110322038",
+    "name_he": "טופו פיקנטי",
+    "name_en": "",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7296073345732",
+    "name_he": "טופו אורגני",
+    "name_en": "Organic",
+    "brand_he": "גרין",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_7290110328641",
+    "name_he": "טופו טבעי",
+    "name_en": "Natural",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_3726516",
+    "name_he": "טופו קשה משפחתי",
+    "name_en": "",
+    "brand_he": "משק ויילר",
+    "brand_en": "",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_8888351200124",
+    "name_he": "טופו במרקם קשה",
+    "name_en": "",
+    "brand_he": "טעמי אסיה",
+    "brand_en": "",
+    "size": "1.2 קג"
+  },
+  {
+    "shufersal_id": "P_8888351200070",
+    "name_he": "טופו טרי במרקם קשה",
+    "name_en": "",
+    "brand_he": "טעמי אסיה",
+    "brand_en": "",
+    "size": "400 ג"
+  },
+  {
+    "shufersal_id": "P_7290110324711",
+    "name_he": "ממרח סויה 9% בטעם טבעי",
+    "name_en": "9% Fat Natural",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290110324728",
+    "name_he": "ממרח סויה 9% שום שמיר",
+    "name_en": "9% Fat",
+    "brand_he": "Tnuva",
+    "brand_en": "Tnuva",
+    "size": "250 ג"
+  },
+  {
+    "shufersal_id": "P_7290114320207",
+    "name_he": "קראמאמא זיתים",
+    "name_en": "Olives",
+    "brand_he": "מאמא קיו",
+    "brand_en": "",
+    "size": "240 ג"
+  },
+  {
+    "shufersal_id": "P_7290114320191",
+    "name_he": "קרמאמא שום שמיר",
+    "name_en": "",
+    "brand_he": "מאמא קיו",
+    "brand_en": "",
+    "size": "240 ג"
+  },
+  {
+    "shufersal_id": "P_7290114320214",
+    "name_he": "קרמאמא מעושנת בצל",
+    "name_en": "Onion",
+    "brand_he": "מאמא קיו",
+    "brand_en": "",
+    "size": "240 ג"
+  },
+  {
+    "shufersal_id": "P_9720188050109",
+    "name_he": "ממרח טופו בסגנון גבינה",
+    "name_en": "Cheese",
+    "brand_he": "טופוטי",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_9720188060108",
+    "name_he": "ממרח טופו בסגנון שמנת",
+    "name_en": "Cream",
+    "brand_he": "טופוטי",
+    "brand_en": "",
+    "size": "340 ג"
+  },
+  {
+    "shufersal_id": "P_7290015599504",
+    "name_he": "ממרח בטעם חמאה אורגני",
+    "name_en": "Organic",
+    "brand_he": "וגה",
+    "brand_en": "",
+    "size": "225 ג"
+  },
+  {
+    "shufersal_id": "P_5202390021121",
+    "name_he": "ויולייף קרמי טבעוני",
+    "name_en": "",
+    "brand_he": "ויולייף",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_5202390021510",
+    "name_he": "ויולייף קרמי שום ועשבי",
+    "name_en": "",
+    "brand_he": "ויולייף",
+    "brand_en": "",
+    "size": "150 ג"
+  },
+  {
+    "shufersal_id": "P_7290109640372",
+    "name_he": "ממרח עם זיתים ע\"ב קוקוס",
+    "name_en": "Olives \" Coconut",
+    "brand_he": "משומשו",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290109640402",
+    "name_he": "ממרח בטעם טבעי ע\"ב קוקוס",
+    "name_en": "Natural \" Coconut",
+    "brand_he": "משומשו",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_7290018593233",
+    "name_he": "ממרח שקדים סגנון גבינה",
+    "name_en": "Cheese",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "240 ג"
+  },
+  {
+    "shufersal_id": "P_7290018593240",
+    "name_he": "ממרח שקדים עם זיתים",
+    "name_en": "Olives",
+    "brand_he": "פלנטי",
+    "brand_en": "",
+    "size": "240 ג"
+  },
+  {
+    "shufersal_id": "P_5292874002289",
+    "name_he": "ממרח בסגנון צזיקי יווני",
+    "name_en": "",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5292874002326",
+    "name_he": "ממרח עגבניות ובזיליקום",
+    "name_en": "Tomatoes",
+    "brand_he": "גרין ויה",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5202390020407",
+    "name_he": "בסגנון פטה יוונית טבעוני",
+    "name_en": "",
+    "brand_he": "ויולייף",
+    "brand_en": "",
+    "size": "200 ג"
+  },
+  {
+    "shufersal_id": "P_5411188094159",
+    "name_he": "מעדן סויה ט.שוקולד מריר",
+    "name_en": ".",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_54051140",
+    "name_he": "מעדן סויה בטעם וניל",
+    "name_en": "Vanilla",
+    "brand_he": "אלפרו",
+    "brand_en": "",
+    "size": "125 ג"
+  },
+  {
+    "shufersal_id": "P_3189076",
+    "name_he": "פיצרלה מגורדת 22% שומן",
+    "name_en": "Shredded 22% Fat Fat",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_6920836",
+    "name_he": "מעושן פרוס",
+    "name_en": "Sliced",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_6920829",
+    "name_he": "בנוסח צ'דר פרוס",
+    "name_en": "' Sliced",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_6920911",
+    "name_he": "הולנדית פרוס",
+    "name_en": "Sliced",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_6920935",
+    "name_he": "פיקנטית פרוס",
+    "name_en": "Sliced",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_6920843",
+    "name_he": "בנוסח מוצרלה",
+    "name_en": "",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "350 ג"
+  },
+  {
+    "shufersal_id": "P_5384899",
+    "name_he": "בסגנון פטה-פטינה 21%",
+    "name_en": "- 21% Fat",
+    "brand_he": "גולדן",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_4229740",
+    "name_he": "סגנון פטה 21%",
+    "name_en": "21% Fat",
+    "brand_he": "פברסקוב",
+    "brand_en": "",
+    "size": "500 ג"
+  },
+  {
+    "shufersal_id": "P_9957129",
+    "name_he": "פטינה",
+    "name_en": "",
+    "brand_he": "ארלה",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073730330",
+    "name_he": "פטינה בסגנון פטה 22%",
+    "name_en": "22% Fat",
+    "brand_he": "Rucker Quantum",
+    "brand_en": "Rucker Quantum",
+    "size": "350ג"
+  },
+  {
+    "shufersal_id": "P_3189274",
+    "name_he": "צהובה מעושנת",
+    "name_en": "",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_7296073594260",
+    "name_he": "צהובה מעושנת במשק",
+    "name_en": "Farm",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "300 ג"
+  },
+  {
+    "shufersal_id": "P_3189045",
+    "name_he": "צהובה הולנדית",
+    "name_en": "",
+    "brand_he": "כפיר",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  },
+  {
+    "shufersal_id": "P_3578931",
+    "name_he": "גבינה ראסטה חצי רכה 20%",
+    "name_en": "Cheese 20% Fat",
+    "brand_he": "כללי",
+    "brand_en": "",
+    "size": "מחיר לפי משקל"
+  }
+]

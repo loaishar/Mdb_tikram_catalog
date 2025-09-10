@@ -1,0 +1,1453 @@
+[
+  {
+    "name": "נפוליאון25% מוקצף ט.טבעי",
+    "brand": "נפוליאון",
+    "size": "180 ג",
+    "description": "נפוליאון25% מוקצף ט.טבעי - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/EZI56_L_P_7290116935409_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נפוליאון25% מוקצף ט.טבעי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290116935409",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817342Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת שמנת 25% פילדלפיה",
+    "brand": "פילדלפיה",
+    "size": "150 ג",
+    "description": "גבינת שמנת 25% פילדלפיה - פילדלפיה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RGX50_L_P_7622201139278_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת שמנת 25% פילדלפיה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7622201139278",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816620Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת פילדלפיה לייט 13%",
+    "brand": "פילדלפיה",
+    "size": "150 ג",
+    "description": "גבינת פילדלפיה לייט 13% - פילדלפיה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DYH54_L_P_7622201798154_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת פילדלפיה לייט 13%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7622201798154",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816658Z"
+      }
+    }
+  },
+  {
+    "name": "פילדלפיה שום+ע.תיבול 12%",
+    "brand": "פילדלפיה",
+    "size": "150 ג",
+    "description": "פילדלפיה שום+ע.תיבול 12% - פילדלפיה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KRM44_L_P_7622201521493_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פילדלפיה שום+ע.תיבול 12%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7622201521493",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816696Z"
+      }
+    }
+  },
+  {
+    "name": "ממרח צמחי בתוספת חלבון",
+    "brand": "פילדלפיה",
+    "size": "145 ג",
+    "description": "ממרח צמחי בתוספת חלבון - פילדלפיה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JVW38_L_P_7622202030635_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ממרח צמחי בתוספת חלבון",
+        "ממרח צמחי בתוספת חלבון פילדלפיה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7622202030635",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816734Z"
+      }
+    }
+  },
+  {
+    "name": "ארלה גבינת שמנת עם שום",
+    "brand": "ארלה",
+    "size": "200 ג",
+    "description": "ארלה גבינת שמנת עם שום - ארלה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UAP52_L_P_5711953106590_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ארלה גבינת שמנת עם שום"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5711953106590",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816942Z"
+      }
+    }
+  },
+  {
+    "name": "ארלה גבינת שמנת טעם טבעי",
+    "brand": "ארלה",
+    "size": "200 ג",
+    "description": "ארלה גבינת שמנת טעם טבעי - ארלה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UAI54_L_P_5711953106583_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ארלה גבינת שמנת טעם טבעי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5711953106583",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816980Z"
+      }
+    }
+  },
+  {
+    "name": "ארלה גבינת שמנת ע.תיבול",
+    "brand": "ארלה",
+    "size": "200 ג",
+    "description": "ארלה גבינת שמנת ע.תיבול - ארלה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UBF50_L_P_5711953106606_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ארלה גבינת שמנת ע.תיבול"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5711953106606",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817018Z"
+      }
+    }
+  },
+  {
+    "name": "פטינה",
+    "brand": "ארלה",
+    "size": "מחיר לפי משקל",
+    "description": "פטינה - ארלה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MLM42_L_P_9957129_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פטינה",
+        "פטינה ארלה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9957129",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835517Z"
+      }
+    }
+  },
+  {
+    "name": "סימפוניה 16%",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "סימפוניה 16% - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AJZ54_L_P_7290119375370_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סימפוניה 16%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290119375370",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817174Z"
+      }
+    }
+  },
+  {
+    "name": "סימפוניה 16% שום קונפי",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "סימפוניה 16% שום קונפי - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QIQ48_L_P_7290112355751_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סימפוניה 16% שום קונפי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290112355751",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817212Z"
+      }
+    }
+  },
+  {
+    "name": "סימפוניה גב.במרקם שמנת5%",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "סימפוניה גב.במרקם שמנת5% - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UOE30_L_P_4584351_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סימפוניה גב.במרקם שמנת5%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4584351",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817397Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת סימפוניה 5%זיתים",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "גבינת סימפוניה 5%זיתים - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ESB34_L_P_5839108_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת סימפוניה 5%זיתים"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5839108",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817449Z"
+      }
+    }
+  },
+  {
+    "name": "סימפוניה פלפל שיפקה חריף",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "סימפוניה פלפל שיפקה חריף - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZYG60_L_P_7290105366993_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סימפוניה פלפל שיפקה חריף"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290105366993",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817492Z"
+      }
+    }
+  },
+  {
+    "name": "סימפוניה שום שמיר 5%",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "סימפוניה שום שמיר 5% - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QUB56_L_P_7290107944472_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סימפוניה שום שמיר 5%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290107944472",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817532Z"
+      }
+    }
+  },
+  {
+    "name": "סימפוניה 5% בצל מקורמל",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "סימפוניה 5% בצל מקורמל - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WDR34_L_P_7290112342102_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סימפוניה 5% בצל מקורמל"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290112342102",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817571Z"
+      }
+    }
+  },
+  {
+    "name": "סימפוניה 5% עירית",
+    "brand": "סימפוניה",
+    "size": "200 ג",
+    "description": "סימפוניה 5% עירית - סימפוניה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FFN48_L_P_7290110573058_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סימפוניה 5% עירית"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290110573058",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817613Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת עזים 5% טל",
+    "brand": "מחלבת טל",
+    "size": "200 ג",
+    "description": "גבינת עזים 5% טל - מחלבת טל",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CYI30_L_P_5416095_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עזים 5% טל",
+        "גבינת עזים 5% טל מחלבת טל"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5416095",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818982Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת רסטה",
+    "brand": "MURATBEY",
+    "size": "150 ג",
+    "description": "גבינת רסטה - MURATBEY",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MQF62_L_P_8695543007924_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת רסטה",
+        "גבינת רסטה MURATBEY"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8695543007924",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819116Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת מוצרלה בלוק 22%",
+    "brand": "מחלבת המושבה",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת מוצרלה בלוק 22% - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WHW22_L_P_2511571_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת מוצרלה בלוק 22%",
+        "גבינת מוצרלה בלוק 22% מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2511571",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820497Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת מוצרלה22% מגורדת",
+    "brand": "מחלבת המושבה",
+    "size": "250 ג",
+    "description": "גבינת מוצרלה22% מגורדת - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/HJU58_L_P_7296073707073_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת מוצרלה22% מגורדת",
+        "גבינת מוצרלה22% מגורדת מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073707073",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820538Z"
+      }
+    }
+  },
+  {
+    "name": "בולגרית16% המושבה",
+    "brand": "מחלבת המושבה",
+    "size": "350 ג",
+    "description": "בולגרית16% המושבה - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VCO62_L_P_7296073593317_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בולגרית16% המושבה",
+        "בולגרית16% המושבה מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073593317",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.823291Z"
+      }
+    }
+  },
+  {
+    "name": "בולגרית 16% מסורית המו",
+    "brand": "מחלבת המושבה",
+    "size": "350 ג",
+    "description": "בולגרית 16% מסורית המו - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VQQ68_L_P_7296073593683_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בולגרית 16% מסורית המו",
+        "בולגרית 16% מסורית המו מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073593683",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.823341Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צפתית 5%",
+    "brand": "מחלבת המושבה",
+    "size": "300 ג",
+    "description": "גבינה צפתית 5% - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NWR30_L_P_4861056_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צפתית 5%",
+        "גבינה צפתית 5% מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4861056",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.823754Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צפתית בטעמים",
+    "brand": "מחלבת המושבה",
+    "size": "מחיר לפי משקל",
+    "description": "גבינה צפתית בטעמים - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OIJ28_L_P_4861360_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צפתית בטעמים",
+        "גבינה צפתית בטעמים מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4861360",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.823799Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צפתית עם קצח",
+    "brand": "מחלבת המושבה",
+    "size": "250 ג",
+    "description": "גבינה צפתית עם קצח - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/HGC70_L_P_7296073706977_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צפתית עם קצח",
+        "גבינה צפתית עם קצח מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073706977",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.823839Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צפתית קשה24% מגורד",
+    "brand": "מחלבת המושבה",
+    "size": "250 ג",
+    "description": "גבינה צפתית קשה24% מגורד - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TOF72_L_P_7296073644996_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צפתית קשה24% מגורד",
+        "גבינה צפתית קשה24% מגורד מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073644996",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.824007Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת ברינזה צאן 18%",
+    "brand": "מחלבת המושבה",
+    "size": "200 ג",
+    "description": "גבינת ברינזה צאן 18% - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VWS20_L_P_2511281_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת ברינזה צאן 18%",
+        "גבינת ברינזה צאן 18% מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2511281",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.824049Z"
+      }
+    }
+  },
+  {
+    "name": "טבורוג 9% שומן",
+    "brand": "מחלבת המושבה",
+    "size": "מחיר לפי משקל",
+    "description": "טבורוג 9% שומן - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OFM34_L_P_4861285_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טבורוג 9% שומן",
+        "טבורוג 9% שומן מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4861285",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.825236Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת קאש 9%",
+    "brand": "מחלבת המושבה",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת קאש 9% - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NWY28_L_P_4861063_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת קאש 9%",
+        "גבינת קאש 9% מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4861063",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.825774Z"
+      }
+    }
+  },
+  {
+    "name": "אצבעות שוקולד וניל",
+    "brand": "מחלבת המושבה",
+    "size": "40 ג",
+    "description": "אצבעות שוקולד וניל - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WCI22_L_P_2511427_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "אצבעות שוקולד וניל",
+        "אצבעות שוקולד וניל מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2511427",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.825827Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת טבורוג בטעמים",
+    "brand": "מחלבת המושבה",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת טבורוג בטעמים - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OEO28_L_P_4861261_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת טבורוג בטעמים",
+        "גבינת טבורוג בטעמים מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4861261",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.825919Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת טבורוג עם צימוקים",
+    "brand": "מחלבת המושבה",
+    "size": "300 ג",
+    "description": "גבינת טבורוג עם צימוקים - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/HJG62_L_P_7296073707059_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת טבורוג עם צימוקים",
+        "גבינת טבורוג עם צימוקים מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073707059",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.825959Z"
+      }
+    }
+  },
+  {
+    "name": "לאבנה בשמן זית וזעתר 5%",
+    "brand": "מחלבת המושבה",
+    "size": "מחיר לפי משקל",
+    "description": "לאבנה בשמן זית וזעתר 5% - מחלבת המושבה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OGQ28_L_P_4861315_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "לאבנה בשמן זית וזעתר 5%",
+        "לאבנה בשמן זית וזעתר 5% מחלבת המושבה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4861315",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826144Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה הולנדית עיזים30.6%",
+    "brand": "ג'קס צ'יס",
+    "size": "לפי משקל",
+    "description": "גאודה הולנדית עיזים30.6% - ג'קס צ'יס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DCW34_L_P_4256197_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה הולנדית עיזים30.6%",
+        "גאודה הולנדית עיזים30.6% ג'קס צ'יס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4256197",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821500Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה עיזים גוש 30.60%",
+    "brand": "הולנדרס",
+    "size": "200 ג",
+    "description": "גאודה עיזים גוש 30.60% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JYY66_L_P_7296073726395_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה עיזים גוש 30.60%",
+        "גאודה עיזים גוש 30.60% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073726395",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821625Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה פסטו אדום גוש 32%",
+    "brand": "הולנדרס",
+    "size": "250ג",
+    "description": "גאודה פסטו אדום גוש 32% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JYR68_L_P_7296073726388_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה פסטו אדום גוש 32%",
+        "גאודה פסטו אדום גוש 32% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073726388",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821747Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה גאודה פסטו אדום32%",
+    "brand": "הולנדרס",
+    "size": "מחיר לפי משקל",
+    "description": "גבינה גאודה פסטו אדום32% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QQJ34_L_P_8606608_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה גאודה פסטו אדום32%",
+        "גבינה גאודה פסטו אדום32% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8606608",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821786Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה עם פסטו ירוק32%",
+    "brand": "הולנדרס",
+    "size": "מחיר לפי משקל",
+    "description": "גאודה עם פסטו ירוק32% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QQQ32_L_P_8606615_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה עם פסטו ירוק32%",
+        "גאודה עם פסטו ירוק32% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8606615",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821827Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה בקר כמהין גוש 32%",
+    "brand": "הולנדרס",
+    "size": "250 ג",
+    "description": "גאודה בקר כמהין גוש 32% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KAJ58_L_P_7296073726432_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה בקר כמהין גוש 32%",
+        "גאודה בקר כמהין גוש 32% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073726432",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821869Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה גוסטו גוש 30%",
+    "brand": "הולנדרס",
+    "size": "200 ג",
+    "description": "גאודה גוסטו גוש 30% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JZV62_L_P_7296073726418_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה גוסטו גוש 30%",
+        "גאודה גוסטו גוש 30% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073726418",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821908Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה גוסט 30%",
+    "brand": "הולנדרס",
+    "size": "מחיר לפי משקל",
+    "description": "גאודה גוסט 30% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/REL40_L_P_8606974_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה גוסט 30%",
+        "גאודה גוסט 30% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8606974",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821949Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה עם עשבי תיבול 32%",
+    "brand": "הולנדרס",
+    "size": "מחיר לפי משקל",
+    "description": "גאודה עם עשבי תיבול 32% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RDN34_L_P_8606950_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה עם עשבי תיבול 32%",
+        "גאודה עם עשבי תיבול 32% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8606950",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821988Z"
+      }
+    }
+  },
+  {
+    "name": "קרם צ'יז דלי 16%",
+    "brand": "הולנדרס",
+    "size": "250 ג",
+    "description": "קרם צ'יז דלי 16% - הולנדרס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KAC60_L_P_7296073726425_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קרם צ'יז דלי 16%",
+        "קרם צ'יז דלי 16% הולנדרס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073726425",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.825177Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת עיזים חצי קשה 32%",
+    "brand": "DISCOVERY ADVENTURES",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת עיזים חצי קשה 32% - DISCOVERY ADVENTURES",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DMX36_L_P_8175906_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עיזים חצי קשה 32%",
+        "גבינת עיזים חצי קשה 32% DISCOVERY ADVENTURES"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8175906",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.821667Z"
+      }
+    }
+  },
+  {
+    "name": "בסגנון דנבלו 28% שומן",
+    "brand": "דנמרק",
+    "size": "מחיר לפי משקל",
+    "description": "בסגנון דנבלו 28% שומן - דנמרק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JJR30_L_P_4225278_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בסגנון דנבלו 28% שומן",
+        "בסגנון דנבלו 28% שומן דנמרק"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4225278",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822027Z"
+      }
+    }
+  },
+  {
+    "name": "גב.בסגנון דנבלו 28% נטו",
+    "brand": "דנמרק",
+    "size": "מחיר לפי משקל",
+    "description": "גב.בסגנון דנבלו 28% נטו - דנמרק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XCE72_L_P_7296073594659_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גב.בסגנון דנבלו 28% נטו",
+        "גב.בסגנון דנבלו 28% נטו דנמרק"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073594659",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822068Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת ברס בלו 42%",
+    "brand": "ברס בלו",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת ברס בלו 42% - ברס בלו",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LJM38_L_P_4982393_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת ברס בלו 42%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4982393",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822189Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מאסדם הולנדי 29%",
+    "brand": "מאסדם",
+    "size": "מחיר לפי משקל",
+    "description": "גבינה מאסדם הולנדי 29% - מאסדם",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JZP20_L_P_2345060_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מאסדם הולנדי 29%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2345060",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822337Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת ברי צרפתית 32%",
+    "brand": "איסיני סנט מר",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת ברי צרפתית 32% - איסיני סנט מר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/BUL28_L_P_8403238_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת ברי צרפתית 32%",
+        "גבינת ברי צרפתית 32% איסיני סנט מר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8403238",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822681Z"
+      }
+    }
+  }
+]

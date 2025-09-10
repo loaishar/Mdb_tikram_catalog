@@ -1,0 +1,659 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119380824"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110329716"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933214"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5711953160363"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5711953172441"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934273"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب فانيليا 2% دسم في كرتون",
+        "aliases.ar": [
+          "حليب فانيليا 2% دسم في كرتون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019790167"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب .فانيليا3% دسم",
+        "aliases.ar": [
+          "حليب .فانيليا3% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3029792"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوطفاتا",
+        "aliases.ar": [
+          "يوطفاتا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_42855"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "كيس يوطفاتا",
+        "aliases.ar": [
+          "كيس يوطفاتا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934518"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_42503"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب طويل الأمد 3% دسم دسم",
+        "aliases.ar": [
+          "حليب طويل الأمد 3% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125509"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 15% دسم",
+        "aliases.ar": [
+          "قشطة 15% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_72963753"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 27% دسم",
+        "aliases.ar": [
+          "قشطة 27% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_41858"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 15% دسم مدعم",
+        "aliases.ar": [
+          "قشطة 15% دسم مدعم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125370"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة تنوفا 9% دسم دسم",
+        "aliases.ar": [
+          "قشطة تنوفا 9% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_41445"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' تنوفا 5% دسم",
+        "aliases.ar": [
+          "' تنوفا 5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_41452"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' مهدرين 9% دسم دسم",
+        "aliases.ar": [
+          "' مهدرين 9% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014758681"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "1% دسم دسم",
+        "aliases.ar": [
+          "1% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110321277"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' 5% دسم",
+        "aliases.ar": [
+          "' 5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102397679"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "5% دسم",
+        "aliases.ar": [
+          "5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5838972"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة سكي 5% دسم",
+        "aliases.ar": [
+          "جبنة سكي 5% دسم"
+        ],
+        "brand_ar": "سكي"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4129545"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة بيضاء وحدات 3% دسم",
+        "aliases.ar": [
+          "جبنة بيضاء وحدات 3% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4131227"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة بيضاء 3% دسم تنوفا",
+        "aliases.ar": [
+          "جبنة بيضاء 3% دسم تنوفا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_56272"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة بيضاء زيتون 5% دسم",
+        "aliases.ar": [
+          "جبنة بيضاء زيتون 5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934280"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة بيضاء 5% دسم",
+        "aliases.ar": [
+          "جبنة بيضاء 5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116931241"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' تنوفا 12% دسم دسم",
+        "aliases.ar": [
+          "' تنوفا 12% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_47942"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 9% دسم دسم كوشر مهدرين",
+        "aliases.ar": [
+          "جبنة 9% دسم دسم كوشر مهدرين"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_48192"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة بيضاء 9% دسم دسم",
+        "aliases.ar": [
+          "جبنة بيضاء 9% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4127817"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة بيضاء 9% دسم دسم",
+        "aliases.ar": [
+          "جبنة بيضاء 9% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065137"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "وحدات 5% دسم",
+        "aliases.ar": [
+          "وحدات 5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554822"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جاد 5% دسم دسم",
+        "aliases.ar": [
+          "جاد 5% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014890176"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "5% دسم",
+        "aliases.ar": [
+          "5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114312189"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "38% دسم",
+        "aliases.ar": [
+          "38% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290011499846"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "9% دسم",
+        "aliases.ar": [
+          "9% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014890206"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 40% دسم",
+        "aliases.ar": [
+          "قشطة 40% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635352"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "16% دسم",
+        "aliases.ar": [
+          "16% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_474540"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 3% دسم دسم",
+        "aliases.ar": [
+          "جبنة 3% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_2107965"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 5% دسم دسم",
+        "aliases.ar": [
+          "جبنة 5% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_47546"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 5% دسم دسم",
+        "aliases.ar": [
+          "جبنة 5% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102392049"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 5% دسم",
+        "aliases.ar": [
+          "جبنة 5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_52717"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' 5% دسم",
+        "aliases.ar": [
+          "' 5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_48307"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' تنوفا 5% دسم زيتون",
+        "aliases.ar": [
+          "' تنوفا 5% دسم زيتون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125776"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة صفراء عيمك شرائح 28% دسم",
+        "aliases.ar": [
+          "جبنة صفراء عيمك شرائح 28% دسم"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_57118"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة عيمك شريحة 28% دسم",
+        "aliases.ar": [
+          "جبنة عيمك شريحة 28% دسم"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4122195"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة حليب شرائح 28% دسم",
+        "aliases.ar": [
+          "جبنة حليب شرائح 28% دسم"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102394463"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة صفراء نوعام 28% دسم",
+        "aliases.ar": [
+          "جبنة صفراء نوعام 28% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4122270"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة صفراء عيمك شرائح 28% دسم",
+        "aliases.ar": [
+          "جبنة صفراء عيمك شرائح 28% دسم"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_52311"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة عيمك15% دسم شرائح",
+        "aliases.ar": [
+          "جبنة عيمك15% دسم شرائح"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_57088"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة صفراء عيمك 28% دسم",
+        "aliases.ar": [
+          "جبنة صفراء عيمك 28% دسم"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102394821"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة صفراء 28% دسمنوعام",
+        "aliases.ar": [
+          "جبنة صفراء 28% دسمنوعام"
+        ]
+      }
+    }
+  }
+]

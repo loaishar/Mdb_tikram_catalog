@@ -1,0 +1,703 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4132552"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Light",
+        "aliases.en": [
+          "Light"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125585"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Vanilla",
+        "aliases.en": [
+          "Vanilla"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110324926"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Without",
+        "aliases.en": [
+          "Without"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934341"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4125578"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073675167"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188134985"
+    },
+    "update": {
+      "$set": {
+        "name_en": "3.5% Fat",
+        "aliases.en": [
+          "3.5% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188140146"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".",
+        "aliases.en": [
+          "."
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073675181"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073675174"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119375158"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".",
+        "aliases.en": [
+          "."
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110558420"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".",
+        "aliases.en": [
+          "."
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110558437"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110570040"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119380855"
+    },
+    "update": {
+      "$set": {
+        "name_en": ". Vanilla",
+        "aliases.en": [
+          ". Vanilla"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8006040380173"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110327033"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Enriched Milk",
+        "aliases.en": [
+          "Enriched Milk"
+        ],
+        "aliases.ar": [],
+        "brand_en": "Yoplait"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8006040380197"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8006040380166"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204219"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Organic",
+        "aliases.en": [
+          "Organic"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204240"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Organic",
+        "aliases.en": [
+          "Organic"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204554"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Coconut Organic",
+        "aliases.en": [
+          "Coconut Organic"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204714"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Organic",
+        "aliases.en": [
+          "Organic"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204677"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204271"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204394"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7394376621451"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Whipping",
+        "aliases.en": [
+          "Whipping"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188115366"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188129899"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188124689"
+    },
+    "update": {
+      "$set": {
+        "name_en": ". \"",
+        "aliases.en": [
+          ". \""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7394376621093"
+    },
+    "update": {
+      "$set": {
+        "name_en": ". Enriched",
+        "aliases.en": [
+          ". Enriched"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7394376620904"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".",
+        "aliases.en": [
+          "."
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017325972"
+    },
+    "update": {
+      "$set": {
+        "name_en": "0% Fat",
+        "aliases.en": [
+          "0% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188543398"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8263658"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Without",
+        "aliases.en": [
+          "Without"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188081852"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Vanilla",
+        "aliases.en": [
+          "Vanilla"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188115434"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204684"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8410128785734"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188112709"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188110835"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Low Fat",
+        "aliases.en": [
+          "Low Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017325453"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8410128180621"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290015599023"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290015599054"
+    },
+    "update": {
+      "$set": {
+        "name_en": "'",
+        "aliases.en": [
+          "'"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290015599078"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290015599061"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114320238"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese",
+        "aliases.en": [
+          "Cheese"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114320245"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Natural",
+        "aliases.en": [
+          "Natural"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290109640198"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Shredded",
+        "aliases.en": [
+          "Shredded"
+        ],
+        "aliases.ar": []
+      }
+    }
+  }
+]

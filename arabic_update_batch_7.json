@@ -1,0 +1,658 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073229681"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض عضوي M+ 3",
+        "aliases.ar": [
+          "بيض عضوي M+ 3"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1201855"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض 3 L",
+        "aliases.ar": [
+          "بيض 3 L"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073410430"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض L شوبرسال",
+        "aliases.ar": [
+          "بيض L شوبرسال"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073484417"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض L شوبرسال",
+        "aliases.ar": [
+          "بيض L شوبرسال"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073515159"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض M شوبرسال",
+        "aliases.ar": [
+          "بيض M شوبرسال"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296082000066"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "L",
+        "aliases.ar": [
+          "L"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1201664"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض 3 DHA XL",
+        "aliases.ar": [
+          "بيض 3 DHA XL"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1201862"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "L",
+        "aliases.ar": [
+          "L"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073410478"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض M شوبرسال",
+        "aliases.ar": [
+          "بيض M شوبرسال"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296082000080"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_723098308291"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بيض M",
+        "aliases.ar": [
+          "بيض M"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290107954976"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوطفاتا",
+        "aliases.ar": [
+          "يوطفاتا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110568276"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا يوطفاتا",
+        "aliases.ar": [
+          "فانيليا يوطفاتا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110577254"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب \"",
+        "aliases.ar": [
+          "حليب \""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110577261"
+    },
+    "update": {
+      "$set": {
+        "name_ar": ". \"",
+        "aliases.ar": [
+          ". \""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112343420"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوطفاتا",
+        "aliases.ar": [
+          "يوطفاتا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116935607"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "GO",
+        "aliases.ar": [
+          "GO"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933191"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110324773"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب فانيليا+حليب",
+        "aliases.ar": [
+          "حليب فانيليا+حليب"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325893"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "GO",
+        "aliases.ar": [
+          "GO"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110329686"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب GO",
+        "aliases.ar": [
+          "حليب GO"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4030230"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "توت الغابة حليب",
+        "aliases.ar": [
+          "توت الغابة حليب"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290016682489"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة حليب",
+        "aliases.ar": [
+          "فراولة حليب"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313278"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب",
+        "aliases.ar": [
+          "حليب"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114312950"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب فانيليا",
+        "aliases.ar": [
+          "حليب فانيليا"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3029181"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوطفاتا زجاجة",
+        "aliases.ar": [
+          "يوطفاتا زجاجة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3029372"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب زجاجة",
+        "aliases.ar": [
+          "حليب زجاجة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3029532"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوطفاتا زجاجة 2% دسم دسم",
+        "aliases.ar": [
+          "يوطفاتا زجاجة 2% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3029907"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوطفاتا 2% دسم دسم",
+        "aliases.ar": [
+          "يوطفاتا 2% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102398560"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "مدعم تارا زجاجة",
+        "aliases.ar": [
+          "مدعم تارا زجاجة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102398669"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313124"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب",
+        "aliases.ar": [
+          "حليب"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019790174"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "1.5% دسم دسم",
+        "aliases.ar": [
+          "1.5% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019790198"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب 1.5% دسم",
+        "aliases.ar": [
+          "حليب 1.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019790181"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب 1.5% دسم",
+        "aliases.ar": [
+          "حليب 1.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019790211"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب . 1.5% دسم",
+        "aliases.ar": [
+          "حليب . 1.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3029389"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3029433"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوطفاتا",
+        "aliases.ar": [
+          "يوطفاتا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102398577"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "مدعم تارا زجاجة",
+        "aliases.ar": [
+          "مدعم تارا زجاجة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114310611"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب",
+        "aliases.ar": [
+          "حليب"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114311014"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب '",
+        "aliases.ar": [
+          "حليب '"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313117"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب",
+        "aliases.ar": [
+          "حليب"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4126872"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "تنوفا زجاجة",
+        "aliases.ar": [
+          "تنوفا زجاجة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290011438142"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب زجاجة",
+        "aliases.ar": [
+          "حليب زجاجة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4710068001692"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4710068001715"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4710068001739"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4710068006239"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بدون",
+        "aliases.ar": [
+          "بدون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110563431"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "1.6% دسم",
+        "aliases.ar": [
+          "1.6% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110563448"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "1.6% دسم",
+        "aliases.ar": [
+          "1.6% دسم"
+        ]
+      }
+    }
+  }
+]

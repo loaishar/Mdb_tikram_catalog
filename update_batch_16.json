@@ -1,0 +1,706 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4137021"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream Long Life 10% Fat",
+        "aliases.en": [
+          "Cream Long Life 10% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "The White Chef"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290106664562"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream 9% Fat",
+        "aliases.en": [
+          "Cream 9% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112343260"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream 9% Fat",
+        "aliases.en": [
+          "Cream 9% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_56951"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream 15% Fat",
+        "aliases.en": [
+          "Cream 15% Fat"
+        ],
+        "aliases.ar": [],
+        "brand_en": "The White Chef"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019790051"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream 15% Fat",
+        "aliases.en": [
+          "Cream 15% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635482"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635475"
+    },
+    "update": {
+      "$set": {
+        "name_en": "'",
+        "aliases.en": [
+          "'"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635451"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635468"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554839"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cheese 40% Fat",
+        "aliases.en": [
+          "Cheese 40% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065212"
+    },
+    "update": {
+      "$set": {
+        "name_en": "38% Fat",
+        "aliases.en": [
+          "38% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110321789"
+    },
+    "update": {
+      "$set": {
+        "name_en": "The White Chef",
+        "aliases.en": [
+          "The White Chef"
+        ],
+        "aliases.ar": [],
+        "brand_en": "The White Chef"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4011291"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": [],
+        "brand_en": "'"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188096108"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream",
+        "aliases.en": [
+          "Cream"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204370"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Cream Organic",
+        "aliases.en": [
+          "Cream Organic"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065649"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014758544"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116932033"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Mehadrin",
+        "aliases.en": [
+          "Mehadrin"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4820217240114"
+    },
+    "update": {
+      "$set": {
+        "name_en": "FERMA 82.5% Fat",
+        "aliases.en": [
+          "FERMA 82.5% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4823077630057"
+    },
+    "update": {
+      "$set": {
+        "name_en": "82.5% Fat",
+        "aliases.en": [
+          "82.5% Fat"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8175173"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Without",
+        "aliases.en": [
+          "Without"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403215"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403222"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Fat+",
+        "aliases.en": [
+          "Fat+"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403239"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Without",
+        "aliases.en": [
+          "Without"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403246"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Without",
+        "aliases.en": [
+          "Without"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403253"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3161911366429"
+    },
+    "update": {
+      "$set": {
+        "name_en": "units",
+        "aliases.en": [
+          "units"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3161911229199"
+    },
+    "update": {
+      "$set": {
+        "name_en": "units",
+        "aliases.en": [
+          "units"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635130"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635147"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_369709"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108503746"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3274932103802"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998018"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998001"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200997998"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453866"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Rich Coconut",
+        "aliases.en": [
+          "Rich Coconut"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453859"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998032"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453897"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453880"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Without",
+        "aliases.en": [
+          "Without"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998094"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Without",
+        "aliases.en": [
+          "Without"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998049"
+    },
+    "update": {
+      "$set": {
+        "name_en": "Gil",
+        "aliases.en": [
+          "Gil"
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014760141"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933894"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325619"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325626"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110327514"
+    },
+    "update": {
+      "$set": {
+        "name_en": ".",
+        "aliases.en": [
+          "."
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934150"
+    },
+    "update": {
+      "$set": {
+        "name_en": "\"",
+        "aliases.en": [
+          "\""
+        ],
+        "aliases.ar": []
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4130794"
+    },
+    "update": {
+      "$set": {
+        "name_en": "",
+        "aliases.en": [
+          ""
+        ],
+        "aliases.ar": []
+      }
+    }
+  }
+]

@@ -1,0 +1,1472 @@
+[
+  {
+    "name": "גבינת מוצרלה מגורדת 22%",
+    "brand": "Gad Dairy",
+    "size": "300 ג",
+    "description": "גבינת מוצרלה מגורדת 22% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NJT20_L_P_554600_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת מוצרלה מגורדת 22%",
+        "גבינת מוצרלה מגורדת 22% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_554600",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811170Z"
+      }
+    }
+  },
+  {
+    "name": "מק אנד צ'יז מיקס מגורר",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "מק אנד צ'יז מיקס מגורר - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/BDP58_L_P_7290017065984_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מק אנד צ'יז מיקס מגורר",
+        "מק אנד צ'יז מיקס מגורר מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065984",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811552Z"
+      }
+    }
+  },
+  {
+    "name": "פרוסות גבינת צ'דר",
+    "brand": "Gad Dairy",
+    "size": "150 ג",
+    "description": "פרוסות גבינת צ'דר - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/BDI60_L_P_7290017065977_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פרוסות גבינת צ'דר",
+        "פרוסות גבינת צ'דר מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065977",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811800Z"
+      }
+    }
+  },
+  {
+    "name": "קוביות בולגרית מעודנת 5%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "קוביות בולגרית מעודנת 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IDU54_L_P_7290011499129_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קוביות בולגרית מעודנת 5%",
+        "קוביות בולגרית מעודנת 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499129",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.812128Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה בולגרית מעודנת 5%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "גבינה בולגרית מעודנת 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ILK54_L_P_7290011499327_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה בולגרית מעודנת 5%",
+        "גבינה בולגרית מעודנת 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499327",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.812244Z"
+      }
+    }
+  },
+  {
+    "name": "פרוסות בולגרית מעודנת 5%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "פרוסות בולגרית מעודנת 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JKZ34_L_P_6492616_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פרוסות בולגרית מעודנת 5%",
+        "פרוסות בולגרית מעודנת 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6492616",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.812474Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה בולגרית 16%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "גבינה בולגרית 16% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IDD46_L_P_7290011499112_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה בולגרית 16%",
+        "גבינה בולגרית 16% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499112",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.812550Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צפתית 5% שומן",
+    "brand": "Gad Dairy",
+    "size": "350 ג",
+    "description": "גבינה צפתית 5% שומן - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NEG30_L_P_554457_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צפתית 5% שומן",
+        "גבינה צפתית 5% שומן מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_554457",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.812864Z"
+      }
+    }
+  },
+  {
+    "name": "פטה מעודנת עיזים 5%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "פטה מעודנת עיזים 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IKM48_L_P_7290011499303_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פטה מעודנת עיזים 5%",
+        "פטה מעודנת עיזים 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499303",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813100Z"
+      }
+    }
+  },
+  {
+    "name": "פטה עיזים מעודנת 16%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "פטה עיזים מעודנת 16% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ARG52_L_P_7290017065663_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פטה עיזים מעודנת 16%",
+        "פטה עיזים מעודנת 16% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065663",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813141Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה פטה כבשים 20%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "גבינה פטה כבשים 20% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IAU48_L_P_7290011499051_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה פטה כבשים 20%",
+        "גבינה פטה כבשים 20% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499051",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813181Z"
+      }
+    }
+  },
+  {
+    "name": "פטה עיזים 20% שומן",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "פטה עיזים 20% שומן - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IMP58_L_P_7290011499358_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פטה עיזים 20% שומן",
+        "פטה עיזים 20% שומן מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499358",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813300Z"
+      }
+    }
+  },
+  {
+    "name": "קוביות פטה עזים מעודנת9%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "קוביות פטה עזים מעודנת9% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FOA52_L_P_7290019635055_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קוביות פטה עזים מעודנת9%",
+        "קוביות פטה עזים מעודנת9% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635055",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813338Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה לבנה עיזים 5% גד",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "גבינה לבנה עיזים 5% גד - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JUB36_L_P_6492852_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה לבנה עיזים 5% גד",
+        "גבינה לבנה עיזים 5% גד מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6492852",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813564Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה בולגרית למריחה 5%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "גבינה בולגרית למריחה 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XSQ42_L_P_5992575_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה בולגרית למריחה 5%",
+        "גבינה בולגרית למריחה 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5992575",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813603Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מוצרלה בייבי",
+    "brand": "Gad Dairy",
+    "size": "150 ג",
+    "description": "גבינה מוצרלה בייבי - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JDX30_L_P_6492432_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מוצרלה בייבי",
+        "גבינה מוצרלה בייבי מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6492432",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813828Z"
+      }
+    }
+  },
+  {
+    "name": "כדור מוצרלה פרסקה",
+    "brand": "Gad Dairy",
+    "size": "100 ג",
+    "description": "כדור מוצרלה פרסקה - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NFL42_L_P_7290014455320_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "כדור מוצרלה פרסקה",
+        "כדור מוצרלה פרסקה מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290014455320",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813868Z"
+      }
+    }
+  },
+  {
+    "name": "בוראטה",
+    "brand": "Gad Dairy",
+    "size": "125 ג",
+    "description": "בוראטה - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FNC46_L_P_7290019635031_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בוראטה",
+        "בוראטה מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635031",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813907Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת מוצרלה 22%שומן",
+    "brand": "Gad Dairy",
+    "size": "180 ג",
+    "description": "גבינת מוצרלה 22%שומן - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NEU26_L_P_554471_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת מוצרלה 22%שומן",
+        "גבינת מוצרלה 22%שומן מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_554471",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813988Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה פרוסות 22%",
+    "brand": "Gad Dairy",
+    "size": "150 ג",
+    "description": "מוצרלה פרוסות 22% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZSA44_L_P_7290017065007_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה פרוסות 22%",
+        "מוצרלה פרוסות 22% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065007",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814106Z"
+      }
+    }
+  },
+  {
+    "name": "קוואטרו פורמאגי",
+    "brand": "Gad Dairy",
+    "size": "300 ג",
+    "description": "קוואטרו פורמאגי - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ALZ50_L_P_7290017065526_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קוואטרו פורמאגי",
+        "קוואטרו פורמאגי מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065526",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814187Z"
+      }
+    }
+  },
+  {
+    "name": "גרנה פדנו מגורדת",
+    "brand": "Gad Dairy",
+    "size": "100 ג",
+    "description": "גרנה פדנו מגורדת - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NCV46_L_P_7290014455252_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גרנה פדנו מגורדת",
+        "גרנה פדנו מגורדת מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290014455252",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814266Z"
+      }
+    }
+  },
+  {
+    "name": "חלומי גד גבינה קשה 24%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "חלומי גד גבינה קשה 24% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IMW56_L_P_7290011499365_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חלומי גד גבינה קשה 24%",
+        "חלומי גד גבינה קשה 24% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499365",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814419Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת מנצ'גו פרוסה 39%",
+    "brand": "Gad Dairy",
+    "size": "150 ג",
+    "description": "גבינת מנצ'גו פרוסה 39% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZYM50_L_P_7290017065175_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת מנצ'גו פרוסה 39%",
+        "גבינת מנצ'גו פרוסה 39% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065175",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814681Z"
+      }
+    }
+  },
+  {
+    "name": "גאודה עיזים פרוס 30%שומן",
+    "brand": "Gad Dairy",
+    "size": "150 ג",
+    "description": "גאודה עיזים פרוס 30%שומן - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FTH54_L_P_7290019635192_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גאודה עיזים פרוס 30%שומן",
+        "גאודה עיזים פרוס 30%שומן מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635192",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814720Z"
+      }
+    }
+  },
+  {
+    "name": "פקורינו פרוס 34%",
+    "brand": "Gad Dairy",
+    "size": "150 ג",
+    "description": "פקורינו פרוס 34% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/APN52_L_P_7290017065618_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פקורינו פרוס 34%",
+        "פקורינו פרוס 34% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065618",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814803Z"
+      }
+    }
+  },
+  {
+    "name": "פרוסות פקורינו 34% שומן",
+    "brand": "Gad Dairy",
+    "size": "150 ג",
+    "description": "פרוסות פקורינו 34% שומן - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FST58_L_P_7290019635178_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פרוסות פקורינו 34% שומן",
+        "פרוסות פקורינו 34% שומן מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635178",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814842Z"
+      }
+    }
+  },
+  {
+    "name": "ברי צרפתי",
+    "brand": "Gad Dairy",
+    "size": "130 ג",
+    "description": "ברי צרפתי - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FUE50_L_P_7290019635215_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ברי צרפתי",
+        "ברי צרפתי מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635215",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815051Z"
+      }
+    }
+  },
+  {
+    "name": "קממבר",
+    "brand": "Gad Dairy",
+    "size": "130 ג",
+    "description": "קממבר - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FTX52_L_P_7290019635208_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קממבר",
+        "קממבר מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635208",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815232Z"
+      }
+    }
+  },
+  {
+    "name": "גרנה פדנו משולש",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גרנה פדנו משולש - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NCO48_L_P_7290014455245_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גרנה פדנו משולש",
+        "גרנה פדנו משולש מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290014455245",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815487Z"
+      }
+    }
+  },
+  {
+    "name": "צ'דר",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "צ'דר - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AVZ58_L_P_7290017065786_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "צ'דר",
+        "צ'דר מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065786",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815850Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת קאשקבלו 26% שומן",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גבינת קאשקבלו 26% שומן - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ILY50_L_P_7290011499341_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת קאשקבלו 26% שומן",
+        "גבינת קאשקבלו 26% שומן מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499341",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816121Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה כחולה",
+    "brand": "Gad Dairy",
+    "size": "100 ג",
+    "description": "גבינה כחולה - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZYF52_L_P_7290017065168_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה כחולה",
+        "גבינה כחולה מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065168",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816160Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת שמנת 30%טבעי",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גבינת שמנת 30%טבעי - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IWV54_L_P_7290011499624_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת שמנת 30%טבעי",
+        "גבינת שמנת 30%טבעי מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499624",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816773Z"
+      }
+    }
+  },
+  {
+    "name": "גב.שמנת נ.יורק+כמהין30%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גב.שמנת נ.יורק+כמהין30% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ATW48_L_P_7290017065731_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גב.שמנת נ.יורק+כמהין30%",
+        "גב.שמנת נ.יורק+כמהין30% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290017065731",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816810Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת שמנת ריבת בצל 24%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גבינת שמנת ריבת בצל 24% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GAQ56_L_P_7290019635383_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת שמנת ריבת בצל 24%",
+        "גבינת שמנת ריבת בצל 24% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635383",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816849Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת שמנת 16%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גבינת שמנת 16% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GAC60_L_P_7290019635369_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת שמנת 16%",
+        "גבינת שמנת 16% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635369",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816902Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מרקם שמנת ט.טבעי5%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גבינה מרקם שמנת ט.טבעי5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IOY56_L_P_7290011499419_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מרקם שמנת ט.טבעי5%",
+        "גבינה מרקם שמנת ט.טבעי5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011499419",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817697Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת שמנת זיתים 5%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גבינת שמנת זיתים 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FQJ50_L_P_7290019635116_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת שמנת זיתים 5%",
+        "גבינת שמנת זיתים 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290019635116",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817738Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת לאבנה גד 5% שומן",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "גבינת לאבנה גד 5% שומן - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XYU40_L_P_5992735_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת לאבנה גד 5% שומן",
+        "גבינת לאבנה גד 5% שומן מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5992735",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.817952Z"
+      }
+    }
+  },
+  {
+    "name": "לאבנה עיזים 5% שומן גד",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "לאבנה עיזים 5% שומן גד - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JNQ40_L_P_6492685_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "לאבנה עיזים 5% שומן גד",
+        "לאבנה עיזים 5% שומן גד מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6492685",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818031Z"
+      }
+    }
+  },
+  {
+    "name": "לאבנה בשמן זית וזעתר 5%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "לאבנה בשמן זית וזעתר 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NNB34_L_P_554686_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "לאבנה בשמן זית וזעתר 5%",
+        "לאבנה בשמן זית וזעתר 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_554686",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818429Z"
+      }
+    }
+  },
+  {
+    "name": "ציזיקי למריחה 5%",
+    "brand": "Gad Dairy",
+    "size": "250 ג",
+    "description": "ציזיקי למריחה 5% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JWK34_L_P_6492913_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ציזיקי למריחה 5%",
+        "ציזיקי למריחה 5% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6492913",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818507Z"
+      }
+    }
+  },
+  {
+    "name": "גליל גבינת עיזים 16%",
+    "brand": "Gad Dairy",
+    "size": "180 ג",
+    "description": "גליל גבינת עיזים 16% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JLN30_L_P_6492630_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גליל גבינת עיזים 16%",
+        "גליל גבינת עיזים 16% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6492630",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818744Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה בגליל 22%",
+    "brand": "Gad Dairy",
+    "size": "מחיר לפי משקל",
+    "description": "מוצרלה בגליל 22% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NSA28_L_P_554815_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה בגליל 22%",
+        "מוצרלה בגליל 22% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_554815",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819362Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה מגורדת",
+    "brand": "Gad Dairy",
+    "size": "מחיר לפי משקל",
+    "description": "מוצרלה מגורדת - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GIF50_L_P_9952988_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה מגורדת",
+        "מוצרלה מגורדת מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9952988",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819414Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה גד 22% פרוס ארוז",
+    "brand": "Gad Dairy",
+    "size": "300 ג",
+    "description": "מוצרלה גד 22% פרוס ארוז - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WFC56_L_P_7296073453451_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה גד 22% פרוס ארוז",
+        "מוצרלה גד 22% פרוס ארוז מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073453451",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819465Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת צ'דר 35%",
+    "brand": "Gad Dairy",
+    "size": "200 ג",
+    "description": "גבינת צ'דר 35% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WLJ58_L_P_7296073594222_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת צ'דר 35%",
+        "גבינת צ'דר 35% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073594222",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820098Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה מעושנת גד 22%",
+    "brand": "Gad Dairy",
+    "size": "מחיר לפי משקל",
+    "description": "מוצרלה מעושנת גד 22% - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NLW30_L_P_554655_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה מעושנת גד 22%",
+        "מוצרלה מעושנת גד 22% מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_554655",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820411Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה מעושנת22% מגורדת",
+    "brand": "Gad Dairy",
+    "size": "300 ג",
+    "description": "מוצרלה מעושנת22% מגורדת - Gad Dairy",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WPM64_L_P_7296073629481_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה מעושנת22% מגורדת",
+        "מוצרלה מעושנת22% מגורדת מחלבות גד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073629481",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820450Z"
+      }
+    }
+  }
+]

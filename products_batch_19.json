@@ -1,0 +1,818 @@
+[
+  {
+    "name": "ממרח עגבניות ובזיליקום",
+    "brand": "גרין ויה",
+    "size": "200 ג",
+    "description": "ממרח עגבניות ובזיליקום - גרין ויה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SRN50_L_P_5292874002326_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ממרח עגבניות ובזיליקום",
+        "ממרח עגבניות ובזיליקום גרין ויה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5292874002326",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.834965Z"
+      }
+    }
+  },
+  {
+    "name": "לאבנה שקדים",
+    "brand": "פלנטי",
+    "size": "220 ג",
+    "description": "לאבנה שקדים - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YNM54_L_P_7290018593325_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "לאבנה שקדים",
+        "לאבנה שקדים פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593325",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.832102Z"
+      }
+    }
+  },
+  {
+    "name": "כמוצרלה קשיו",
+    "brand": "פלנטי",
+    "size": "200 ג",
+    "description": "כמוצרלה קשיו - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YCI52_L_P_7290018593035_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "כמוצרלה קשיו",
+        "כמוצרלה קשיו פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593035",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.832145Z"
+      }
+    }
+  },
+  {
+    "name": "פטה שקדים טבעי",
+    "brand": "פלנטי",
+    "size": "200 ג",
+    "description": "פטה שקדים טבעי - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YBD48_L_P_7290018593004_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פטה שקדים טבעי",
+        "פטה שקדים טבעי פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593004",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.832266Z"
+      }
+    }
+  },
+  {
+    "name": "פטה שקדים עשבי תיבול",
+    "brand": "פלנטי",
+    "size": "200 ג",
+    "description": "פטה שקדים עשבי תיבול - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YBK46_L_P_7290018593011_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פטה שקדים עשבי תיבול",
+        "פטה שקדים עשבי תיבול פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593011",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.832309Z"
+      }
+    }
+  },
+  {
+    "name": "קשיו כמהין חצי קשה",
+    "brand": "פלנטי",
+    "size": "200 ג",
+    "description": "קשיו כמהין חצי קשה - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YMO48_L_P_7290018593301_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קשיו כמהין חצי קשה",
+        "קשיו כמהין חצי קשה פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593301",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.832486Z"
+      }
+    }
+  },
+  {
+    "name": "שיוגורט מעדן שקדים",
+    "brand": "פלנטי",
+    "size": "240 ג",
+    "description": "שיוגורט מעדן שקדים - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YIT48_L_P_7290018593202_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שיוגורט מעדן שקדים",
+        "שיוגורט מעדן שקדים פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593202",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.833409Z"
+      }
+    }
+  },
+  {
+    "name": "ממרח שקדים סגנון גבינה",
+    "brand": "פלנטי",
+    "size": "240 ג",
+    "description": "ממרח שקדים סגנון גבינה - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YJY52_L_P_7290018593233_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ממרח שקדים סגנון גבינה",
+        "ממרח שקדים סגנון גבינה פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593233",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.834835Z"
+      }
+    }
+  },
+  {
+    "name": "ממרח שקדים עם זיתים",
+    "brand": "פלנטי",
+    "size": "240 ג",
+    "description": "ממרח שקדים עם זיתים - פלנטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YKF50_L_P_7290018593240_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ממרח שקדים עם זיתים",
+        "ממרח שקדים עם זיתים פלנטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290018593240",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.834882Z"
+      }
+    }
+  },
+  {
+    "name": "צהובה חריפה",
+    "brand": "כפיר",
+    "size": "מחיר לפי משקל",
+    "description": "צהובה חריפה - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KSM40_L_P_3189199_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "צהובה חריפה",
+        "צהובה חריפה כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3189199",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.832639Z"
+      }
+    }
+  },
+  {
+    "name": "פיצרלה מגורדת 22% שומן",
+    "brand": "כפיר",
+    "size": "500 ג",
+    "description": "פיצרלה מגורדת 22% שומן - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KNT34_L_P_3189076_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פיצרלה מגורדת 22% שומן",
+        "פיצרלה מגורדת 22% שומן כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3189076",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835164Z"
+      }
+    }
+  },
+  {
+    "name": "מעושן פרוס",
+    "brand": "כפיר",
+    "size": "350 ג",
+    "description": "מעושן פרוס - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SWZ34_L_P_6920836_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מעושן פרוס",
+        "מעושן פרוס כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6920836",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835221Z"
+      }
+    }
+  },
+  {
+    "name": "בנוסח צ'דר פרוס",
+    "brand": "כפיר",
+    "size": "350 ג",
+    "description": "בנוסח צ'דר פרוס - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SWS36_L_P_6920829_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בנוסח צ'דר פרוס",
+        "בנוסח צ'דר פרוס כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6920829",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835266Z"
+      }
+    }
+  },
+  {
+    "name": "הולנדית פרוס",
+    "brand": "כפיר",
+    "size": "350 ג",
+    "description": "הולנדית פרוס - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SZW28_L_P_6920911_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "הולנדית פרוס",
+        "הולנדית פרוס כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6920911",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835308Z"
+      }
+    }
+  },
+  {
+    "name": "פיקנטית פרוס",
+    "brand": "כפיר",
+    "size": "350 ג",
+    "description": "פיקנטית פרוס - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TAU34_L_P_6920935_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פיקנטית פרוס",
+        "פיקנטית פרוס כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6920935",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835350Z"
+      }
+    }
+  },
+  {
+    "name": "בנוסח מוצרלה",
+    "brand": "כפיר",
+    "size": "350 ג",
+    "description": "בנוסח מוצרלה - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SXG32_L_P_6920843_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בנוסח מוצרלה",
+        "בנוסח מוצרלה כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6920843",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835390Z"
+      }
+    }
+  },
+  {
+    "name": "צהובה מעושנת",
+    "brand": "כפיר",
+    "size": "מחיר לפי משקל",
+    "description": "צהובה מעושנת - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KVJ34_L_P_3189274_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "צהובה מעושנת",
+        "צהובה מעושנת כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3189274",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835598Z"
+      }
+    }
+  },
+  {
+    "name": "צהובה מעושנת במשק",
+    "brand": "כפיר",
+    "size": "300 ג",
+    "description": "צהובה מעושנת במשק - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WMV60_L_P_7296073594260_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "צהובה מעושנת במשק",
+        "צהובה מעושנת במשק כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073594260",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835638Z"
+      }
+    }
+  },
+  {
+    "name": "צהובה הולנדית",
+    "brand": "כפיר",
+    "size": "מחיר לפי משקל",
+    "description": "צהובה הולנדית - כפיר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/KMO30_L_P_3189045_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "צהובה הולנדית",
+        "צהובה הולנדית כפיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3189045",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835677Z"
+      }
+    }
+  },
+  {
+    "name": "טופו ויילר",
+    "brand": "משק ויילר",
+    "size": "300 ג",
+    "description": "טופו ויילר - משק ויילר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZSI30_L_P_3726615_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טופו ויילר",
+        "טופו ויילר משק ויילר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3726615",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.833450Z"
+      }
+    }
+  },
+  {
+    "name": "טופו קשה משפחתי",
+    "brand": "משק ויילר",
+    "size": "500 ג",
+    "description": "טופו קשה משפחתי - משק ויילר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZON30_L_P_3726516_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טופו קשה משפחתי",
+        "טופו קשה משפחתי משק ויילר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3726516",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.833848Z"
+      }
+    }
+  },
+  {
+    "name": "טופו במרקם קשה",
+    "brand": "טעמי אסיה",
+    "size": "1.2 קג",
+    "description": "טופו במרקם קשה - טעמי אסיה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LWF50_L_P_8888351200124_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טופו במרקם קשה",
+        "טופו במרקם קשה טעמי אסיה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8888351200124",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.833890Z"
+      }
+    }
+  },
+  {
+    "name": "טופו טרי במרקם קשה",
+    "brand": "טעמי אסיה",
+    "size": "400 ג",
+    "description": "טופו טרי במרקם קשה - טעמי אסיה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LUD50_L_P_8888351200070_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טופו טרי במרקם קשה",
+        "טופו טרי במרקם קשה טעמי אסיה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8888351200070",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.833957Z"
+      }
+    }
+  },
+  {
+    "name": "ממרח טופו בסגנון גבינה",
+    "brand": "טופוטי",
+    "size": "225 ג",
+    "description": "ממרח טופו בסגנון גבינה - טופוטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ALQ50_L_P_9720188050109_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ממרח טופו בסגנון גבינה",
+        "ממרח טופו בסגנון גבינה טופוטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9720188050109",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.834314Z"
+      }
+    }
+  },
+  {
+    "name": "ממרח טופו בסגנון שמנת",
+    "brand": "טופוטי",
+    "size": "340 ג",
+    "description": "ממרח טופו בסגנון שמנת - טופוטי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/PGF50_L_P_9720188060108_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "ממרח טופו בסגנון שמנת",
+        "ממרח טופו בסגנון שמנת טופוטי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9720188060108",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.834357Z"
+      }
+    }
+  },
+  {
+    "name": "בסגנון פטה-פטינה 21%",
+    "brand": "גולדן",
+    "size": "מחיר לפי משקל",
+    "description": "בסגנון פטה-פטינה 21% - גולדן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IUM46_L_P_5384899_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בסגנון פטה-פטינה 21%",
+        "בסגנון פטה-פטינה 21% גולדן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5384899",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835433Z"
+      }
+    }
+  },
+  {
+    "name": "סגנון פטה 21%",
+    "brand": "פברסקוב",
+    "size": "500 ג",
+    "description": "סגנון פטה 21% - פברסקוב",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/PZH28_L_P_4229740_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סגנון פטה 21%",
+        "סגנון פטה 21% פברסקוב"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4229740",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835475Z"
+      }
+    }
+  },
+  {
+    "name": "פטינה בסגנון פטה 22%",
+    "brand": "Rucker Quantum",
+    "size": "350ג",
+    "description": "פטינה בסגנון פטה 22% - Rucker Quantum",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/PUH50_L_P_7296073730330_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פטינה בסגנון פטה 22%",
+        "פטינה בסגנון פטה 22% Rucker Quantum"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073730330",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835557Z"
+      }
+    }
+  }
+]

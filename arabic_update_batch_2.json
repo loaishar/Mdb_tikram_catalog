@@ -1,0 +1,694 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114314053"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "مولر لبن مانجو 3% دسم دسم",
+        "aliases.ar": [
+          "مولر لبن مانجو 3% دسم دسم"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119376636"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون",
+        "aliases.ar": [
+          "دانون"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119375356"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون",
+        "aliases.ar": [
+          "دانون"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313070"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن دراق",
+        "aliases.ar": [
+          "لبن دراق"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114310406"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن مخفوق فراولة",
+        "aliases.ar": [
+          "لبن مخفوق فراولة"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313087"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن ليمون",
+        "aliases.ar": [
+          "لبن ليمون"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313100"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن",
+        "aliases.ar": [
+          "لبن"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112346797"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110573638"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "\" '",
+        "aliases.ar": [
+          "\" '"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290114313377"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن 6.5% دسم",
+        "aliases.ar": [
+          "لبن 6.5% دسم"
+        ],
+        "brand_ar": "مولر"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933757"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن يوبليه فراولة 3% دسم",
+        "aliases.ar": [
+          "لبن يوبليه فراولة 3% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4124205"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه فراولة 0% دسم",
+        "aliases.ar": [
+          "يوبليه فراولة 0% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_51376"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه أناناس 0% دسم",
+        "aliases.ar": [
+          "يوبليه أناناس 0% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4120108"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه 0% دسم",
+        "aliases.ar": [
+          "يوبليه 0% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4121488"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه 0% دسم دراق",
+        "aliases.ar": [
+          "يوبليه 0% دسم دراق"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4126759"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه 0% دسم توت الغابة",
+        "aliases.ar": [
+          "يوبليه 0% دسم توت الغابة"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110327637"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه كيوي 0% دسم",
+        "aliases.ar": [
+          "يوبليه كيوي 0% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112339362"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون لايت '",
+        "aliases.ar": [
+          "دانون لايت '"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110558154"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون لايت",
+        "aliases.ar": [
+          "دانون لايت"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4121525"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه دراق فراولة 3% دسم 6+2",
+        "aliases.ar": [
+          "يوبليه دراق فراولة 3% دسم 6+2"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_56883"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه 3% دسم",
+        "aliases.ar": [
+          "يوبليه 3% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_56890"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه أناناس/ 0% دسم",
+        "aliases.ar": [
+          "يوبليه أناناس/ 0% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116935829"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه فراولة 3% دسم \"",
+        "aliases.ar": [
+          "يوبليه فراولة 3% دسم \""
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933818"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه دراق 1.6% دسم",
+        "aliases.ar": [
+          "يوبليه دراق 1.6% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933825"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه فراولة1.6% دسم",
+        "aliases.ar": [
+          "يوبليه فراولة1.6% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933733"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة 1.5% دسم",
+        "aliases.ar": [
+          "فراولة 1.5% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933740"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا 1.5% دسم",
+        "aliases.ar": [
+          "فانيليا 1.5% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_44712"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة برية 1.5% دسم",
+        "aliases.ar": [
+          "فراولة برية 1.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112347473"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون لايت فراولة دراق",
+        "aliases.ar": [
+          "دانون لايت فراولة دراق"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_2824466"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن حيوي 0% دسم دسم دانون",
+        "aliases.ar": [
+          "لبن حيوي 0% دسم دسم دانون"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4584528"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن حيوي 1.7% دسم دانون",
+        "aliases.ar": [
+          "لبن حيوي 1.7% دسم دانون"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110561352"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون قليل لاكتوز",
+        "aliases.ar": [
+          "دانون قليل لاكتوز"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110573713"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون '",
+        "aliases.ar": [
+          "دانون '"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110558284"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون حيوي",
+        "aliases.ar": [
+          "دانون حيوي"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_57132"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن تنوفا 1.5% دسم",
+        "aliases.ar": [
+          "لبن تنوفا 1.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_57149"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن تنوفا 3% دسم",
+        "aliases.ar": [
+          "لبن تنوفا 3% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110328221"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن تنوفا لاكتوز",
+        "aliases.ar": [
+          "لبن تنوفا لاكتوز"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112341679"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "3% دسم دسم",
+        "aliases.ar": [
+          "3% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4129736"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "يوبليه 1.5% دسم",
+        "aliases.ar": [
+          "يوبليه 1.5% دسم"
+        ],
+        "brand_ar": "يوبليه"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_72964422"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن تنوفا 4.5% دسمدسم",
+        "aliases.ar": [
+          "لبن تنوفا 4.5% دسمدسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110565527"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون 20 غرام حليب",
+        "aliases.ar": [
+          "دانون 20 غرام حليب"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110566975"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون 20 حليب فراولة",
+        "aliases.ar": [
+          "دانون 20 حليب فراولة"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119384242"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "لبن ليمون",
+        "aliases.ar": [
+          "لبن ليمون"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112336712"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون 21 حليب 0% دسم",
+        "aliases.ar": [
+          "دانون 21 حليب 0% دسم"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112330352"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون 20 فانيليا 0% دسم",
+        "aliases.ar": [
+          "دانون 20 فانيليا 0% دسم"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112330390"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون 20 توت الغابة0% دسم",
+        "aliases.ar": [
+          "دانون 20 توت الغابة0% دسم"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112355027"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون 20",
+        "aliases.ar": [
+          "دانون 20"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119370177"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون \"",
+        "aliases.ar": [
+          "دانون \""
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119370955"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون \" فانيليا .",
+        "aliases.ar": [
+          "دانون \" فانيليا ."
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119372997"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دانون 20",
+        "aliases.ar": [
+          "دانون 20"
+        ],
+        "brand_ar": "دانون"
+      }
+    }
+  }
+]

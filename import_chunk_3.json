@@ -1,0 +1,48 @@
+[
+  {
+    "merchant_id": "68bf06365371c586220eb9f7",
+    "price": 5.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": "2025-01-31T00:00:00Z"
+      }
+    ],
+    "unit_price_info": "3.93 ש\"ח ל- 100 גרם",
+    "timestamp": "2025-09-08T19:55:48.654489Z",
+    "product_id": "68bf0a207596a1f78d625244"
+  },
+  {
+    "merchant_id": "68bf06365371c586220eb9f7",
+    "price": 5.9,
+    "stock": 0,
+    "delivery_zones": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Center",
+      "North",
+      "South"
+    ],
+    "promotions": [
+      {
+        "type": "sale",
+        "description": "מבצע שופרסל",
+        "until": "2025-01-31T00:00:00Z"
+      }
+    ],
+    "unit_price_info": "3.93 ש\"ח ל- 100 גרם",
+    "timestamp": "2025-09-08T19:55:48.654508Z",
+    "product_id": "68bf0a207596a1f78d625245"
+  }
+]

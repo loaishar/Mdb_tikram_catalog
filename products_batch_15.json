@@ -1,0 +1,1438 @@
+[
+  {
+    "name": "גבינת עיזים מוקצפת",
+    "brand": "סואניון",
+    "size": "140 ג",
+    "description": "גבינת עיזים מוקצפת - סואניון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LQR38_L_P_3523230061148_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עיזים מוקצפת",
+        "גבינת עיזים מוקצפת סואניון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3523230061148",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813683Z"
+      }
+    }
+  },
+  {
+    "name": "מדליוני בושה עיזים",
+    "brand": "סואניון",
+    "size": "150 ג",
+    "description": "מדליוני בושה עיזים - סואניון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GWD32_L_P_3523230040334_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מדליוני בושה עיזים",
+        "מדליוני בושה עיזים סואניון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3523230040334",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818784Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת בושה עיזים טבעית",
+    "brand": "סואניון",
+    "size": "125 ג",
+    "description": "גבינת בושה עיזים טבעית - סואניון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LCX42_L_P_3523230025638_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת בושה עיזים טבעית",
+        "גבינת בושה עיזים טבעית סואניון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3523230025638",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818823Z"
+      }
+    }
+  },
+  {
+    "name": "בושה עיזים שום ע.תיבול",
+    "brand": "סואניון",
+    "size": "125 ג",
+    "description": "בושה עיזים שום ע.תיבול - סואניון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LDL38_L_P_3523230025652_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בושה עיזים שום ע.תיבול",
+        "בושה עיזים שום ע.תיבול סואניון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3523230025652",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818863Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת עיזים שום ע.תיבול",
+    "brand": "סואניון",
+    "size": "140 ג",
+    "description": "גבינת עיזים שום ע.תיבול - סואניון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MYZ50_L_P_3523230026888_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עיזים שום ע.תיבול",
+        "גבינת עיזים שום ע.תיבול סואניון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3523230026888",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818903Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת עיזים",
+    "brand": "סואניון",
+    "size": "140 ג",
+    "description": "גבינת עיזים - סואניון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MWP42_L_P_3523230026826_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עיזים",
+        "גבינת עיזים סואניון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3523230026826",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818942Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת סנט מור עיזים 23%",
+    "brand": "סואניון",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת סנט מור עיזים 23% - סואניון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LEL24_L_P_8462310_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת סנט מור עיזים 23%",
+        "גבינת סנט מור עיזים 23% סואניון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8462310",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822786Z"
+      }
+    }
+  },
+  {
+    "name": "גב.בולגרית מלוחה",
+    "brand": "גבינות ניצן",
+    "size": "175 ג",
+    "description": "גב.בולגרית מלוחה - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YWS28_L_P_369037_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גב.בולגרית מלוחה",
+        "גב.בולגרית מלוחה גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_369037",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813732Z"
+      }
+    }
+  },
+  {
+    "name": "מעדן חציל+גבינה בולגרית",
+    "brand": "גבינות ניצן",
+    "size": "200 ג",
+    "description": "מעדן חציל+גבינה בולגרית - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZJI32_L_P_369365_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מעדן חציל+גבינה בולגרית",
+        "מעדן חציל+גבינה בולגרית גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_369365",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813783Z"
+      }
+    }
+  },
+  {
+    "name": "לאבנה אבו-גוש מסבחה",
+    "brand": "גבינות ניצן",
+    "size": "200 ג",
+    "description": "לאבנה אבו-גוש מסבחה - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OOY42_L_P_7290011064075_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "לאבנה אבו-גוש מסבחה",
+        "לאבנה אבו-גוש מסבחה גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011064075",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.818667Z"
+      }
+    }
+  },
+  {
+    "name": "כדורי פטה בשמן מתובל",
+    "brand": "גבינות ניצן",
+    "size": "225 ג",
+    "description": "כדורי פטה בשמן מתובל - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZTA32_L_P_369617_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "כדורי פטה בשמן מתובל",
+        "כדורי פטה בשמן מתובל גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_369617",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819024Z"
+      }
+    }
+  },
+  {
+    "name": "פינצ'וס פלפלונים+גבינה",
+    "brand": "גבינות ניצן",
+    "size": "125 ג",
+    "description": "פינצ'וס פלפלונים+גבינה - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OPW48_L_P_7290011064099_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פינצ'וס פלפלונים+גבינה",
+        "פינצ'וס פלפלונים+גבינה גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290011064099",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819067Z"
+      }
+    }
+  },
+  {
+    "name": "סלט קוביות בולגרית 25%",
+    "brand": "גבינות ניצן",
+    "size": "מחיר לפי משקל",
+    "description": "סלט קוביות בולגרית 25% - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://media.shufersal.co.il/product_images/default/M_P_default.png"
+    ],
+    "aliases": {
+      "he": [
+        "סלט קוביות בולגרית 25%",
+        "סלט קוביות בולגרית 25% גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3006021",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.823569Z"
+      }
+    }
+  },
+  {
+    "name": "פינצ'וס פלפלונים+גבינה",
+    "brand": "גבינות ניצן",
+    "size": "מחיר לפי משקל",
+    "description": "פינצ'וס פלפלונים+גבינה - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZWZ12_L_P_3006120_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פינצ'וס פלפלונים+גבינה",
+        "פינצ'וס פלפלונים+גבינה גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3006120",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826001Z"
+      }
+    }
+  },
+  {
+    "name": "לבנה אבו גוש ירוק 15%",
+    "brand": "גבינות ניצן",
+    "size": "מחיר לפי משקל",
+    "description": "לבנה אבו גוש ירוק 15% - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://media.shufersal.co.il/product_images/default/M_P_default.png"
+    ],
+    "aliases": {
+      "he": [
+        "לבנה אבו גוש ירוק 15%",
+        "לבנה אבו גוש ירוק 15% גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_369341",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826195Z"
+      }
+    }
+  },
+  {
+    "name": "חמאה מתובלת",
+    "brand": "גבינות ניצן",
+    "size": "100 ג",
+    "description": "חמאה מתובלת - גבינות ניצן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZWO34_L_P_369709_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "חמאה מתובלת",
+        "חמאה מתובלת גבינות ניצן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_369709",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.828482Z"
+      }
+    }
+  },
+  {
+    "name": "בייבי מוצרלה 18%",
+    "brand": "קאזה איטליה",
+    "size": "150 ג",
+    "description": "בייבי מוצרלה 18% - קאזה איטליה",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/BUC22_L_P_8350501_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בייבי מוצרלה 18%",
+        "בייבי מוצרלה 18% קאזה איטליה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8350501",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.813948Z"
+      }
+    }
+  },
+  {
+    "name": "מוצרלה כדור",
+    "brand": "זוקר",
+    "size": "125 ג",
+    "description": "מוצרלה כדור - זוקר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DOC42_L_P_7640101090833_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מוצרלה כדור",
+        "מוצרלה כדור זוקר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7640101090833",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814067Z"
+      }
+    }
+  },
+  {
+    "name": "פרמזנו מגורדת",
+    "brand": "zanetti",
+    "size": "90 ג",
+    "description": "פרמזנו מגורדת - zanetti",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CMD24_L_P_8175210_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פרמזנו מגורדת",
+        "פרמזנו מגורדת zanetti"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8175210",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814305Z"
+      }
+    }
+  },
+  {
+    "name": "מיני קממבר איל דה פרנס",
+    "brand": "איל דה פרנס",
+    "size": "125 ג",
+    "description": "מיני קממבר איל דה פרנס - איל דה פרנס",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TXD54_L_P_3161712996108_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מיני קממבר איל דה פרנס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3161712996108",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815191Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת פרמג'אנו",
+    "brand": "ויליפוד",
+    "size": "150 ג",
+    "description": "גבינת פרמג'אנו - ויליפוד",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QMO54_L_P_7290108506709_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת פרמג'אנו",
+        "גבינת פרמג'אנו ויליפוד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290108506709",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815530Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה חצי קשה אמנטל 28%",
+    "brand": "ויליפוד",
+    "size": "מחיר לפי משקל",
+    "description": "גבינה חצי קשה אמנטל 28% - ויליפוד",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/HZP34_L_P_5384356_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה חצי קשה אמנטל 28%",
+        "גבינה חצי קשה אמנטל 28% ויליפוד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5384356",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819823Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת צ'דר בשלה",
+    "brand": "ויליפוד",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת צ'דר בשלה - ויליפוד",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VDA20_L_P_2370161_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת צ'דר בשלה",
+        "גבינת צ'דר בשלה ויליפוד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2370161",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820139Z"
+      }
+    }
+  },
+  {
+    "name": "קשקבל צ'אנק",
+    "brand": "ויליפוד",
+    "size": "150 ג",
+    "description": "קשקבל צ'אנק - ויליפוד",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MXC54_L_P_7290108504279_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קשקבל צ'אנק",
+        "קשקבל צ'אנק ויליפוד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290108504279",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820665Z"
+      }
+    }
+  },
+  {
+    "name": "מנצ'גו צ'אנק",
+    "brand": "ויליפוד",
+    "size": "150 ג",
+    "description": "מנצ'גו צ'אנק - ויליפוד",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MXQ50_L_P_7290108504293_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מנצ'גו צ'אנק",
+        "מנצ'גו צ'אנק ויליפוד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290108504293",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820714Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת קשקבל חצי קשה",
+    "brand": "ויליפוד",
+    "size": "במשקל",
+    "description": "גבינת קשקבל חצי קשה - ויליפוד",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VHT26_L_P_2370284_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת קשקבל חצי קשה",
+        "גבינת קשקבל חצי קשה ויליפוד"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2370284",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822273Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מותכת לה וואש קירי",
+    "brand": "לה וואש קירי",
+    "size": "120 ג",
+    "description": "גבינה מותכת לה וואש קירי - לה וואש קירי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GOH54_L_P_3073781190618_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מותכת לה וואש קירי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3073781190618",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815570Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מותכת לה וואש קירי",
+    "brand": "לה וואש קירי",
+    "size": "240 ג",
+    "description": "גבינה מותכת לה וואש קירי - לה וואש קירי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GNK58_L_P_3073781190595_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מותכת לה וואש קירי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3073781190595",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815691Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מותכת לה וואש קירי",
+    "brand": "לה וואש קירי",
+    "size": "480 ג",
+    "description": "גבינה מותכת לה וואש קירי - לה וואש קירי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/PUB44_L_P_3073781161700_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מותכת לה וואש קירי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3073781161700",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815729Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת צ'דר כתום",
+    "brand": "הגבינות של נני",
+    "size": "200 ג",
+    "description": "גבינת צ'דר כתום - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OEP36_L_P_7290102300822_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת צ'דר כתום",
+        "גבינת צ'דר כתום הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102300822",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815770Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת צ'דר לבן",
+    "brand": "הגבינות של נני",
+    "size": "200 ג",
+    "description": "גבינת צ'דר לבן - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OGB38_L_P_7290102300860_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת צ'דר לבן",
+        "גבינת צ'דר לבן הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102300860",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815811Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת גאודה חצי קשה",
+    "brand": "הגבינות של נני",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת גאודה חצי קשה - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CSM32_L_P_8403863_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת גאודה חצי קשה",
+        "גבינת גאודה חצי קשה הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8403863",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819932Z"
+      }
+    }
+  },
+  {
+    "name": "טריפל צ'דר",
+    "brand": "הגבינות של נני",
+    "size": "מחיר לפי משקל",
+    "description": "טריפל צ'דר - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LIA36_L_P_4982355_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טריפל צ'דר",
+        "טריפל צ'דר הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4982355",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820177Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת צ'דר 34%",
+    "brand": "הגבינות של נני",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת צ'דר 34% - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/HSE40_L_P_9953923_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת צ'דר 34%",
+        "גבינת צ'דר 34% הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9953923",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820216Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת צ'דר כתומה 34%",
+    "brand": "הגבינות של נני",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת צ'דר כתומה 34% - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/HRX42_L_P_9953916_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת צ'דר כתומה 34%",
+        "גבינת צ'דר כתומה 34% הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9953916",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820258Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת צ'דר אנגלי כתום34%",
+    "brand": "הגבינות של נני",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת צ'דר אנגלי כתום34% - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/OGZ44_L_P_7290102300884_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת צ'דר אנגלי כתום34%",
+        "גבינת צ'דר אנגלי כתום34% הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102300884",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.820296Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת פרימדונה 30.5%",
+    "brand": "הגבינות של נני",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת פרימדונה 30.5% - הגבינות של נני",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CFW28_L_P_8403535_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת פרימדונה 30.5%",
+        "גבינת פרימדונה 30.5% הגבינות של נני"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_8403535",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.822430Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מון בלן טעם שויצרי",
+    "brand": "מון בלאן",
+    "size": "120 ג",
+    "description": "גבינה מון בלן טעם שויצרי - מון בלאן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WCK16_L_P_121093_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מון בלן טעם שויצרי",
+        "גבינה מון בלן טעם שויצרי מון בלאן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_121093",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815931Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה מון בלאן עם זיתים",
+    "brand": "מון בלאן",
+    "size": "120 ג",
+    "description": "גבינה מון בלאן עם זיתים - מון בלאן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WDA14_L_P_121109_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה מון בלאן עם זיתים"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_121109",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.815968Z"
+      }
+    }
+  },
+  {
+    "name": "מון בלאן גבינה כחולה 7%",
+    "brand": "מון בלאן",
+    "size": "120 ג",
+    "description": "מון בלאן גבינה כחולה 7% - מון בלאן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AHY24_L_P_4324605_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מון בלאן גבינה כחולה 7%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4324605",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816005Z"
+      }
+    }
+  },
+  {
+    "name": "בסגנון דנאבלו",
+    "brand": "כללי",
+    "size": "100 ג",
+    "description": "בסגנון דנאבלו - כללי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JJY28_L_P_4225285_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "בסגנון דנאבלו",
+        "בסגנון דנאבלו כללי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4225285",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816239Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה ראסטה חצי רכה 20%",
+    "brand": "כללי",
+    "size": "מחיר לפי משקל",
+    "description": "גבינה ראסטה חצי רכה 20% - כללי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://media.shufersal.co.il/product_images/default/M_P_default.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה ראסטה חצי רכה 20%",
+        "גבינה ראסטה חצי רכה 20% כללי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_3578931",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.835718Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת נפוליאון 16%",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "גבינת נפוליאון 16% - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UOR56_L_P_7290014759084_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת נפוליאון 16%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290014759084",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816318Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת נפוליאון+חלפניו25%",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "גבינת נפוליאון+חלפניו25% - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ACU50_L_P_7290014762831_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת נפוליאון+חלפניו25%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290014762831",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816355Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת נפוליאון טעם זיתים",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "גבינת נפוליאון טעם זיתים - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XDF26_L_P_4129118_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת נפוליאון טעם זיתים"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4129118",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816392Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת נפוליאון בטעם טבעי",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "גבינת נפוליאון בטעם טבעי - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XCO18_L_P_4129101_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת נפוליאון בטעם טבעי"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4129101",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816431Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת נפוליאון שום שמיר",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "גבינת נפוליאון שום שמיר - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XER28_L_P_4129156_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת נפוליאון שום שמיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4129156",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816468Z"
+      }
+    }
+  },
+  {
+    "name": "נפוליאון זעתר 25%",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "נפוליאון זעתר 25% - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AWZ54_L_P_7290116932644_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נפוליאון זעתר 25%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290116932644",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816505Z"
+      }
+    }
+  },
+  {
+    "name": "נפוליאון פלפלים פיקנטיים",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "נפוליאון פלפלים פיקנטיים - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/BNR56_L_P_7290116933078_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נפוליאון פלפלים פיקנטיים"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290116933078",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816545Z"
+      }
+    }
+  },
+  {
+    "name": "נפוליאון 16% שום שמיר",
+    "brand": "נפוליאון",
+    "size": "225 ג",
+    "description": "נפוליאון 16% שום שמיר - נפוליאון",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DLE56_L_P_7290116934365_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "נפוליאון 16% שום שמיר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290116934365",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.816583Z"
+      }
+    }
+  }
+]

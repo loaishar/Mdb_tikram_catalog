@@ -1,0 +1,653 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119380916"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة",
+        "aliases.ar": [
+          "فراولة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119380923"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_6664655"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290107938396"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة",
+        "aliases.ar": [
+          "فراولة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102031276"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة",
+        "aliases.ar": [
+          "فراولة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119374991"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بلس فراولة",
+        "aliases.ar": [
+          "بلس فراولة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_43890"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "1.5% دسم دسم في كرتون",
+        "aliases.ar": [
+          "1.5% دسم دسم في كرتون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_44248"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "في كرتون 1.5% دسمدسم",
+        "aliases.ar": [
+          "في كرتون 1.5% دسمدسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5839313"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112355812"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110573751"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290105368331"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة",
+        "aliases.ar": [
+          "فراولة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110560836"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_72940754"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا",
+        "aliases.ar": [
+          "فانيليا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_72940761"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112344755"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "26% دسم",
+        "aliases.ar": [
+          "26% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_72940952"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "تارا",
+        "aliases.ar": [
+          "تارا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290104726712"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110557447"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119384471"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112344724"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110557454"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "TRIO .",
+        "aliases.ar": [
+          "TRIO ."
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_72941041"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102395477"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290115678376"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110557133"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا",
+        "aliases.ar": [
+          "فانيليا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290119375264"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014761063"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014761070"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014761414"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102396399"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102396405"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا",
+        "aliases.ar": [
+          "فانيليا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4585907"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا 1.5% دسم دسم",
+        "aliases.ar": [
+          "فانيليا 1.5% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_72993637"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "1.5% دسم",
+        "aliases.ar": [
+          "1.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290010472390"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290104720499"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا",
+        "aliases.ar": [
+          "فانيليا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554624"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "حليب+ 3% دسم",
+        "aliases.ar": [
+          "حليب+ 3% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014455467"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290104726262"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4120061"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا 3% دسم دسم",
+        "aliases.ar": [
+          "فانيليا 3% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325084"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فانيليا",
+        "aliases.ar": [
+          "فانيليا"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290107950190"
+    },
+    "update": {
+      "$set": {
+        "name_ar": ".",
+        "aliases.ar": [
+          "."
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290107950206"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4135225"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "0.2% دسم",
+        "aliases.ar": [
+          "0.2% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5838002"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة",
+        "aliases.ar": [
+          "جبنة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290011194215"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8693134"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة 5% دسم دسم",
+        "aliases.ar": [
+          "فراولة 5% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112349606"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "فراولة",
+        "aliases.ar": [
+          "فراولة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110573515"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5838613"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "سكي جبنة فانيليا",
+        "aliases.ar": [
+          "سكي جبنة فانيليا"
+        ],
+        "brand_ar": "سكي"
+      }
+    }
+  }
+]

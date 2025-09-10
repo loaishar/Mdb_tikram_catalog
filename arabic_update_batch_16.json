@@ -1,0 +1,656 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4137021"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة طويلة الأمد 10% دسم",
+        "aliases.ar": [
+          "قشطة طويلة الأمد 10% دسم"
+        ],
+        "brand_ar": "الشيف الأبيض"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290106664562"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 9% دسم",
+        "aliases.ar": [
+          "قشطة 9% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290112343260"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 9% دسم",
+        "aliases.ar": [
+          "قشطة 9% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_56951"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 15% دسم",
+        "aliases.ar": [
+          "قشطة 15% دسم"
+        ],
+        "brand_ar": "الشيف الأبيض"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019790051"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة 15% دسم",
+        "aliases.ar": [
+          "قشطة 15% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635482"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635475"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635451"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635468"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554839"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 40% دسم",
+        "aliases.ar": [
+          "جبنة 40% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065212"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "38% دسم",
+        "aliases.ar": [
+          "38% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110321789"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "الشيف الأبيض",
+        "aliases.ar": [
+          "الشيف الأبيض"
+        ],
+        "brand_ar": "الشيف الأبيض"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4011291"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ],
+        "brand_ar": "'"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5411188096108"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة",
+        "aliases.ar": [
+          "قشطة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8000215204370"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "قشطة عضوي",
+        "aliases.ar": [
+          "قشطة عضوي"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290017065649"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014758544"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "\"",
+        "aliases.ar": [
+          "\""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116932033"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "مهدرين",
+        "aliases.ar": [
+          "مهدرين"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4820217240114"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "FERMA 82.5% دسم",
+        "aliases.ar": [
+          "FERMA 82.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4823077630057"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "82.5% دسم",
+        "aliases.ar": [
+          "82.5% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8175173"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بدون",
+        "aliases.ar": [
+          "بدون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403215"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403222"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "دسم+",
+        "aliases.ar": [
+          "دسم+"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403239"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بدون",
+        "aliases.ar": [
+          "بدون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403246"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بدون",
+        "aliases.ar": [
+          "بدون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5740900403253"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3161911366429"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "وحدات",
+        "aliases.ar": [
+          "وحدات"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3161911229199"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "وحدات",
+        "aliases.ar": [
+          "وحدات"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635130"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290019635147"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_369709"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108503746"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3274932103802"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998018"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998001"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "\"",
+        "aliases.ar": [
+          "\""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200997998"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453866"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "غني جوز الهند",
+        "aliases.ar": [
+          "غني جوز الهند"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453859"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998032"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453897"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_453880"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بدون",
+        "aliases.ar": [
+          "بدون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998094"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "بدون",
+        "aliases.ar": [
+          "بدون"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8719200998049"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جيل",
+        "aliases.ar": [
+          "جيل"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290014760141"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116933894"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325619"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110325626"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "\"",
+        "aliases.ar": [
+          "\""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290110327514"
+    },
+    "update": {
+      "$set": {
+        "name_ar": ".",
+        "aliases.ar": [
+          "."
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290116934150"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "\"",
+        "aliases.ar": [
+          "\""
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4130794"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ]
+      }
+    }
+  }
+]

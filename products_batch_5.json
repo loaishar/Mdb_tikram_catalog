@@ -1,0 +1,1505 @@
+[
+  {
+    "name": "גבינת עמק 28% מהדרין",
+    "brand": "עמק",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת עמק 28% מהדרין - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VGD30_L_P_4725426_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עמק 28% מהדרין"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4725426",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794370Z"
+      }
+    }
+  },
+  {
+    "name": "גב.עמק 28% פרוס ארוז",
+    "brand": "עמק",
+    "size": "400 ג",
+    "description": "גב.עמק 28% פרוס ארוז - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WEV58_L_P_7296073453444_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גב.עמק 28% פרוס ארוז"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073453444",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794409Z"
+      }
+    }
+  },
+  {
+    "name": "גב.עמק 28% מגורדת ארוזה",
+    "brand": "עמק",
+    "size": "300 ג",
+    "description": "גב.עמק 28% מגורדת ארוזה - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WME60_L_P_7296073453635_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גב.עמק 28% מגורדת ארוזה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073453635",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794449Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת עמק מגורדת",
+    "brand": "עמק",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת עמק מגורדת - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IIW42_L_P_9954357_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עמק מגורדת"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9954357",
+      "kosher": "כשר",
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794488Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה עמק פרוס 28%",
+    "brand": "עמק",
+    "size": "400 ג",
+    "description": "גבינה צהובה עמק פרוס 28% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SER32_L_P_4125776_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה עמק פרוס 28%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4125776",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810254Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת עמק פרוסה 28%",
+    "brand": "עמק",
+    "size": "400 ג",
+    "description": "גבינת עמק פרוסה 28% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FLV22_L_P_57118_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עמק פרוסה 28%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_57118",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810348Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה עמק פרוס 28%",
+    "brand": "עמק",
+    "size": "200 ג",
+    "description": "גבינה צהובה עמק פרוס 28% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MZV18_L_P_4122270_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה עמק פרוס 28%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4122270",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810501Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת עמק15% פרוס בקופסא",
+    "brand": "עמק",
+    "size": "200 ג",
+    "description": "גבינת עמק15% פרוס בקופסא - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/YIY12_L_P_52311_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת עמק15% פרוס בקופסא"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_52311",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810545Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה עמק דק דק28%",
+    "brand": "עמק",
+    "size": "200 ג",
+    "description": "גבינה צהובה עמק דק דק28% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FKR28_L_P_57088_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה עמק דק דק28%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_57088",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810586Z"
+      }
+    }
+  },
+  {
+    "name": "עמק סמי מעדנייה 28%",
+    "brand": "עמק",
+    "size": "600 ג",
+    "description": "עמק סמי מעדנייה 28% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AYM56_L_P_7290014763395_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "עמק סמי מעדנייה 28%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290014763395",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810905Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת טל העמק 32%",
+    "brand": "עמק",
+    "size": "200 ג",
+    "description": "גבינת טל העמק 32% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZTM32_L_P_7290110323301_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת טל העמק 32%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290110323301",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.810949Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה צהובה עמק 9% שומן",
+    "brand": "עמק",
+    "size": "400 ג",
+    "description": "גבינה צהובה עמק 9% שומן - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JGI20_L_P_4137311_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה צהובה עמק 9% שומן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4137311",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811030Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה טל העמק לייט 9%",
+    "brand": "עמק",
+    "size": "200 ג",
+    "description": "גבינה טל העמק לייט 9% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TNF30_L_P_4126674_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה טל העמק לייט 9%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4126674",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811071Z"
+      }
+    }
+  },
+  {
+    "name": "פתיתי עמק 28%",
+    "brand": "עמק",
+    "size": "500 ג",
+    "description": "פתיתי עמק 28% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WDW46_L_P_7290110320867_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פתיתי עמק 28%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290110320867",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811210Z"
+      }
+    }
+  },
+  {
+    "name": "פתיתי עמק 28%",
+    "brand": "עמק",
+    "size": "200 ג",
+    "description": "פתיתי עמק 28% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WDF38_L_P_7290110320850_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פתיתי עמק 28%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290110320850",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811335Z"
+      }
+    }
+  },
+  {
+    "name": "פרוסות גאודה עמק",
+    "brand": "עמק",
+    "size": "200 ג",
+    "description": "פרוסות גאודה עמק - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZFX50_L_P_7290116931524_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פרוסות גאודה עמק"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290116931524",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811678Z"
+      }
+    }
+  },
+  {
+    "name": "אצבעות עמק חטיף גבינה",
+    "brand": "עמק",
+    "size": "172 ג",
+    "description": "אצבעות עמק חטיף גבינה - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NPS26_L_P_4122683_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "אצבעות עמק חטיף גבינה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4122683",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811964Z"
+      }
+    }
+  },
+  {
+    "name": "אצבעות גבינת מוצרלה",
+    "brand": "עמק",
+    "size": "21.5 ג",
+    "description": "אצבעות גבינת מוצרלה - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/CLL20_L_P_4132712_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "אצבעות גבינת מוצרלה",
+        "אצבעות גבינת מוצרלה עמק"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4132712",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.812006Z"
+      }
+    }
+  },
+  {
+    "name": "טל העמק 32%",
+    "brand": "עמק",
+    "size": "מחיר לפי משקל",
+    "description": "טל העמק 32% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZRW20_L_P_53219_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טל העמק 32%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_53219",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819506Z"
+      }
+    }
+  },
+  {
+    "name": "גב.טל העמק 32% פרוס",
+    "brand": "עמק",
+    "size": "300 ג",
+    "description": "גב.טל העמק 32% פרוס - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WGH60_L_P_7296073453482_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גב.טל העמק 32% פרוס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073453482",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819546Z"
+      }
+    }
+  },
+  {
+    "name": "טל העמק 32% מגורדת ארוז",
+    "brand": "עמק",
+    "size": "300 ג",
+    "description": "טל העמק 32% מגורדת ארוז - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WNQ62_L_P_7296073453673_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טל העמק 32% מגורדת ארוז"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7296073453673",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_PACKAGE",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819587Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת טל העמק מגורדת32%",
+    "brand": "עמק",
+    "size": "מחיר לפי משקל",
+    "description": "גבינת טל העמק מגורדת32% - עמק",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IKB46_L_P_9954388_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת טל העמק מגורדת32%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_9954388",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_WEIGHT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.819624Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה לבנה סקי 5% שומן",
+    "brand": "סקי",
+    "size": "500 ג",
+    "description": "גבינה לבנה סקי 5% שומן - סקי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QTK28_L_P_2824183_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה לבנה סקי 5% שומן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2824183",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794796Z"
+      }
+    }
+  },
+  {
+    "name": "גבינה לבנה סקי 5%",
+    "brand": "סקי",
+    "size": "250 ג",
+    "description": "גבינה לבנה סקי 5% - סקי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RKZ26_L_P_2824640_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינה לבנה סקי 5%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_2824640",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794838Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת סקי5%שומן",
+    "brand": "סקי",
+    "size": "750 ג",
+    "description": "גבינת סקי5%שומן - סקי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DOD28_L_P_6664402_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת סקי5%שומן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_6664402",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.794919Z"
+      }
+    }
+  },
+  {
+    "name": "סקי מעדן גבינה בטעם וניל",
+    "brand": "סקי",
+    "size": "125 ג",
+    "description": "סקי מעדן גבינה בטעם וניל - סקי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/DZA34_L_P_5838613_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סקי מעדן גבינה בטעם וניל"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5838613",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.804462Z"
+      }
+    }
+  },
+  {
+    "name": "סקי תות",
+    "brand": "סקי",
+    "size": "125 ג",
+    "description": "סקי תות - סקי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RJQ58_L_P_7290112338877_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "סקי תות"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290112338877",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.804502Z"
+      }
+    }
+  },
+  {
+    "name": "גבינת סקי 5%",
+    "brand": "סקי",
+    "size": "125 ג",
+    "description": "גבינת סקי 5% - סקי",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/EMV42_L_P_5838972_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "גבינת סקי 5%"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_5838972",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.809357Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת עמידה לקצפת 38%",
+    "brand": "השף הלבן",
+    "size": "250 מ\"ל",
+    "description": "שמנת עמידה לקצפת 38% - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LUD20_L_P_43814_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת עמידה לקצפת 38%",
+        "שמנת עמידה לקצפת 38% השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_43814",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795077Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת להקצפה 38%",
+    "brand": "השף הלבן",
+    "size": "500 מ\"ל",
+    "description": "שמנת להקצפה 38% - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GVO24_L_P_58047_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת להקצפה 38%",
+        "שמנת להקצפה 38% השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_58047",
+      "kosher": "כשר",
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795163Z"
+      }
+    }
+  },
+  {
+    "name": "טריו פתיתים מיקס גבינות",
+    "brand": "השף הלבן",
+    "size": "300 ג",
+    "description": "טריו פתיתים מיקס גבינות - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/HLP42_L_P_7290110328504_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "טריו פתיתים מיקס גבינות",
+        "טריו פתיתים מיקס גבינות השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290110328504",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811394Z"
+      }
+    }
+  },
+  {
+    "name": "פתיתי גבינה השף הלבן",
+    "brand": "השף הלבן",
+    "size": "500 ג",
+    "description": "פתיתי גבינה השף הלבן - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/WCV24_L_P_4128432_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פתיתי גבינה השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4128432",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.811595Z"
+      }
+    }
+  },
+  {
+    "name": "פתיתי פרמזן גבינה קשה23%",
+    "brand": "השף הלבן",
+    "size": "100 ג",
+    "description": "פתיתי פרמזן גבינה קשה23% - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/MUA20_L_P_4122119_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "פתיתי פרמזן גבינה קשה23%",
+        "פתיתי פרמזן גבינה קשה23% השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4122119",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.814229Z"
+      }
+    }
+  },
+  {
+    "name": "קצפת צמחית מתיקות מעודנת",
+    "brand": "השף הלבן",
+    "size": "500 מ\"ל",
+    "description": "קצפת צמחית מתיקות מעודנת - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QUY30_L_P_4124847_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "קצפת צמחית מתיקות מעודנת",
+        "קצפת צמחית מתיקות מעודנת השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4124847",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826321Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת להקצפה 32%שומן",
+    "brand": "השף הלבן",
+    "size": "250 מ\"ל",
+    "description": "שמנת להקצפה 32%שומן - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SDF30_L_P_4125738_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת להקצפה 32%שומן",
+        "שמנת להקצפה 32%שומן השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4125738",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826647Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת לבישול 15%שומן",
+    "brand": "השף הלבן",
+    "size": "250 מ\"ל",
+    "description": "שמנת לבישול 15%שומן - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SCO22_L_P_4125721_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת לבישול 15%שומן",
+        "שמנת לבישול 15%שומן השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4125721",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.826980Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת עמידה לבישול 10%",
+    "brand": "השף הלבן",
+    "size": "250 מ\"ל",
+    "description": "שמנת עמידה לבישול 10% - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IVE18_L_P_4137021_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת עמידה לבישול 10%",
+        "שמנת עמידה לבישול 10% השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_4137021",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.827044Z"
+      }
+    }
+  },
+  {
+    "name": "שמנת לבישול 15%עם פקק",
+    "brand": "השף הלבן",
+    "size": "500 מ\"ל",
+    "description": "שמנת לבישול 15%עם פקק - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FFK26_L_P_56951_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "שמנת לבישול 15%עם פקק",
+        "שמנת לבישול 15%עם פקק השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_56951",
+      "kosher": null,
+      "health_labels": [],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.827217Z"
+      }
+    }
+  },
+  {
+    "name": "מסקרפונה השף הלבן",
+    "brand": "השף הלבן",
+    "size": "250 ג",
+    "description": "מסקרפונה השף הלבן - השף הלבן",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XNI50_L_P_7290110321789_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מסקרפונה השף הלבן"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290110321789",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.827631Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט פרופ מולר תות שדה",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "יוגורט פרופ מולר תות שדה - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QSY46_L_P_7290102390427_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט פרופ מולר תות שדה"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102390427",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795265Z"
+      }
+    }
+  },
+  {
+    "name": "יוג.קציפת אפרסק+פסיפלורה",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "יוג.קציפת אפרסק+פסיפלורה - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QUK48_L_P_7290102390465_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוג.קציפת אפרסק+פסיפלורה",
+        "יוג.קציפת אפרסק+פסיפלורה מולר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102390465",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795308Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט פרופ מולר לימון",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "יוגורט פרופ מולר לימון - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QVI54_L_P_7290102390489_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט פרופ מולר לימון"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102390489",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795349Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט מולר פירות יער",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "יוגורט מולר פירות יער - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/SVL50_L_P_7290102391844_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט מולר פירות יער"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102391844",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795392Z"
+      }
+    }
+  },
+  {
+    "name": "מולר פרופ קוקוס ואננס",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "מולר פרופ קוקוס ואננס - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/EJC56_L_P_7290102399635_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "מולר פרופ קוקוס ואננס"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290102399635",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795434Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט קציפת אננס מנגו",
+    "brand": "מולר",
+    "size": "150 ג",
+    "description": "יוגורט קציפת אננס מנגו - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ARQ46_L_P_7290114313681_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט קציפת אננס מנגו",
+        "יוגורט קציפת אננס מנגו מולר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114313681",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795476Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט+קציפת פירות יער",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "יוגורט+קציפת פירות יער - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZTP42_L_P_7290114313056_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט+קציפת פירות יער",
+        "יוגורט+קציפת פירות יער מולר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114313056",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795518Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט עם קציפת קיווי",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "יוגורט עם קציפת קיווי - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZTW40_L_P_7290114313063_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט עם קציפת קיווי",
+        "יוגורט עם קציפת קיווי מולר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114313063",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795560Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט פרופ קציפת מנגו3%",
+    "brand": "מולר",
+    "size": "150 ג",
+    "description": "יוגורט פרופ קציפת מנגו3% - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/XGI46_L_P_7290114311359_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט פרופ קציפת מנגו3%",
+        "יוגורט פרופ קציפת מנגו3% מולר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114311359",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795618Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט קציפת ליצ'י קוקוס",
+    "brand": "מולר",
+    "size": "150 ג",
+    "description": "יוגורט קציפת ליצ'י קוקוס - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ARJ48_L_P_7290114313674_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט קציפת ליצ'י קוקוס",
+        "יוגורט קציפת ליצ'י קוקוס מולר"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114313674",
+      "kosher": null,
+      "health_labels": [
+        "ללא גלוטן",
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795669Z"
+      }
+    }
+  },
+  {
+    "name": "יוגורט פרופ מולר אשכולית",
+    "brand": "מולר",
+    "size": "150 מ\"ל",
+    "description": "יוגורט פרופ מולר אשכולית - מולר",
+    "category_id": {
+      "$oid": "68bef17f5371c586220eb9ea"
+    },
+    "image_urls": [
+      "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZEJ42_L_P_7290114312660_1.png"
+    ],
+    "aliases": {
+      "he": [
+        "יוגורט פרופ מולר אשכולית"
+      ],
+      "en": [],
+      "ar": []
+    },
+    "metadata": {
+      "shufersal_id": "P_7290114312660",
+      "kosher": null,
+      "health_labels": [
+        "ללא חומרים משמרים"
+      ],
+      "sales_method": "BY_UNIT",
+      "imported_at": {
+        "$date": "2025-09-08T19:38:33.795710Z"
+      }
+    }
+  }
+]

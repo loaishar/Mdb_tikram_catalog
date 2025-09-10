@@ -1,0 +1,666 @@
+[
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8695543007924"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة",
+        "aliases.ar": [
+          "جبنة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5079290"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "نوعام جبنة صفراء 15% دسم مزرعة",
+        "aliases.ar": [
+          "نوعام جبنة صفراء 15% دسم مزرعة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9956078"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "نوعام 15% دسم مبشورة",
+        "aliases.ar": [
+          "نوعام 15% دسم مبشورة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453536"
+    },
+    "update": {
+      "$set": {
+        "name_ar": ".نوعام 15% دسم شرائح معبأ",
+        "aliases.ar": [
+          ".نوعام 15% دسم شرائح معبأ"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073626657"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "نوعام 15% دسم شرائح",
+        "aliases.ar": [
+          "نوعام 15% دسم شرائح"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9954234"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة صفراء 9% دسم قالب",
+        "aliases.ar": [
+          "جبنة صفراء 9% دسم قالب"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554815"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "22% دسم",
+        "aliases.ar": [
+          "22% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9952988"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "مبشورة",
+        "aliases.ar": [
+          "مبشورة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453451"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جاد 22% دسم شرائح معبأ",
+        "aliases.ar": [
+          "جاد 22% دسم شرائح معبأ"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_53219"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "عيمك 32% دسم",
+        "aliases.ar": [
+          "عيمك 32% دسم"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453482"
+    },
+    "update": {
+      "$set": {
+        "name_ar": ". عيمك 32% دسم شرائح",
+        "aliases.ar": [
+          ". عيمك 32% دسم شرائح"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453673"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "عيمك 32% دسم مبشورة معبأ",
+        "aliases.ar": [
+          "عيمك 32% دسم مبشورة معبأ"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9954388"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة عيمك مبشورة32% دسم",
+        "aliases.ar": [
+          "جبنة عيمك مبشورة32% دسم"
+        ],
+        "brand_ar": "عيمك"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4725600"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 31% دسم",
+        "aliases.ar": [
+          "جبنة 31% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453512"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "31% دسم شرائح",
+        "aliases.ar": [
+          "31% دسم شرائح"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9957266"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة مبشورة",
+        "aliases.ar": [
+          "جبنة مبشورة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5079412"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة نوعام 30% دسم",
+        "aliases.ar": [
+          "جبنة نوعام 30% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5384356"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 28% دسم",
+        "aliases.ar": [
+          "جبنة 28% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1258101"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "28% دسم",
+        "aliases.ar": [
+          "28% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_8403863"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة",
+        "aliases.ar": [
+          "جبنة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_5384295"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 28% دسم",
+        "aliases.ar": [
+          "جبنة 28% دسم"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_571126"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "30% دسم",
+        "aliases.ar": [
+          "30% دسم"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_571119"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 30% دسم دسم",
+        "aliases.ar": [
+          "جبنة 30% دسم دسم"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073594222"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة ' 35% دسم",
+        "aliases.ar": [
+          "جبنة ' 35% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_2370161"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة '",
+        "aliases.ar": [
+          "جبنة '"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4982355"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9953923"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة ' 34% دسم",
+        "aliases.ar": [
+          "جبنة ' 34% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9953916"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة ' 34% دسم",
+        "aliases.ar": [
+          "جبنة ' 34% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290102300884"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة ' 34% دسم",
+        "aliases.ar": [
+          "جبنة ' 34% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_3578085"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة",
+        "aliases.ar": [
+          "جبنة"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_9139198"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة مبشورة",
+        "aliases.ar": [
+          "جبنة مبشورة"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554655"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جاد 22% دسم",
+        "aliases.ar": [
+          "جاد 22% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073629481"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "22% دسم مبشورة",
+        "aliases.ar": [
+          "22% دسم مبشورة"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_2511571"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 22% دسم",
+        "aliases.ar": [
+          "جبنة 22% دسم"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073707073"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 22% دسم مبشورة",
+        "aliases.ar": [
+          "جبنة 22% دسم مبشورة"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554754"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "19% دسم",
+        "aliases.ar": [
+          "19% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_554990"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "19% دسم دسم",
+        "aliases.ar": [
+          "19% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108504279"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108504293"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "' '",
+        "aliases.ar": [
+          "' '"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108504286"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "'",
+        "aliases.ar": [
+          "'"
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290108506624"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1258736"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة 27% دسم",
+        "aliases.ar": [
+          "جبنة 27% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1258583"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة ' 30% دسم",
+        "aliases.ar": [
+          "جبنة ' 30% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073453314"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "جبنة ' معبأ",
+        "aliases.ar": [
+          "جبنة ' معبأ"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7290117265772"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "",
+        "aliases.ar": [
+          ""
+        ],
+        "brand_ar": "حليب"
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_4068585"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "30% دسم",
+        "aliases.ar": [
+          "30% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073593768"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "26% دسم دسم",
+        "aliases.ar": [
+          "26% دسم دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073594215"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "26% دسم",
+        "aliases.ar": [
+          "26% دسم"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_7296073644989"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "26% دسم مبشورة جاد",
+        "aliases.ar": [
+          "26% دسم مبشورة جاد"
+        ]
+      }
+    }
+  },
+  {
+    "filter": {
+      "metadata.shufersal_id": "P_1258149"
+    },
+    "update": {
+      "$set": {
+        "name_ar": "30% دسم",
+        "aliases.ar": [
+          "30% دسم"
+        ]
+      }
+    }
+  }
+]
